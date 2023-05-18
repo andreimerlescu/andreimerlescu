@@ -1,12 +1,6 @@
-### Hi there 👋, I invited ...
+### Hi there 👋, 
 
-![](https://projectapario.com/assets/2023Logo_666w-e2f2736f012bf796e58e2f911b4d6b55ce0558299725e1cb3d83cbbc6ad3dcaf.png)
-
-**which is written in Ruby on Rails and supported by MongoDB and Redis.**
-
-I am actively working on rewriting the application in Go.
-
-It's easier said than done. Nevertheless, the learning opportunities presented are exciting.
+I enjoy writing Go. Here's a fun micro-project that I did to explore what happens when you try to close a closed channel... what if I didn't want a panic to get thrown? Is it possible? Why yes it is!
 
 **safe_close.go**
 ```go
