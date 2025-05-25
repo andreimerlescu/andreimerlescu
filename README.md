@@ -471,7 +471,7 @@ https://github.com/andreimerlescu/topobuilder
 
 ### `stronghold` A tool for securely exposing path keyed key/value secrets to a host using S3 GPG Encryption and `universal-iam` permissions of securing read/write permissions on the Stronghold
 
-This package is designed to allow me to create a GPG encrypted `.asc` file, store it in S3, with versioning and object locking enabled upon bucket creation such that the stronghold vault storage will be an S3 target. When `stronghold` boots, it relies on its IAM access and an environment variable that contains its access key into the stronghold, the key unlocks the stronghold for that user. Once the stronghold is loaded in the system, decrypted by the AES encryption key, the remaining `.asc` is GPG armored and requires unsealing keys in order to access the secrets contained. These secrets then get exposed on `GET https://127.0.0.1:1776/stronghold/get?path=my/secret/path&field=keyName` or `POST https://127.0.0.1:1776/stronghold/set?path=my/secret/path  {"keyName": "valueOne", "keyTwo": "valueTwo"}`. When new secerts are created, the secrets get locked in S3, a new record is committed, and then all hosts receive the new `stronghold` file through a sync mechanism that runs every minute. Stronghold is currently in development and is closed source at the moment. Because of its security implications in running it in production, it's designed to solve a very business specific need. It's not needed for open-source development projects or anything that isn't explicitly sensitive. Therefore, to use this software, reach out to me, and show me that you hold over 33M $APARIO or over 33M $THOTH, or 33M $IAM, or $33B $YAHUAH, 33B $RAHKI, 1M $PLAYANDPROSPER then you'll automatically qualify for access to the stronghold project and a non-disclosure agreement will be presented to you where the source of the project remains the intellectual property of Andrei Merlescu and use of the software comes with no assurances, guarantees or refunds of any kind. Use of the software is considered volunteer good-faith services to improve your brand without assuming any liability. It's to help not to harm and I do not want to be harmed when I help, so those are the terms. The crypto token projects are not financial advice and I am the developer of those tokens. I have projects planned for all of them. I believe in my rock, Yeshua, and I know that it will happen at the right time. Each project has its own purpose and will NOT be built by me, but by my team instead!
+This package is designed to allow me to create a GPG encrypted `.asc` file, store it in S3, with versioning and object locking enabled upon bucket creation such that the stronghold vault storage will be an S3 target. When `stronghold` boots, it relies on its IAM access and an environment variable that contains its access key into the stronghold, the key unlocks the stronghold for that user. Once the stronghold is loaded in the system, decrypted by the AES encryption key, the remaining `.asc` is GPG armored and requires unsealing keys in order to access the secrets contained. These secrets then get exposed on `GET https://127.0.0.1:1776/stronghold/get?path=my/secret/path&field=keyName` or `POST https://127.0.0.1:1776/stronghold/set?path=my/secret/path  {"keyName": "valueOne", "keyTwo": "valueTwo"}`. When new secerts are created, the secrets get locked in S3, a new record is committed, and then all hosts receive the new `stronghold` file through a sync mechanism that runs every minute. Stronghold is currently in development and is closed source at the moment. Because of its security implications in running it in production, it's designed to solve a very business specific need. It's not needed for open-source development projects or anything that isn't explicitly sensitive. Therefore, to use this software, reach out to me, and show me that you hold over 33M $APARIO or over 33M $THOTH, or 33M $IAM, or 369,369,369,369+ $YAHUAH, 33B $RAHKI, 1M $PLAYANDPROSPER then you'll automatically qualify for access to the stronghold project and a non-disclosure agreement will be presented to you where the source of the project remains the intellectual property of Andrei Merlescu and use of the software comes with no assurances, guarantees or refunds of any kind. Use of the software is considered volunteer good-faith services to improve your brand without assuming any liability. It's to help not to harm and I do not want to be harmed when I help, so those are the terms. The crypto token projects are not financial advice and I am the developer of those tokens. I have projects planned for all of them. I believe in my rock, Yeshua, and I know that it will happen at the right time. Each project has its own purpose and will NOT be built by me, but by my team instead!
 
 https://github.com/andreimerlescu/stronghold
 
@@ -597,7 +597,80 @@ https://github.com/andreimerlescu/encrypted-luks-workspace
 
 ### `configure-ebs` A tool for configuring AWS EBS instances attached to running Linux hosts
 
-This utility is written in Bash and is designed to run on an EC2 instance in AWS. When a new EBS is attached to the EC2, `configure-ebs.sh` can let you mount/configure your `fstab` automatically based on the provided `vol-<id>` from AWS's console interface. 
+This utility is written in Bash and is designed to run on an EC2 instance in AWS. When a new EBS is attached to the EC2, `configure-ebs.sh` can let you mount/configure your `fstab` automatically based on the provided `vol-<id>` from AWS's console interface. This script was built so I could create an EC2 instance for GitLab Self-Hosted where I wanted to assign an EBS device for each of the various sub-components of GitLab. I ran: 
+
+```bash
+# GitLab Registry
+./configure-ebs.sh --device "/dev/nvme1n1" \
+                   --label "gitlab_registry" \
+                   --mount "/var/opt/gitlab/gitlab-rails/shared/registry" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# Git Large File Storage
+./configure-ebs.sh --device "/dev/nvme2n1" \
+                   --label "gitlab_lfs_objects" \
+                   --mount "/var/opt/gitlab/gitlab-rails/shared/lfs-objects" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# Artifacts
+./configure-ebs.sh --device "/dev/nvme3n1" \
+                   --label "gitlab_artifacts" \
+                   --mount "/var/opt/gitlab/gitlab-rails/shared/artifacts" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# Public Uploads
+./configure-ebs.sh --device "/dev/nvme4n1" \
+                   --label "gitlab_uploads" \
+                   --mount "/opt/gitlab/embedded/service/gitlab-rails/public" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# Terraform State
+./configure-ebs.sh --device "/dev/nvme5n1" \
+                   --label "gitlab_terraform_state" \
+                   --mount "/var/opt/gitlab/gitlab-rails/shared/terraform_state" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# CI Secure Files
+./configure-ebs.sh --device "/dev/nvme6n1" \
+                   --label "gitlab_ci_secure_files" \
+                   --mount "/var/opt/gitlab/gitlab-rails/shared/ci_secure_files" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+# Backup Directory
+./configure-ebs.sh --device "/dev/nvme7n1" \
+                   --label "gitlab_backups" \
+                   --mount "/var/opt/gitlab/backups" \
+                   --fs "xfs" \
+                   --fstrim "on"
+
+
+```
+
+This permits me to have `backups`, `ci_secure_files`, `terraform_state`, `public`, `artifacts`, `lfs-objects`, and `registry` as separate EBS volumes. Things like `lfs-objects`; why would I want `registry` to take away from the limit of 16TB per EBS? With this configuration, including the `root` drive at `/`, I have a maximum capacity of 16TB x 8 = 128TB of available storage where I'd be able to pay the minimal costs at `gp3` baseline performance for that capacity. For things like `terraform_state`, this can be an IO1 EBS and the [disk-speed](https://github.com/andreimerlescu/disk-speed) project can give you MB/s read/write speeds for the mounted directory inside `/var/opt/gitlab/gitlab-rails/shared/terraform_state` where you can run:
+
+```bash
+sh <(curl -sL https://raw.githubusercontent.com/andreimerlescu/disk-speed/main/disk-speed.sh) --path . --size 100M --no-sudo
+```
+
+yields:
+
+```log
+Path: .
+Device: /dev/nvme0n1p1
+
+Write Speed: 340.110 MB/s (took .294022381s to write 100M)
+Read Speed: 325.024 MB/s (took .307669007s to read 100M)
+```
+
+That is sufficient for the `terraform-state` for GitLab. The registry can have its own speed and costs, and you can tag your volumes accordingly and keep tracking of billing that way. 
+
+If you want me to set this up for your GitLab Self-Managed instance, it can be provided to you by showing me that you own at least 50M $APARIO tokens or 170B+ $YAHUAH or 17+M $XPQ or 1+M $PLAYANDPROSPER or 369M+ $RAHKI tokens. Your preference on which to choose, but its not financial advice and these XRP tokens can be used for whatever purpose you choose. I plan on building with them, but I am not giving you financial advice. I am saying that if you want me to run for you `configure-ebs.sh` on your Self-Hosted GitLab server, I would be more than happy to do it for you, but to show me that you sow seeds where you wish to reap, I ask that you do it this way and then I'll help you run this script. I don't get paid when those tokens are purchased/held as they are managed by the blockchain's smart contracts and XPMarket's issued AMM liquidity pools that support the token and its holders. When the token value surges because of these kind of transactions, other wallet holders will buy/sell as they please. I am holding onto my tokens and am not spending them on things. I need them. 
 
 https://github.com/andreimerlescu/configure-ebs
 
@@ -605,17 +678,110 @@ https://github.com/andreimerlescu/configure-ebs
 
 This utility provides packages called `basic`, `fibonacci`, `filesystem`, `hashing`, `spacetime`, `temere`, `version`. 
 
+```go
+package main
+
+import (
+   "fmt"
+
+   "github.com/andreimerlescu/go-common/temere/v2"
+)
+
+func main(){
+   mathRandString := temere.String(32) // random 32 character string using math.Rand
+   cryptoRandInt := temere.Integer(8) // random integer up to limit (8) using crypto.Rand
+   numberInRange := temere.RangeInteger(1,999) // random integer using crypto.Rand between 1,999
+
+   fmt.Println(mathRandString, cryptoRandInt, numberInRange)
+}
+
+```
+
+[GoPlay.tools](https://goplay.tools/snippet/Mx36bFCuMKp)
+
 https://pkg.go.dev/github.com/andreimerlescu/go-common
 
 ### `textee` A utility for calculating substrings
 
 Textee is the idea that a long string, like a paragraph or output of `tesseract` can be reduced into substrings of up to 1-3 words and then ranked by quantity of substring found within the result. Combine this with with the `gematria` tool, you'll understand why `apario-search` has 13 types of searches that it conducts.
 
+```go
+package main
+
+import (
+    "fmt"
+    "os"
+    "errors"
+
+    "github.com/andreimerlescu/textee"
+)
+
+const inputString = `All right let's move from this point on 16 March 84, let's move in time to our second location which is a specific building near where you are now. Are you ready? Just a minute. All. right, I will wait. All right, move now from this area to the front ground level of the building known as the Menara Building, to the front of, on the ground, the Menara Building.`
+
+func main() {
+    // just calculate the substrings (no Gematria)
+    tt1, err := textee.NewTextee(inputString)
+    if err != nil {
+        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err))
+    }
+
+    // calculate a new substring with Gematria 
+    var err2 error
+    tt1, err2 = tt1.CalculateGematria()
+    if err2 != nil {
+        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err2))
+    }
+    for substring, quantity := range tt1.Substrings {
+        fmt.Printf("substring '%v' has %d occurrences\n", substring, quantity.Load())
+    }
+
+    // combine them together
+    tt2, err3 := textee.NewTextee(inputString)
+    if err3 != nil {
+        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err3))
+    }
+    var err4 error
+    tt2, err4 = tt2.CalculateGematria()
+    if err4 != nil {
+        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err4))
+    }
+    fmt.Println(tt2)
+
+    // sort the substrings by the quantity of occurrences in the original string, most common are first
+    sortedSubstrings := tt2.SortedSubstrings()
+    for idx, substring := range sortedSubstrings {
+        fmt.Printf("%d: substring '%v' has %d occurrences\n", idx, substring.Substring, substring.Quantity)
+    }
+}
+
+```
+
+[GoPlay.tools](https://goplay.tools/snippet/l9zpFIwqa67)
+
 https://github.com/andreimerlescu/textee
 
 ### `gematria` A utility for calculating 6 types of Gematria
 
 Gematria is the idea that each letter corresponds to a number, and the sum of the digits represents the Gematria value of a given string. The Gematria package offers this to programmers using Go who wish to manipulate their data using Go and Gematria. 
+
+```go
+package main
+
+import (
+	"fmt"
+	"github.com/andreimerlescu/gematria"
+)
+
+func main(){
+	name := "yah i love yahuah and yah i am saint andrei"
+	gematria := gematria.FromString(name)
+	fmt.Printf("name = %v ; gematria = %v", name, gematria)
+}
+```
+
+[GoPlay.tools](https://goplay.tools/snippet/9YVcsz7C2UI)
+
+Of course numerology reveals to you that in Simple Gematria that phrase is 306 which if 0 is 9 according Nikola Tesla, then 396 can be arranged as 369 which would make Nikola Tesla very happy. Seems like the numbers have meaning, I wonder what the original string was that yielded I AM from Iodine (53 w/ 126.904) and Americium (95 w/ 243.061) gives you with the two larger numbers 369.965, so in essence "I AM = 369" and so if "yah i love yahuah and yah i am saint andrei" = 369 = "I AM". Hrm. Was Nikola Tesla onto something here?
 
 https://github.com/andreimerlescu/gematria
 
