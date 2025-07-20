@@ -785,6 +785,50 @@ Of course numerology reveals to you that in Simple Gematria that phrase is 306 w
 
 https://github.com/andreimerlescu/gematria
 
+### IP IsHere Dev
+
+I can't count how many times I've asked, "what's my IP address?" and then immediately after trying to find a service that provides easy API access to such information, I am confronted 
+with the harsh truth of advertising and tracking. Therefore, I created [IP IsHere Dev](https://github.com/andreimerlescu/ip.ishere.dev) that provides you with a clean API that provides
+you with your WAN IP address, upon request - without tracking. You run it. That's how there's no tracking! The source code is open and available for all, but its also hosted at the 
+URL [ip.ishere.dev](https://ip.ishere.dev). Interfacing with it is easy: 
+
+```bash
+curl -sL ip.ishere.dev | grep IPv4 | awk '{print $2}'
+```
+
+### Go INI
+
+I created [Go INI](https://github.com/andreimerlescu/goini) that provides quick and easy access to manipulate and validate `.ini` files that you come across. For instance, the file
+`~/.aws/credentials` and `~/.aws/config` are both **INI** files, and as such, they can be used against this binary for easy testing/verification purposes. 
+
+There are two ways to install `goini`, the first is without using `Go` directly: 
+
+```bash
+curl -sL https://github.com/andreimerlescu/goini/releases/download/v1.0.0/goini-linux-amd64 \
+         --ouput /tmp/goini
+chmod +x /tmp/goini
+sudo mv /tmp/goini /usr/local/bin/goini
+which goini
+```
+
+And the second way is using `go install`...
+
+```bash
+go install github.com/andreimerlescu/goini@latest
+```
+
+You can use it against your system like so: 
+
+```bash
+goini -ini ~/.aws/config --section "profile sandbox" --json --list-keys
+[
+  "region",
+  "output"
+]
+```
+
+Other systems that actively use `.ini` files that I regularly use include Ansible, AWS, and some other projects. Overall, I created this tool so I could more programatically interact with `.ini` files as I need. Feel free to leverage this tool in your workflow as well!
+
 ## Purpose of this page 
 
 Well, I have had my GitHub profile for a very long time. I express who I am online through my contributions and while I stopped contributing to normal social media, my contributions are in the form of building open source software. If you want to support my efforts, you know what to do. I have opened the windows of opportunity for those who have faith to sow seeds where they wish to reap. The major engineering effort of the Apario Reader / Writer / Search trio powered by another trio of software like textee, gematria, and figtree. The summarize package levels me up with AI prompts on Grok and Co-Pilot. If you commit your summaries, then "versions" of your code will be preserved "all-in-one" that you can ask Co-Pilot to compare explicit verion implementations without looking at actual git-tree history. For real programmers, that matters. Sometimes, you just want to know whats going on between two revisions only; and this gives you that ability. It gives me the ability too. Additionally, when I am deploying apps with Topobuilder, I am using the `encrypted-luks-workspace` to securely keep copies of the secrets protected in archive form and mounted while the host is running with an automatic unsealing mechanism built into the systemd on boot enabled. These projects are intended to help you too. If you find any use in them, make sure to add a STAR ⭐! 
