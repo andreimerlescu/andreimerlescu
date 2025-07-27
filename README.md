@@ -2,114 +2,6 @@
 
 I enjoy writing Go. Here's a fun micro-project that I did to explore what happens when you try to close a closed channel... what if I didn't want a panic to get thrown? Is it possible? Why yes it is!
 
-**safe_close.go**
-```go
-package main
-
-func safeClose[T any](ch chan T) (closed bool) {
-	// allow panic
-	defer func() {
-		if r := recover(); r != nil {
-			closed = true
-			return
-		}
-	}()
-	_, chOpen := <-ch
-	if chOpen {
-		closed = true
-		close(ch)
-	} else {
-		closed = false
-	}
-	return
-}
-````
-
-**safe_close_test.go**
-```go
-package main
-
-import (
-	"github.com/stretchr/testify/assert"
-	"testing"
-)
-
-func Test_safeClose(t *testing.T) {
-	type args[T any] struct {
-		ch chan T
-	}
-	type testCase[T any] struct {
-		name string
-		args args[T]
-		want bool
-	}
-
-	// open channel with bool in buffer
-	ch1 := make(chan bool, 1)
-	ch1 <- true
-
-	// closed channel with bool in buffer
-	ch2 := make(chan bool, 1)
-	ch2 <- false
-	close(ch2)
-
-	// closed channel with empty buffer
-	ch3 := make(chan bool, 1)
-	close(ch3)
-
-	tests := []testCase[bool]{
-		{
-			name: "open channel with bool in buffer",
-			args: args[bool]{ch1},
-			want: true,
-		},
-		{
-			name: "closed channel with bool in buffer",
-			args: args[bool]{ch2},
-			want: true,
-		},
-		{
-			name: "closed channel with empty buffer",
-			args: args[bool]{ch3},
-			want: false,
-		},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			assert.Equal(t, tt.want, safeClose(tt.args.ch))
-		})
-	}
-}
-
-```
-
-Then **go** run it....
-
-
-```sh
-go test .
-```
-
-Which returns:
-
-```txt
-=== RUN   Test_safeClose
---- PASS: Test_safeClose (0.00s)
-=== RUN   Test_safeClose/open_channel_with_bool_in_buffer
-    --- PASS: Test_safeClose/open_channel_with_bool_in_buffer (0.00s)
-=== RUN   Test_safeClose/closed_channel_with_bool_in_buffer
-    --- PASS: Test_safeClose/closed_channel_with_bool_in_buffer (0.00s)
-=== RUN   Test_safeClose/closed_channel_with_empty_buffer
-    --- PASS: Test_safeClose/closed_channel_with_empty_buffer (0.00s)
-PASS
-
-Process finished with the exit code 0
-```
-
-> [Check it out in the Go Playground...](https://go.dev/play/p/Z3HoVxJysLv)
-
-<a href='https://ko-fi.com/P5P36GT3H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 ## Projects
 
 I am a freelance software engineer architecting platforms written in Go that run on Rocky 9 Linux with SELinux enforcing. I am a professional DevOps Architect who uses Docker, Terraform, Ansible, Bash, GitHub Actions, GitLab CI/CD YAML, and builds for cloud providers like AWS, OCI and OpenStack. I avoid using Azure. I prefer cloud platforms that are built without windows in mind, the universe is much bigger than a window and limiting yourself to such, to me, doesn't make too much sense. Doing what I do on Windows was painful and I experienced it at WB Games. I ended up using a Rocky 9 Linux VM instead full time. 
@@ -125,6 +17,40 @@ I spent the last few hours thinking and praying on the words to write in this po
 I love writing software. I write software for free for all to use it. I use it. I eat my own dog food. LOL I am the type of person that is, you wanna use my code, lets talk if you want to talk. I am all ears. I will not speak in the hearing of a fool, but I am not a fool to turn down listening when there is an opportunity to help you advance if it costs me just replying. The JFK files are hosted at https://jfkfiles.info and the DIA STAR GATE files are hosted at https://idoread.com and the Project Minnesota Election Integrity efforts of Erik are at https://electionselections.com. I have collections in the pipeline that will include the https://teslafiles.info and the https://stargatefiles.info. You can make your own instance! The software is free. It's battle tested. Highly configurable, and my more recent work is very well tested. The `igo` package has a testing suite to it that is both unit level testing and integration testing through a `run-on-local.sh` and the `tester.sh` underlying test script that dockerizes the test environment and battle tests the `igo` utility. Perhaps I need to consider a fuzz test on the unit test to find corner cases of bad input. 
 
 In my `figtree` package, I reflected upon a near death experience that I had last year where I believe I met my creator. He introduced Himself to me as Yeshua the KING OF THE JEWS and that I am a programmer because He is a programmer. And I thought, let me intentionally see if I can unpack the story of the figtree through code. The terms used in the package are unique and faith inspired. I don't believe in dogma. If you asked me what I believe, be prepared to hear an 8 hour response. I understand much since stepping foot out of the orphanage. 
+
+### Bump
+
+I built Bump in a single day. It's designed to work with a VERSION file and work with the `v1.0.0` string inside of it that is handled by a `go:embed` on the `VERSION` file in the `Version()`
+func. It's a convention that I use for my Go binaries, and the `bump` binary allows me to programatically interact with the `VERSION` file across projects using `bump`. 
+
+```bash
+[ ! -d ~/work ] && mkdir -p ~/work
+go install github.com:andreimerlescu/bump@latest
+git clone git@github.com:andreimerlescu/prettyboy.git
+cd prettyboy
+
+bump -check
+v1.0.1
+
+bump -patch
+Bumped v1.0.1 -> v1.0.2
+
+bump -patch -write
+Bumped v1.0.1 -> v1.0.2 (Saved to VERSION)
+
+bump -check
+v1.0.2
+```
+
+### Pretty Boy
+
+This utility is designed to offer a BubbleTea interactive menu to browse the `history` contents. Plans include to add the `.hist` directory and parse through `.gz` files to index them and make them part of the application, then provide an easy interface around history browsing. 
+
+```bash
+go install github.con:andreimerlescu/prettyboy@latest
+
+prettyboy history
+```
 
 ### Certificate Authority 
 
