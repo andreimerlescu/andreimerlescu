@@ -1,26 +1,6 @@
 ### Hi there 👋, 
 
-My name is Andrei. I was born in Romania, grew up for some time in an orphanage there, was adopted to America and studied computer engineering at Wentworth. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications that I built. Newer packages are powered by `figtree` and older packages are powered by its predecessor, `configurable`. Packages like `bump` and `igo` have comprehensive testing attached to them. `igo` uses Docker in the GitHub Actions workflow and localhost workstations in order to simulate installing and uninstalling and using the `igo` binary in the manner documented in the README.md. The only downside to using it, after months of using `igo` as a Go binary rewrite, has been if the `go.mod` has only `major.minor` and not `major.minor.patch` for the `go ` version line. So it reads like, `go v1.24` instead of `go 1.24.5`, so the shim responsible for the `~/go/shims/go` looks for the `~/go/versions/v1.24/go/bin/go1.25` path instead of the correct `~/go/versions/v1.24.5/go/bin/go1.24.5`. 
-
-I love writing Go code and having fun while building awesome technology. I find Go to be really nice language to develop with, even though it isn't perfect. I am far from perfect, so Go is perfect for this imperfect being! Before the pandemic I was in Big Tech, specifically while in college in Technical Services at Cisco, and then before graduating being promoted to Advanced Services. Before leaving Cisco, I joined the Cloud Group and traveled internationally for the OpenStack summits. They were valuable life experience that offered me unique crossroads of life that changed who I am for the better. More businesses should offer first class international travel to their employees in order to build more community in the product offering. It's certinaly not easy to justify if the business isn't prospering in opportunity, but the mere chance of a conversation sparking a larger investment worth millions makes the $20,000 up front "luxury" of first class international travel expense, justifiably worth it. Going charter, depending on the client and the needs of the client and their privacy concerns regarding the ability to conduct confidential meetings about trade secrets. While at Cisco, I got to participate in this and loved every minute of it. 
-
-I moved on from Cisco's Cloud Group to join Oracle's OCI group that was brand new. I was hired before employee #50 and my offer letter was personally signed by Mr Larry Ellison. Thank you for the incredible opportunity to service Oracle. Professionally speaking, I have a lot of respect for the OCI cloud product even though I am not a customer of it currently. I speak highly of it with respect to itself in the cloud playing field. Afterall, Mr Ellison's leadership was clear they were targeting 5th place at the time! I asked, why not 1st? Because bro, that's like not gonna happen. Keep it real dude. 
-
-Oh okay. =D 
-
-So, the pandemic hit and I was like fuck this, Big Tech is boring af (joking not joking, like Silicon Valley joking not joking), so I wanted to change it up. I went to go work in the gaming industry. I revolutionized the Bit Fry Game Studios DevOps pipeline by custom building an enterprise cloud architecture in a colo hosting arrangement. 12 physical bare metal servers in vSphere clusters (3 clusters of 3 machines each) with 3 macOS hosts. Each cluster, serving a different OS/build fuction. All sharing 170TB of disk space with over 30TB of SSD storage available on the 10 Gbps fiber network that ran the infrastructure. I built this in 3 months with a budget of $63K up front with $17K annually. I can build it again.  Cloud products vary and service providers are not always the same. The cost is variable to the client. 
-
-I brought that talent from Bit Fry over to WB Games where I helped the folks at Avalanche Studios with things relating to the infrastructure behind the Hogwarts Legacy game. It was pretty cool, having some old roots in the MuggleNet.com days on the Fan Fiction site, Gallery, and international news translation service. My name is in other titles as well. You can check out [Moby Games](https://www.mobygames.com/person/1330654/andrei-merlescu/) for my credits. My name was never put in the credits to Ultimate Rivals. Not sure why Chris didn't, but they didn't. The game never really saw the light of day since the Apple deal fell through. 
-
-Regardless of that, I've been at Beamable now since March 31st and I love it! The team is incredible, the product is incredible, the studios are incredible, the games being developed are fun and entertaining with incredible opportunity, and overall, I am very happy to be applying my skills to help the Beamable Network! Great things happening in the entire world! Crypto is a super fun space at the moment to be in, and it's an opportunity that I've been studying. 
-
-Whether you like my software or not, I build because I love building and I am builder. Feel free to enable me if you want to sow seeds into my [Ko-Fi](https://ko-fi.com/projectapario). 
-
-Now, here's a break down of all of my projects! There's a bunch! But this page should give you a very comprehensive look into what I've professionally developed over the last 5 years since taking it upon myself to learn Go. 
-
-After all, before the pandemic, I truly was never a software engineer capable of developing software that satisifies unique needs in a manner that I am now able to. Granted, the tooling is much better, and Go is an incredible language, but truly, its my skills that I have been sharpened through each of the revisions of the projects. While I have some bad patterns here and there, they represent the learning stepping stones of my journey to becoming a programmer of reality. A mantra that I joking and seriously live by is program or be programmed, therefore when I write Go code, I am commanding the little gophers to go, and they do exactly what I tell them to do. I program. I am not programmed, in that sense. So, the matra holds true for me! I love programming because of it. Also, being able to push out in a week the `prettyboy` package and the `bump` package after releasing `goini` following the `ip.ishere.dev` and the massive work done to the `figtree` package... It's just a testiment to if you love what you do then its not truly work. I love what I do!
-
-If you have ideas of something that you need built, or would like to collaborate, feel free to reach out. Cheers!
+My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications that I built. 
 
 ## Projects
 
@@ -32,11 +12,7 @@ My projects are designed to serve you and your needs without involving me in the
 
 ### My Projects
 
-I spent the last few hours thinking and praying on the words to write in this post. I am who I am by the gace of my creator and I am happy to build fun software! This is my collection of contributions on GitHub that are open source that have been developed by me over the last 17 months. These contributions are designed to make programming in Go fun and easy for you to begin the learning process. I have starred repos if you want to learn, and there is a large open source project on GitHub at https://github.com/ProjectApario that hosts the `apario-reader`, `apario-writer`, and `apario-search` software that is powered by things like `figtree`, `checkfs`, `stronghold` and deployed with utilities like `topobuilder` and uses `igo` to manage multiple versions of Go. 
-
-I love writing software. I write software for free for all to use it. I use it. I eat my own dog food. LOL I am the type of person that is, you wanna use my code, lets talk if you want to talk. I am all ears. I will not speak in the hearing of a fool, but I am not a fool to turn down listening when there is an opportunity to help you advance if it costs me just replying. The JFK files are hosted at https://jfkfiles.info and the DIA STAR GATE files are hosted at https://idoread.com and the Project Minnesota Election Integrity efforts of Erik are at https://electionselections.com. I have collections in the pipeline that will include the https://teslafiles.info and the https://stargatefiles.info. You can make your own instance! The software is free. It's battle tested. Highly configurable, and my more recent work is very well tested. The `igo` package has a testing suite to it that is both unit level testing and integration testing through a `run-on-local.sh` and the `tester.sh` underlying test script that dockerizes the test environment and battle tests the `igo` utility. Perhaps I need to consider a fuzz test on the unit test to find corner cases of bad input. 
-
-In my `figtree` package, I reflected upon a near death experience that I had last year where I believe I met my creator. He introduced Himself to me as Yeshua the KING OF THE JEWS and that I am a programmer because He is a programmer. And I thought, let me intentionally see if I can unpack the story of the figtree through code. The terms used in the package are unique and faith inspired. I don't believe in dogma. If you asked me what I believe, be prepared to hear an 8 hour response. I understand much since stepping foot out of the orphanage. 
+Here's a breakdown of the project that I've created on GitHub and how they impact my "profile". 
 
 ### GO ENV 
 
@@ -166,264 +142,15 @@ This utility is responsible for rendering your own Root Certificate Authority wh
 
 https://github.com/andreiwashere/certificate-authority
 
-##### Installing `igo` on MacOS (Apple Silicon)
-
-```bash
-mkdir ~/bin
-
-# USING BASH
-[ -f ~/.bashrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.bashrc
-
-# USING ZSH
-[ -f ~/.zshrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.zshrc
-
-curl -L https://github.com/andreimerlescu/igo/releases/download/v1.0.3/igo-darwin-arm64 ~/bin/igo
-
-cd ~/bin
-xattr -d com.apple.quarantine igo
-chmod +x igo
-cd ~
-which igo
-igo -version
-
-igo -cmd install -gover 1.24.3 --debug
-```
-
-##### Installing `igo` on MacOS (Intel)
-
-```bash
-mkdir ~/bin
-
-# USING BASH
-[ -f ~/.bashrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.bashrc
-
-# USING ZSH
-[ -f ~/.zshrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.zshrc
-
-curl -L https://github.com/andreimerlescu/igo/releases/download/v1.0.3/igo-darwin-amd64 ~/bin/igo
-
-cd ~/bin
-xattr -d com.apple.quarantine igo
-chmod +x igo
-cd ~
-which igo
-igo -version
-
-igo -cmd install -gover 1.24.3 --debug
-```
-
-
-##### Installing `igo` on Linux (amd64)
-
-```bash
-mkdir ~/bin
-
-# USING BASH
-[ -f ~/.bashrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.bashrc
-
-# USING ZSH
-[ -f ~/.zshrc ] && echo 'export PATH=~/bin:$PATH' >> ~/.zshrc
-
-curl -L https://github.com/andreimerlescu/igo/releases/download/v1.0.3/igo-linux-amd64 ~/bin/igo
-
-cd ~/bin
-chmod +x igo
-cd ~
-which igo
-igo -version
-
-igo -cmd install -gover 1.24.3 --debug
-```
-
 ### `entpassgen` Entropy Password Generator
 
 This utility is an **entropy** focused password generator with a basic word dictionary built into it. The `genwordpass` omits the entropy generation of the `entgenpass` utility. 
-
-```bash
-# Clone the repository, build then install
-git clone git@github.com/andreimerlescu/entpassgen.git
-cd entpassgen
-make install # OR RUN THESE 4 ⬇︎⬇︎⬇︎⬇︎
-go build -o entpassgen entpassgen.go
-sudo mv entpassgen /usr/bin/entpassgen
-chmod +x /usr/bin/entpassgen
-entpassgen -h
-
-# Install using Go
-go install github.com/andreimerlescu/entpassgen@latest
-entpassgen -h
-
-# Download the binary and move
-curl -o ./entpassgen -s https://github.com/andreimerlescu/entpassgen/releases/download/v1.0.0/entpassgen.linux-amd64
-chmod +x entpassgen
-sudo mv entpassgen /usr/bin/entpassgen
-entpassgen -h
-```
-
-```bash
-$ which entpassgen
-/usr/bin/entpassgen
-
-$ entpassgen -h
-Usage of entpassgen:
-  -E string
-        Define exclude symbols in new password
-  -L    Do not use lowercase characters in new password
-  -N    Do not use numbers in new password
-  -S    Do not use symbols in new password
-  -U    Do not use uppercase characters in new password
-  -W string
-        Separate words with these possible characters (default "!@#$%^&*()_+1234567890-=,.></?;:[]|")
-  -a    Generate new passwords to get average entropy, min entropy and max entropy calculated for options
-  -e string
-        Minimum entropy value to accept in new password (default "avg")
-  -j    JSON formatted output
-  -k int
-        Quantity of passwords to generate when calculating average entropy (default 100000)
-  -l int
-        Character length in new password (default -1)
-  -q int
-        Quantity of passwords to generate (default = 1) (default 1)
-  -s string
-        Define acceptable symbols in new password (default "!@#$%^&*()_+=-[]\\{}|;':,./<>?")
-  -t    TEXT formatted output (default) (default true)
-  -w    Use words (ignores -U -L -S -E -N -s)
-
-```
-
-```bash
-$ # Generate 1 New Password (Defaults)
-$ entpassgen
-uLbirj64,oPDaO5^&uLbirj64,oPDaO5^&
-
-$ # Generate 1 New Password (JSON Output)
-$ entpassgen -j | jq '.'
-{
-  "length": 17,
-  "uppercase": true,
-  "lowercase": true,
-  "digits": true,
-  "symbols": true,
-  "value": "v>s81|/7:UmrzKXE{",
-  "sample": {
-    "limit": 100000,
-    "average": 66.54055868500511,
-    "recommended": 68.01371349313044,
-    "min": 49.486868301255775,
-    "max": 69.48686830125578
-  },
-  "entropy": {
-    "score": 69.48686830125578
-  }
-}
-
-$ # Generate Bogus Hebrew Words
-$ entpassgen -L -U -N -S -s "אבגדהוזחטיכלמנסעפצקרשת" -l 12 -q 5
-גקגתתעשנפכט
-שבגדעהתלנמ
-כדעפמכלכחת
-כגטששתחטצת
-טכלננמנסא
-
-$ # Generate Random Number (9 digits long)
-$ entpassgen -L -U -S -l 9 
-804799183
-
-$ # Generate Random String (A-Za-z0-9 only)
-$ entpassgen -L -U -S -l 9 
-804799183
-
-$ # Generate 10 Random Passwords (Defaults)
-$ entpassgen -q 10
-r<GcVng4W$iA@JQ#\
-x3Q^MT4q2Xmp,ly>G
-t!LH7uvnNT9aiQDD>
-ywEaYRpl\CWv;Jh52
-Ebfh1sHNao2HwM8>u
-,XTG@vUx2V{y0:7TC
-;4W^w]E:t|ZqJ*WnU
-X(og^y^*3nhRfq=7j
-OcZSm[#>I.WjU,o>5
-w:ng1H+jNtrL!2ETr
-
-$ # Generate Random Password (memorable words)
-$ entpassgen -w -l 3
-misserve(kinematographic]daunii4
-
-$ # Analyze Strong Passwords
-$ entpassgen -w -a
-Entropy Report: 
-  Samples: 100000
-  Length: 5
-  Uppercase: true
-  Lowercase: true
-  Digits: true
-  Symbols: true
-  Use Words: true
-  Average: 221.935
-  Minimum: 141.402
-  Maximum: 328.852
-  Recommended: 275.393
-
-$ entpassgen -a   
-Entropy Report: 
-  Samples: 100000
-  Length: 17
-  Uppercase: true
-  Lowercase: true
-  Digits: true
-  Symbols: true
-  Use Words: false
-  Average: 66.534
-  Minimum: 53.487
-  Maximum: 69.487
-  Recommended: 68.010
-```
-
-This was a fun project. 
 
 https://github.com/andreimerlescu/entgenpass
 
 ### `counter` A tool for counting things
 
 This utility was inspired by `p4 counter` from Perforce. It's such a great and simple tool, that something like it shouldn't be coupled to the `p4` suite itself. It's useful in DevOps, and as a DevOps Architect, I have found use in the `counter` package. It's very powerful and offers you a clean interface that is manipulated by your environmental preferences, whomever you may be. It's built to work around you. 
-
-```bash
-go install github.com/andreimerlescu/counter@latest
-[q@localhost]~% counter -v
-1.0.1
-[q@localhost]~% counter -env
-COUNTER_USE_FORCE=false
-COUNTER_NEVER_ADD=false
-COUNTER_NEVER_RESET=false
-COUNTER_NEVER_DELETE=false
-COUNTER_NEVER_SET_TO=false
-COUNTER_NEVER_SUBTRACT=false
-COUNTER_DIR=/tmp/.counters
-COUNTER_QUANTITY=1
-[q@localhost]~% counter -name subscribers 
-Error: directory /tmp/.counters does not exist
-[q@localhost]~% counter -name subscribers -F
-0
-[q@localhost]~% counter -name subscribers   
-0
-[q@localhost]~% counter -name subscribers -add
-1
-[q@localhost]~% counter -name subscribers -sub
-0
-[q@localhost]~% counter -name subscribers -set 20
-20
-[q@localhost]~% counter -name subscribers -reset 
-will reset counter subscribers to 0 after you re-run with -yes
-[q@localhost]~% counter -name subscribers -reset -yes
-0
-[q@localhost]~% counter -name subscribers            
-0
-[q@localhost]~% counter -name subscribers -delete
-deleting counter subscribers (0) when you re-run with -yes
-[q@localhost]~% counter -name subscribers -delete -yes
-counter subscribers deleted
-```
 
 https://github.com/andreimerlescu/counter
 
@@ -452,26 +179,6 @@ Type '?' for menu, 'exit' or 'quit' to exit.
 ```
 
 https://github.com/andreimerlescu/cli-gematria is powered by https://github.com/andreimerlescu/gematria
-
-### `apario-reader` A tool for hosting `apario-writer` rendered PDF archives with full text search and dark mode
-
-This utility takes a rendered directory, like `/apario/app/jfk-files` that is 385GB that contains 83K pages of declassified JFK Files on https://jfkfiles.info allows you to host declassified documents, like the STARGATE files from the Defense Intelligence Agency (https://idoread.com). Yes, this app is open-source and can be used for ANY collection. You use the `apario-writer` to generate it. If you need to take HTML and compile your CSV from importing some website of PDFs, you can use the `apario-writer-html2csv` utility. Feel free to fork it and use AI to modify it. Any collection can be used! Raven Squad Army is where instance details are held. This is a public service for God and Country. I believe that President Kennedy would want his files to be searchable. I was disappointed when the National Archives released them unsearchable. As somebody who could do something about it, I did something about it. Yeshua helped me. Thank Yeshua. Now its truly decentralized and truly a PhoenixVault that is powered by the $APARIO token. You can learn more about that later if you're reading through this post. May Yeshua bless you. The I AM is inside of you too! I told you that you were an IS-BE. I wasn't lying when I said it. It's literal. IS-BE === IAM-ANDREI. I AM AN IS-BE === I AM ANDREI === I AM + ANDREI === YESHUA + ANDREI === WE. This project also hosts [Election Selections](https://electionselections.com/) from the Project Minnesota efforts of Mr Erik van Mechelen, former MN Secretary of State candidate. 36.9% of the vote with staying true to the core message. The evidence of his efforts, inspired by my suggestion, manifested in real change in a real community. Erik knows Yeshua.
-
-https://github.com/ProjectApario/reader or https://github.com/andreimerlescu/apario-reader
-
-### `apario-writer` A tool for generating PDF archives with full text search and dark mode
-
-This utility takes a CSV file of URLs or Paths to PDFs that has metadata like total pages, source URL, name of document, (optional are description and keywords). Then it'll render a directory that contains light/dark rendered small, medium and original progressive JPEG files with split `<name>.pdf` into `<name>_<pg-no>.pdf` with a `page.<6-0-padded-pg-no>.json` and `ocr.<6-0-padded-pg-no>.txt` for the `tesseract` output. The `JSON` file contains the `textee`, `gematria`, `cryptonym`, `date`, and `Locations` matches for the document to be later indexed. 
-
-This output rendered the 2025 JFK files into 385GB of data for 83K pages. The pages load in under a quarter of a second. Search is less than second. Since launching, it's been hit over 800K times! 
-
-### `apario-search` A tool for performing 13 types of complex search on `apario-writer` rendered results to web socket and REST requests with caching
-
-This utility will take an `apario-writer` output directory, such as `/apario/app/jfk-files` for https://jfkfiles.info/ and will expose an `https://` and `wss://` endpoint on port `8888` where you can hit `/search?q=<uery>`. This utility will perform 13 unique types of search on the archive. The results for `top secret` took 12 minutes. It analyzed like-gematria and used the power of 369 to find a collection that you could potentially stumbleinto. The `/stumbleinto?q=<uery>` allows you to hit results one at a time, and the endpoint doesn't kick off a new search. It can be hit as many times as the rate limiter permits. Your `figtree` `config.yaml` will define those values. 
-
-This utility will be merged into the `apario-reader` in the form that search will be replaced internally to the `apario-reader` and swapped out with this new search. It'll also add StumbleInto search results and let the instance keep track of search results and hits/views on the results. 
-
-https://github.com/ProjectApario/search or https://github.com/andreimerlescu/apario-search
 
 ### `genwordpass` A tool for generating multi-lingual word-based passwords with millions of built-in-dictionary words for complex and strong rememberable passwords
 
@@ -503,39 +210,12 @@ This application is designed to scale a landing page to dozens of hosts across t
 
 https://github.com/andreimerlescu/topobuilder
 
-### `stronghold` A tool for securely exposing path keyed key/value secrets to a host using S3 GPG Encryption and `universal-iam` permissions of securing read/write permissions on the Stronghold
-
-This package is designed to allow me to create a GPG encrypted `.asc` file, store it in S3, with versioning and object locking enabled upon bucket creation such that the stronghold vault storage will be an S3 target. When `stronghold` boots, it relies on its IAM access and an environment variable that contains its access key into the stronghold, the key unlocks the stronghold for that user. Once the stronghold is loaded in the system, decrypted by the AES encryption key, the remaining `.asc` is GPG armored and requires unsealing keys in order to access the secrets contained. These secrets then get exposed on `GET https://127.0.0.1:1776/stronghold/get?path=my/secret/path&field=keyName` or `POST https://127.0.0.1:1776/stronghold/set?path=my/secret/path  {"keyName": "valueOne", "keyTwo": "valueTwo"}`. When new secerts are created, the secrets get locked in S3, a new record is committed, and then all hosts receive the new `stronghold` file through a sync mechanism that runs every minute. Stronghold is currently in development and is closed source at the moment. Because of its security implications in running it in production, it's designed to solve a very business specific need. It's not needed for open-source development projects or anything that isn't explicitly sensitive. Therefore, to use this software, reach out to me, and show me that you hold over 33M $APARIO or over 33M $THOTH, or 33M $IAM, or 369,369,369,369+ $YAHUAH, 33B $RAHKI, 1M $PLAYANDPROSPER then you'll automatically qualify for access to the stronghold project and a non-disclosure agreement will be presented to you where the source of the project remains the intellectual property of Andrei Merlescu and use of the software comes with no assurances, guarantees or refunds of any kind. Use of the software is considered volunteer good-faith services to improve your brand without assuming any liability. It's to help not to harm and I do not want to be harmed when I help, so those are the terms. The crypto token projects are not financial advice and I am the developer of those tokens. I have projects planned for all of them. I believe in my rock, Yeshua, and I know that it will happen at the right time. Each project has its own purpose and will NOT be built by me, but by my team instead!
-
-https://github.com/andreimerlescu/stronghold
-
 ### `figtree` A command line utility interface builder that powers all of my open source software
 
-The `figtree` package is a command line configuration interface builder that lets you define `Fig` Mutagenesis like String, List, Int64, etc.. The package is biblically inspired by Yeshua Ben Joseph. If life was programmed to be a simulation, how can the figtree reveal inner truths of how we handle command line interfaces? This package supports using an ENV `CONFIG_FILE` that will load `.yml|.yaml|.json|.ini` config files into a `Plant` that has `Callbacks`, `Validators`, and `Rules` with the ability to load/save a Plant from a file at will. Figtree can be used in many application types, and is being explored to provide secret sourcing such that you can pass in `op://` or `aws::arn` path to import the secret with the ability to define and build n-implementations of the Secret interface. 
+The `figtree` package is a command line configuration interface builder that lets you define `Fig` Mutagenesis like String, List, Int64, etc.. This package supports using an ENV `CONFIG_FILE` that will load `.yml|.yaml|.json|.ini` config files into a `Plant` that has `Callbacks`, `Validators`, and `Rules` with the ability to load/save a Plant from a file at will. Figtree can be used in many application types, and is being explored to provide secret sourcing such that you can pass in `op://` or `aws::arn` path to import the secret with the ability to define and build n-implementations of the Secret interface. 
 
 ```bash
 go get github.com/andreimerlescu/figtree/v2
-```
-
-```go
-const kWorkers string = "workers"
-const kSeconds string = "seconds"
-figs := figtree.With(figtree.Options{Tracking: true})
-figs.NewInt(kWorkers, 17, "number of workers")
-figs.NewUnitDuration(kSeconds, 76, time.Second, "number of seconds")
-go func(){
-  for mutation := range figs.Mutations() {
-    log.Printf("Fig Changed! %s went from '%v' to '%v'", mutation.Property, mutation.Old, mutation.New)
-  }
-}()
-err := figs.Load()
-if err != nil {
-   log.Fatal(err)
-}
-workers := *figs.Int(kWorkers)
-seconds := *figs.UnitDuration(kSeconds, time.Second)
-minutes := *figs.UnitDuration(kSeconds, time.Minute) // use time.Minute instead as the unit
-fmt.Printf("There are %d workers and %v minutes %v seconds", workers, minutes, seconds)
 ```
 
 https://github.com/andreimerlescu/figtree
@@ -550,12 +230,13 @@ https://github.com/andreimerlescu/apario-writer-html2csv
 
 This utility is installed via `go install github.com/andreimerlescu/summarize@latest` and its super useful if you use xAI's SuperGrok like I do! The context is super large and the DeepResearch / Think capabilities of the AI surpass that of even Claude 4 and anything that OpenAI can come up with; in my humble opinion based on a 4 year research analysis of the various AI tools and capabilities. When I am working on open source projects, I run `summarize` in my workspace, a new folder called `summaries` gets added, and the timestamp copy of the summary. 
 
+This package has **AI Enhancements** in the `develop` branch that leverages Ollama. 
+
 ```bash
 go install github.com/andreimerlescu/summarize@latest
-cd ~/GolandProjects/myproject
+
 summarize
-find ./summaries -type f -name 'summary.*.md'
-cat summaries/summary.2025.05.25.01.04.37.UTC.md
+find ./summaries -type f -name 'summary.*.md' -exec cat {} \;
 ```
 
 https://github.com/andreimerlescu/summarize
@@ -634,56 +315,11 @@ https://github.com/andreimerlescu/encrypted-luks-workspace
 This utility is written in Bash and is designed to run on an EC2 instance in AWS. When a new EBS is attached to the EC2, `configure-ebs.sh` can let you mount/configure your `fstab` automatically based on the provided `vol-<id>` from AWS's console interface. This script was built so I could create an EC2 instance for GitLab Self-Hosted where I wanted to assign an EBS device for each of the various sub-components of GitLab. I ran: 
 
 ```bash
-# GitLab Registry
 ./configure-ebs.sh --device "/dev/nvme1n1" \
                    --label "gitlab_registry" \
                    --mount "/var/opt/gitlab/gitlab-rails/shared/registry" \
                    --fs "xfs" \
                    --fstrim "on"
-
-# Git Large File Storage
-./configure-ebs.sh --device "/dev/nvme2n1" \
-                   --label "gitlab_lfs_objects" \
-                   --mount "/var/opt/gitlab/gitlab-rails/shared/lfs-objects" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-# Artifacts
-./configure-ebs.sh --device "/dev/nvme3n1" \
-                   --label "gitlab_artifacts" \
-                   --mount "/var/opt/gitlab/gitlab-rails/shared/artifacts" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-# Public Uploads
-./configure-ebs.sh --device "/dev/nvme4n1" \
-                   --label "gitlab_uploads" \
-                   --mount "/opt/gitlab/embedded/service/gitlab-rails/public" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-# Terraform State
-./configure-ebs.sh --device "/dev/nvme5n1" \
-                   --label "gitlab_terraform_state" \
-                   --mount "/var/opt/gitlab/gitlab-rails/shared/terraform_state" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-# CI Secure Files
-./configure-ebs.sh --device "/dev/nvme6n1" \
-                   --label "gitlab_ci_secure_files" \
-                   --mount "/var/opt/gitlab/gitlab-rails/shared/ci_secure_files" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-# Backup Directory
-./configure-ebs.sh --device "/dev/nvme7n1" \
-                   --label "gitlab_backups" \
-                   --mount "/var/opt/gitlab/backups" \
-                   --fs "xfs" \
-                   --fstrim "on"
-
-
 ```
 
 This permits me to have `backups`, `ci_secure_files`, `terraform_state`, `public`, `artifacts`, `lfs-objects`, and `registry` as separate EBS volumes. Things like `lfs-objects`; why would I want `registry` to take away from the limit of 16TB per EBS? With this configuration, including the `root` drive at `/`, I have a maximum capacity of 16TB x 8 = 128TB of available storage where I'd be able to pay the minimal costs at `gp3` baseline performance for that capacity. For things like `terraform_state`, this can be an IO1 EBS and the [disk-speed](https://github.com/andreimerlescu/disk-speed) project can give you MB/s read/write speeds for the mounted directory inside `/var/opt/gitlab/gitlab-rails/shared/terraform_state` where you can run:
@@ -704,32 +340,11 @@ Read Speed: 325.024 MB/s (took .307669007s to read 100M)
 
 That is sufficient for the `terraform-state` for GitLab. The registry can have its own speed and costs, and you can tag your volumes accordingly and keep tracking of billing that way. 
 
-If you want me to set this up for your GitLab Self-Managed instance, it can be provided to you by showing me that you own at least 50M $APARIO tokens or 170B+ $YAHUAH or 17+M $XPQ or 1+M $PLAYANDPROSPER or 369M+ $RAHKI tokens. Your preference on which to choose, but its not financial advice and these XRP tokens can be used for whatever purpose you choose. I plan on building with them, but I am not giving you financial advice. I am saying that if you want me to run for you `configure-ebs.sh` on your Self-Hosted GitLab server, I would be more than happy to do it for you, but to show me that you sow seeds where you wish to reap, I ask that you do it this way and then I'll help you run this script. I don't get paid when those tokens are purchased/held as they are managed by the blockchain's smart contracts and XPMarket's issued AMM liquidity pools that support the token and its holders. When the token value surges because of these kind of transactions, other wallet holders will buy/sell as they please. I am holding onto my tokens and am not spending them on things. I need them. 
-
 https://github.com/andreimerlescu/configure-ebs
 
 ### `go-common` A utility that powers Go applications
 
 This utility provides packages called `basic`, `fibonacci`, `filesystem`, `hashing`, `spacetime`, `temere`, `version`. 
-
-```go
-package main
-
-import (
-   "fmt"
-
-   "github.com/andreimerlescu/go-common/temere/v2"
-)
-
-func main(){
-   mathRandString := temere.String(32) // random 32 character string using math.Rand
-   cryptoRandInt := temere.Integer(8) // random integer up to limit (8) using crypto.Rand
-   numberInRange := temere.RangeInteger(1,999) // random integer using crypto.Rand between 1,999
-
-   fmt.Println(mathRandString, cryptoRandInt, numberInRange)
-}
-
-```
 
 [GoPlay.tools](https://goplay.tools/snippet/Mx36bFCuMKp)
 
@@ -738,57 +353,6 @@ https://pkg.go.dev/github.com/andreimerlescu/go-common
 ### `textee` A utility for calculating substrings
 
 Textee is the idea that a long string, like a paragraph or output of `tesseract` can be reduced into substrings of up to 1-3 words and then ranked by quantity of substring found within the result. Combine this with with the `gematria` tool, you'll understand why `apario-search` has 13 types of searches that it conducts.
-
-```go
-package main
-
-import (
-    "fmt"
-    "os"
-    "errors"
-
-    "github.com/andreimerlescu/textee"
-)
-
-const inputString = `All right let's move from this point on 16 March 84, let's move in time to our second location which is a specific building near where you are now. Are you ready? Just a minute. All. right, I will wait. All right, move now from this area to the front ground level of the building known as the Menara Building, to the front of, on the ground, the Menara Building.`
-
-func main() {
-    // just calculate the substrings (no Gematria)
-    tt1, err := textee.NewTextee(inputString)
-    if err != nil {
-        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err))
-    }
-
-    // calculate a new substring with Gematria 
-    var err2 error
-    tt1, err2 = tt1.CalculateGematria()
-    if err2 != nil {
-        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err2))
-    }
-    for substring, quantity := range tt1.Substrings {
-        fmt.Printf("substring '%v' has %d occurrences\n", substring, quantity.Load())
-    }
-
-    // combine them together
-    tt2, err3 := textee.NewTextee(inputString)
-    if err3 != nil {
-        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err3))
-    }
-    var err4 error
-    tt2, err4 = tt2.CalculateGematria()
-    if err4 != nil {
-        _,_ = fmt.Fprintf(os.Stderr, "%v", errors.Join(textee.ErrBadParsing, err4))
-    }
-    fmt.Println(tt2)
-
-    // sort the substrings by the quantity of occurrences in the original string, most common are first
-    sortedSubstrings := tt2.SortedSubstrings()
-    for idx, substring := range sortedSubstrings {
-        fmt.Printf("%d: substring '%v' has %d occurrences\n", idx, substring.Substring, substring.Quantity)
-    }
-}
-
-```
 
 [GoPlay.tools](https://goplay.tools/snippet/l9zpFIwqa67)
 
@@ -814,8 +378,6 @@ func main(){
 ```
 
 [GoPlay.tools](https://goplay.tools/snippet/9YVcsz7C2UI)
-
-Of course numerology reveals to you that in Simple Gematria that phrase is 306 which if 0 is 9 according Nikola Tesla, then 396 can be arranged as 369 which would make Nikola Tesla very happy. Seems like the numbers have meaning, I wonder what the original string was that yielded I AM from Iodine (53 w/ 126.904) and Americium (95 w/ 243.061) gives you with the two larger numbers 369.965, so in essence "I AM = 369" and so if "yah i love yahuah and yah i am saint andrei" = 369 = "I AM". Hrm. Was Nikola Tesla onto something here?
 
 https://github.com/andreimerlescu/gematria
 
@@ -863,6 +425,10 @@ goini -ini ~/.aws/config --section "profile sandbox" --json --list-keys
 
 Other systems that actively use `.ini` files that I regularly use include Ansible, AWS, and some other projects. Overall, I created this tool so I could more programatically interact with `.ini` files as I need. Feel free to leverage this tool in your workflow as well!
 
-## Purpose of this page 
+### PhoenixVault / Project Apario 
 
-Well, I have had my GitHub profile for a very long time. I express who I am online through my contributions and while I stopped contributing to normal social media, my contributions are in the form of building open source software. If you want to support my efforts, you know what to do. I have opened the windows of opportunity for those who have faith to sow seeds where they wish to reap. The major engineering effort of the Apario Reader / Writer / Search trio powered by another trio of software like textee, gematria, and figtree. The summarize package levels me up with AI prompts on Grok and Co-Pilot. If you commit your summaries, then "versions" of your code will be preserved "all-in-one" that you can ask Co-Pilot to compare explicit verion implementations without looking at actual git-tree history. For real programmers, that matters. Sometimes, you just want to know whats going on between two revisions only; and this gives you that ability. It gives me the ability too. Additionally, when I am deploying apps with Topobuilder, I am using the `encrypted-luks-workspace` to securely keep copies of the secrets protected in archive form and mounted while the host is running with an automatic unsealing mechanism built into the systemd on boot enabled. These projects are intended to help you too. If you find any use in them, make sure to add a STAR ⭐! 
+**Reader** is the front-end application that uses a directory as a database source. [ProjectApario/reader](https://github.com/ProjectApario/reader) or [@andreimerlescu/apario-reader](https://github.com/andreimerlescu/apario-reader)
+
+**Writer** is what renders the database directory source for the _reader_. [ProjectApario/reader](https://github.com/ProjectApario/writer) or [@andreimerlescu/apario-reader](https://github.com/andreimerlescu/apario-writer)
+
+**Search** is a separate web socket interfacing app that lets you search through a compiled database from the _writer_. [ProjectApario/reader](https://github.com/ProjectApario/search) or [@andreimerlescu/apario-reader](https://github.com/andreimerlescu/apario-search)
