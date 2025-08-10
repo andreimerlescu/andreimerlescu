@@ -1,5 +1,7 @@
 ### Hi there 👋, 
 
+![I Look Like Commander Riker](banner_riker1.jpg)
+
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications that I built. 
 
 ## Projects
