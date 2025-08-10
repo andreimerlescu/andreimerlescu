@@ -38,6 +38,94 @@ I love writing software. I write software for free for all to use it. I use it. 
 
 In my `figtree` package, I reflected upon a near death experience that I had last year where I believe I met my creator. He introduced Himself to me as Yeshua the KING OF THE JEWS and that I am a programmer because He is a programmer. And I thought, let me intentionally see if I can unpack the story of the figtree through code. The terms used in the package are unique and faith inspired. I don't believe in dogma. If you asked me what I believe, be prepared to hear an 8 hour response. I understand much since stepping foot out of the orphanage. 
 
+### GO ENV 
+
+I built both a package and a cli utility called `goenv` that allows me to interact with environment variables in a typed manner. For instance, `if !env.Bool("NEVER_PANIC", false) { panic("something happened") }` and not have anything else to do. If I am working with a new project that needs an `.env` file, I can run `goenv -init -write` and voila. Sure, its easier to write `touch .env` its less characters, but the idea is that `goenv` can be a medium to interact with `.env` files through. For instance, verifying whether NEVER_PANIC is defined in `.env` can be done using `goenv -has -env NEVER_PANIC`. The exit code will indicate for you. You can do things like `goenv -is -env NEVER_PANIC -value true` and rely on the exit code. Adding `HOSTNAME` to the `.env` is now super easy! `goenv -add -write -env NEVER_PANIC -value true` and voila... the `.env` file now contains `NEVER_PANIC=true` because of the changes made to it. 
+
+The long and tall of it, as you can see, is to build a better developer experience around tooling and pipelining around interacting with common configuration file types. In addition to `goenv`, which is designed to work with `.env` files, I also have [goini](https://github.com/andreimerlescu/goini) that does the same thing this does, but for `.ini` files. However, speaking of `.ini` files, `goenv` has the ability to convert your `.env` into `.env.ini` if you want to use `.ini` processing for your configurations of any kind. The output formatting options of the `goenv` package are the widest yet that I have offered. The `-print` is STDOUT text but the `-json` renders `.json` files, `-ini` renders a `.ini` file, `-yaml` renfers a `.yaml` file. I also have `toml` and `xml` in the output formats supported. The XML for has an array of elements called `<envs>` that contain the actual environments themselves as `<NEVER_PANIC>true</NEVER_PANIC>`. 
+
+```sh
+go install github.com:andreimerlescu/goenv@latest
+
+mkdir test-env
+cd test-env
+
+goenv -init -write
+goenv -write -add -env HOSTNAME -value "$(hostname)"
+goenv -write -add -env USER -value "$(whoami)"
+goenv -write -add -env HOME -value "${HOME}"
+goenv -write -add -env PWD -value "$(pwd)"
+goenv -write -add -env DISK_FREE -value "$(df -h / | grep disk | awk '{ print $4 }' | tr '\n' ' ')"
+goenv -write -rm -env PWD
+```
+
+Result will have `HOSTNAME`, `USER`, `HOME`, and `DISK_FREE` defined inside of it. 
+
+```sh
+goenv -mkall -write # creates .env.toml, .env.yaml, .env.ini, .env.xml, .env.json
+goenv -cleanall -write # deletes .env.toml, .env.yaml, .env.ini, .env.xml, .env.json
+```
+
+Aside from the Command Line Utility, the package itself can be used in Go projects too. 
+
+```bash
+go get -u github.com/andreimerlescu/goenv/env
+```
+
+You'll need to make sure that you're using `import "github.com/andreimerlescu/goenv"` while using it. 
+
+```go
+// configure accepts a figtree.Plant and returns a modified plant
+func configure(figs figtree.Plant) figtree.Plant {
+	if figs == nil {
+		figs = figtree.Grow()
+	}
+
+	figs = figs.NewString("hostname", env.String("HOSTNAME", "localhost"), "Hostname")
+	figs = figs.NewInt("port", env.Int("PORT", 8080), "Port")
+	figs = figs.NewUnitDuration("timeout", env.UnitDuration("TIMEOUT", time.Duration(3), time.Second), time.Second, "Timeout")
+
+	if env.Exists("USE_VALIDATORS") && env.IsTrue("FIGTREE_VALIDATORS") {
+		figs = figs.WithValidator("port", figtree.AssureIntInRange(1,65535))
+	}
+
+	if env.AreTrue("THIS_MUST_BE_TRUE", "AND_THIS_MUST_BE_TRUE") {
+		panic("yeah these things are true!")
+	}
+
+	env.Set("TAGS", "fun,expensive,far-away,german")
+	env.Set("ABOUT", "name=Andrei&career=Engineer&company=Beamable")
+
+	if env.ListContains("TAGS", env.ZeroList, "far-away") {
+		log.Println("This is far away!")
+	}
+
+	if env.MapHasKeys("ABOUT", env.ZeroMap, "name", "career", "company") {
+		log.Println("property has all attributes")
+	}
+
+	//                         ↓ fallback if "PORT" is undefined
+	//						   ↓ 
+    //                         ↓     ↓ max
+	if !env.IntInRange("PORT", 0, 1, 65535) < 1 {
+	// 						      ↑ min
+
+		panic("-port is required to be between 1-65535")
+
+	}
+
+	if err := figs.Load(); err != nil {
+		if !env.Bool("NEVER_PANIC", true) {
+			panic(err)
+		} else {
+			log.Fatal(err)
+		}
+	}
+}
+```
+
+So, aside from the CLI utility having value, the package itself can be used and reduce the complexity of your environment specific Go code. 
+
 ### Bump
 
 I built Bump in a single day. It's designed to work with a VERSION file and work with the `v1.0.0` string inside of it that is handled by a `go:embed` on the `VERSION` file in the `Version()`
