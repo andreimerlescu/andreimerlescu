@@ -1,5 +1,7 @@
 ### Hi there 👋, 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=6369&pause=1776&color=660099&vCenter=true&width=639&height=55&lines=YAH!+I+LOVE+YAHUAH!+%F0%9F%92%9C;I'M+%F0%9F%87%B7%F0%9F%87%B4+ROMANIAN+%5B1988-1990%5D+%F0%9F%87%BA%F0%9F%87%B8+;AT+6+DAYS+I+WAS+AN+ORPHAN!+%F0%9F%98%AD;MY+IDENTITY+WAS+STOLEN!+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9;I+WAS+A+CHRISTMAS+PRESENT!+%F0%9F%8E%81;I+COST+MERLE+%2413%2C000!+%F0%9F%92%B0;I+WAS+A+DRUNKARD+%F0%9F%8D%BB;I+USED+TO+BE+MICHAEL+%F0%9F%92%94;YAHUAH+RESTORED+ANDREI!+%F0%9F%92%9C;I+BROKE+ALL+MY+ADDICTIONS+%F0%9F%A4%A9+;I+BUILD+OPEN+SOURCE+CODE+%F0%9F%92%BB;I+PROGRAM+USING+GOLANG+%F0%9F%A6%AB;I+HOLD+XRP+CRYPTO+%F0%9F%AA%99;I+AM+A+SHARK+%F0%9F%A6%88;FATHER+OF+TWO+GIRLS+%F0%9F%91%A7%F0%9F%8F%BC%F0%9F%91%A7%F0%9F%8F%BC+;HUSBAND+%F0%9F%92%8D+;CHRISTOS+%E2%98%A6%EF%B8%8F+YAHUAH)](https://git.io/typing-svg)
+
 ![I Look Like Commander Riker](banner_riker1.jpg)
 
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications that I built. 
