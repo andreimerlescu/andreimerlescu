@@ -1,10 +1,8 @@
 ### Hi there 👋, 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=6369&pause=1776&color=660099&vCenter=true&width=639&height=55&lines=YAH!+I+LOVE+YAHUAH!+%F0%9F%92%9C;I'M+%F0%9F%87%B7%F0%9F%87%B4+ROMANIAN+%5B1988-1990%5D+%F0%9F%87%BA%F0%9F%87%B8+;AT+6+DAYS+I+WAS+AN+ORPHAN!+%F0%9F%98%AD;MY+IDENTITY+WAS+STOLEN!+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9;I+WAS+A+CHRISTMAS+PRESENT!+%F0%9F%8E%81;I+COST+MERLE+%2413%2C000!+%F0%9F%92%B0;I+WAS+A+DRUNKARD+%F0%9F%8D%BB;I+USED+TO+BE+MICHAEL+%F0%9F%92%94;YAHUAH+RESTORED+ANDREI!+%F0%9F%92%9C;I+BROKE+ALL+MY+ADDICTIONS+%F0%9F%A4%A9+;I+BUILD+OPEN+SOURCE+CODE+%F0%9F%92%BB;I+PROGRAM+USING+GOLANG+%F0%9F%A6%AB;I+HOLD+XRP+CRYPTO+%F0%9F%AA%99;I+AM+A+SHARK+%F0%9F%A6%88;FATHER+OF+TWO+GIRLS+%F0%9F%91%A7%F0%9F%8F%BC%F0%9F%91%A7%F0%9F%8F%BC+;HUSBAND+%F0%9F%92%8D+;CHRISTOS+%E2%98%A6%EF%B8%8F+YAHUAH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=465&lines=Thank+you+for+visiting+my+profile!;Wentworth+Institute+Graduate+2011;Cisco+Systems+-+2009-2016;Oracle+Cloud+(OCI)++-+2016-2020;WB+Games+(WBNY)+-+2021-2023;Invented+PhoenixVault+in+2020;Launched+Project+Apario+in+2021;Rewrote+PhoenixVault+in+2023;%24IAM+RESEARCH+%26+DEVELOPMENT!;%24IAM+building+XRP+games+and+apps!;Cisco+Called+Me.+I+Answered.;Oracle+Called+Me.+I+Answered.;WB+Games+Called+Me.+I+Answered.;Beamable+Called+Me.+I+Answered.;Beamable+Broke+US+Employment+Law!;Say+Good-Bye+To+Beamable!;I+built+Topobuilder+for+Enterprise!)](https://git.io/typing-svg)
 
 ![I Look Like Commander Riker](banner_riker1.jpg)
-
-If you would like to skip to the part where I discuss [Beamable](https://www.linkedin.com/posts/andreimerlescu_hey-jon-radoff-the-smoking-gun-came-from-activity-7377761423667666944-7-wO), then just [click here](https://github.com/andreimerlescu/andreimerlescu/blob/main/README.md#beamable). I was fooled by these imposters who took the series that I fell in love with as a child and weaponized it against me in an inhuman manner. 
 
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications that I built. 
 
@@ -441,6 +439,20 @@ Other systems that actively use `.ini` files that I regularly use include Ansibl
 
 ## Beamable
 
-I will publicly speak about what happened to me at Beamable on my [LinkedIn](https://www.linkedin.com/posts/andreimerlescu_hey-jon-radoff-the-smoking-gun-came-from-activity-7377761423667666944-7-wO) profile. 
+I will publicly speak about what happened to me at Beamable. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=6369&pause=1776&color=660099&vCenter=true&width=639&height=55&lines=3%2F17%2F25+I+CONTACTED+BEAMABLE;3%2F31%2F25+BEAMABLE+HIRED+ME;6%2F2%2F25+MY+1ST+HEART+ATTACK+%F0%9F%92%94;6%2F3%2F25+MY+9+YEAR+ANNIVERSARY!+%F0%9F%91%A9%E2%80%8D%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%91%A8;6%2F3%2F25+ADA+CLAIM+REPORTED+%F0%9F%8F%A9;6%2F17%2F25+%F0%9F%9B%AB+FLEW+TO+%F0%9F%9B%AC+VENICE+%F0%9F%87%AE%F0%9F%87%B9;6%2F21%2F25+MET+BIRTHMOTHER!!!+%F0%9F%92%9C;7%2F1%2F25+%F0%9F%9B%AB+FLEW+BACK+%F0%9F%9B%AC+HOME+%F0%9F%87%BA%F0%9F%87%B8;7%2F7%2F25+FORCED+BACK+ON-CALL+%F0%9F%93%B2;9%2F14%2F25+MY+2ND+HEART+ATTACK+%F0%9F%92%94;9%2F15%2F25+I+RESIGN+AT+BEAMABLE+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;9%2F16%2F25+I+SPEAK+WITH+ALI%2C+CTO!+%F0%9F%AB%B0%F0%9F%8F%BD;9%2F17%2F25+ON-CALL+RESUMES+%F0%9F%93%B2;9%2F22%2F25+EEOC+CLAIM+FILED+%F0%9F%8F%9B%EF%B8%8F;9%2F23%2F25+1ST+ADA+OFFICIAL+MEETING;9%2F24%2F25+FIRED+FOR+EEOC+FILING;9%2F25%2F25+PUBLIC+DISCLOSURE)](https://git.io/typing-svg)
+
+The tried to character assassinate me by filing a frivolous law-fare lawsuit against me that the Kangaroo Court Liberal judge just quoted Ali's words, said incorrectly that they were my words, and then ruled against me.
+
+Not only did the staff at Beamable use expensive attorneys to go after me, but they used their connections locally in order to throw their weight in the courts against me. 
+
+I was not given due process. It was explicitly denied to me, where the Judge said, "you are not entitled to due process."
+
+A pure accusation is a guilty sentence. 
+
+Literally folks, this is Beamable. 
+
+It's a radioactive, toxic company that needs to be shut down by the US Federal Government to protect US Citizens from further harm. 
+
+
