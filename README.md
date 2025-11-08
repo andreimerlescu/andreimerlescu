@@ -4,18 +4,9 @@
 
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications.
 
-## Active Development
-
-| Name | Language | About | 
-|------|----------|-------|
-| Topobuilder | Go | Deploys a single region website into multiple regions using Terraform |
-| Stronghold | Go | CLI utility for interacting with a password vault called Stronghold |
-| [iamxrp.dev](https://github.com/andreimerlescu/iamxrp.dev) | Go | XRP Ledger Learning |
-| [iamxrp.app](https://iamxrp.app) | Go | `$IAM` XRP App (CA [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) ) | 
-
 ## XRP Projects
 
-As you can see from my **PROJECTS** below, I love building, so `$IAM` going to be building out these tokens:
+As you can see from my **PROJECTS** below, I love building, so `$IAM` going to be building out apps these tokens and more:
 
 | Ticker | CA | About |
 |--------|----|-------|
