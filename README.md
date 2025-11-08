@@ -4,6 +4,36 @@
 
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications.
 
+## Active Development
+
+| Name | Language | About | 
+|------|----------|-------|
+| Topobuilder | Go | Deploys a single region website into multiple regions using Terraform |
+| Stronghold | Go | CLI utility for interacting with a password vault called Stronghold |
+| [iamxrp.dev](https://github.com/andreimerlescu/iamxrp.dev) | Go | XRP Ledger Learning |
+| [iamxrp.app](https://iamxrp.app) | Go | `$IAM` XRP App (CA [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) ) | 
+
+## XRP Projects
+
+As you can see from my **PROJECTS** below, I love building, so `$IAM` going to be building out these tokens:
+
+| Ticker | CA | About |
+|--------|----|-------|
+| `$IAM` | [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) | **Exodus 3:14**: `$IAM` _that_ `$IAM` |
+| `$YAHUAH` | [rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab](https://xpmarket.com/token/YAHUAH-rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab) | **Exodus 3:14**: `$YAHUAH` _that_ `$IAM` |
+| `$PLAYANDPROSPER` | [rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis](https://xpmarket.com/token/PLAYANDPROSPER-rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis) | Play And Prosper on XRP |
+| `$THOTH` | [rBk691vubN43ctwJN4LvVppGxXibAZ4mKs](https://xpmarket.com/token/THOTH-rBk691vubN43ctwJN4LvVppGxXibAZ4mKs) | The THOTH Council of X App on XRP |
+| `$KLAUS` | [rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn](https://xpmarket.com/token/KLAUS-rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn) | The Ultimate Golden Retrieve Meme Coin on XRP |
+| `$APARIO` | [rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2](https://xpmarket.com/token/APARIO-rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2) | The XRP token behind the **PhoenixVault** |
+| `$XPQ` | [rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o](https://xpmarket.com/token/XPQ-rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o) | XRPL Wallet App | 
+| `$RAHKI` | [rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY](https://xpmarket.com/token/RAHKI-rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY) | Language Gopher Meme Coin Project |
+| `$RSA` | [rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf](https://xpmarket.com/token/RSA-rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf) | Raven Squad Army Token |
+| `$VICTORIOUS` | [rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU](https://xpmarket.com/token/VICTORIOUS-rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU) | Meme Token |
+| `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
+| `$America` | [rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA](https://xpmarket.com/token/America-rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA) | XRP Bot Trader | 
+| `$OUR` | [rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT](https://xpmarket.com/token/OUR-rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT) | The `$OUR` meme token. | 
+| `$GALLEON` | [](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
+
 ## Projects 
 
 | Name | Language | About | 
