@@ -32,7 +32,7 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
 | `$America` | [rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA](https://xpmarket.com/token/America-rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA) | XRP Bot Trader | 
 | `$OUR` | [rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT](https://xpmarket.com/token/OUR-rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT) | The `$OUR` meme token. | 
-| `$GALLEON` | [](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
+| `$GALLEON` | [rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
 
 ## Projects 
 
