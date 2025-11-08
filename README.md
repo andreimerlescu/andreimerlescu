@@ -2,6 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=465&lines=Thank+you+for+visiting+my+profile!;Wentworth+Institute+Graduate+2011;Cisco+Systems+-+2009-2016;Oracle+Cloud+(OCI)++-+2016-2020;WB+Games+(WBNY)+-+2021-2023;Invented+PhoenixVault+in+2020;Launched+Project+Apario+in+2021;Rewrote+PhoenixVault+in+2023;%24IAM+RESEARCH+%26+DEVELOPMENT!;%24IAM+building+XRP+games+and+apps!;Cisco+Called+Me.+I+Answered.;Oracle+Called+Me.+I+Answered.;WB+Games+Called+Me.+I+Answered.)](https://git.io/typing-svg)
 
-![I Look Like Commander Riker](banner_riker1.jpg)
-
 My name is Andrei. I enjoy writing Go applications and doing DevOps engineering. My collection of open source projects are contributions that I give to the community to help give people more learning opportunities with Go, usefulness in the utilities that I provide and the breadth of them offered as well. Tools ranging from genwordpass, summarize, counter, cli-gematria, goini, bump, and now prettyboy, offer you and me a unique toolset of powerful applications.
