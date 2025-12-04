@@ -72,11 +72,11 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [SawmillMag.com](https://sawmillmag.com) | 2005-2020 | Website Architect | `LAMP`, `Ruby` |
 | [Cisco.com](https://cisco.com) | 2009-2016 | Senior Software Engineer | `Perl`, `LAMP`, `Ruby`, `JS` |
 | [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | __Set Policies for Releases__ |
-| [BitFry Games](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
-| [WG Games](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
-| [SurgePays](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
-| [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
-| [Play And Prosper](https://playandprosper.app) | 2019-2025 | Crypto Blockchain Architect | `Go`, `TypeScript`, `Bash`, `HCL` |
+| [PhoenixVault](https://jfkfiles.info) | 2019-2025 | Founder | `Ruby on Rails`, `Go`, `Bash`, `HCL` | 
+| [BitFry.com](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
+| [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
+| [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
+| [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
 
 > \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. The US Law is a joke, currently and did not protect me. 
 
