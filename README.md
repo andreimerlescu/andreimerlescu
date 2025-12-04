@@ -68,7 +68,7 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 
 | Website | Years | Title | Technologies |
 |---------|-------|-------|--------------|
-| [MuggleNet.com)](https://mugglenet.com) | 2003-2005 | Volunteer Developer | `LAMP` |
+| [MuggleNet.com](https://mugglenet.com) | 2003-2005 | Volunteer Developer | `LAMP` |
 | [SawmillMag.com](https://sawmillmag.com) | 2005-2020 | Website Architect | `LAMP`, `Ruby` |
 | [Cisco.com](https://cisco.com) | 2009-2016 | Senior Software Engineer | `Perl`, `LAMP`, `Ruby`, `JS` |
 | [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | __Set Policies for Releases__ |
