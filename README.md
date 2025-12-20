@@ -12,18 +12,19 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 |--------|----|-------|
 | `$IAM` | [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) | **Exodus 3:14**: `$IAM` _that_ `$IAM` |
 | `$YAHUAH` | [rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab](https://xpmarket.com/token/YAHUAH-rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab) | **Exodus 3:14**: `$YAHUAH` _that_ `$IAM` |
+| `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
 | `$PLAYANDPROSPER` | [rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis](https://xpmarket.com/token/PLAYANDPROSPER-rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis) | Play And Prosper on XRP |
+| `$OUR` | [rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT](https://xpmarket.com/token/OUR-rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT) | The `$OUR` meme token. | 
+| `$America` | [rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA](https://xpmarket.com/token/America-rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA) | XRP Bot Trader | 
+| `$RAHKI` | [rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY](https://xpmarket.com/token/RAHKI-rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY) | Language Gopher Meme Coin Project |
 | `$THOTH` | [rBk691vubN43ctwJN4LvVppGxXibAZ4mKs](https://xpmarket.com/token/THOTH-rBk691vubN43ctwJN4LvVppGxXibAZ4mKs) | The THOTH Council of X App on XRP |
 | `$KLAUS` | [rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn](https://xpmarket.com/token/KLAUS-rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn) | The Ultimate Golden Retrieve Meme Coin on XRP |
+| `$GALLEON` | [rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
 | `$APARIO` | [rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2](https://xpmarket.com/token/APARIO-rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2) | The XRP token behind the **PhoenixVault** |
 | `$XPQ` | [rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o](https://xpmarket.com/token/XPQ-rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o) | XRPL Wallet App | 
-| `$RAHKI` | [rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY](https://xpmarket.com/token/RAHKI-rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY) | Language Gopher Meme Coin Project |
 | `$RSA` | [rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf](https://xpmarket.com/token/RSA-rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf) | Raven Squad Army Token |
+| `$IAM` | [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) | **Exodus 3:14**: `$IAM` _that_ `$IAM` |
 | `$VICTORIOUS` | [rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU](https://xpmarket.com/token/VICTORIOUS-rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU) | Meme Token |
-| `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
-| `$America` | [rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA](https://xpmarket.com/token/America-rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA) | XRP Bot Trader | 
-| `$OUR` | [rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT](https://xpmarket.com/token/OUR-rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT) | The `$OUR` meme token. | 
-| `$GALLEON` | [rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
 
 ## Projects 
 
@@ -71,13 +72,37 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [MuggleNet.com](https://mugglenet.com) | 2003-2005 | Volunteer Developer | `LAMP` |
 | [SawmillMag.com](https://sawmillmag.com) | 2005-2020 | Website Architect | `LAMP`, `Ruby` |
 | [Cisco.com](https://cisco.com) | 2009-2016 | Senior Software Engineer | `Perl`, `LAMP`, `Ruby`, `JS` |
-| [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | __Set Policies for Releases__ |
+| [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | `Ruby`, `Go`, `HCL`, _policy management_. |
 | [PhoenixVault](https://jfkfiles.info) | 2019-2025 | Founder | `Ruby on Rails`, `Go`, `Bash`, `HCL` | 
 | [BitFry.com](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
 | [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
 | [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
 | [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
+| [SurgePays.com](https://surgepays.com) | 2026+ | Cloud Architecture | `Go`, `C++`, `Bash` |
 
-> \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. The US Law is a joke, currently and did not protect me. 
+> \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
+
+## Cloud Architecture
+
+What is Cloud Architecture? If you know, then you kow, but if you don't, then its as Kamala Harris explains. It's up in the clouds and you put your stuff up there. Ok, but you know what Architecture is right? Even Kamala Harris knows what architecture is. Buildings! Monuments! What's your point? Well, like in architecture, you start with blueprints and sandbox models before you commit to building the building itself. Otherwise, you're literally spit balling it (or raw dogging it). 
+
+So, what is cloud architecture then? It's the blueprints expressed in code of what the building will look like when we start the construction of it. We have sign off on our stakeholders and we know what we're building. The practice of Cloud Architecture is the art of designing cloud systems for public/private and hybrid purposes that span multi-discipline and multi-platform in a manner that fundamentally serves the base layer of what will be deployed as the norm going forward.
+
+Cloud Architects product Infrastructure As Code (IaC). The raw lines of IaC are the Architect's blueprints rendered out as near plain English HCL syntax as possible. The mechanics of how HCL operates is open source and accessible to engineers to learn. Hashicorp also offers free virtual training workshops for engineers to practice with Terraform. I encourage this.
+
+Having IaC, stored in `git`, permits engineers the ability to understand fundamentally how infrastructure originated. More so, AI tooling is being built that will allow the history of a git repo to part of the context of the conversation itself, depending on the complexity and depth of the repository itself, and the project itself. For things like IaC, it's easy to see how 50 KB of a dozen `.tf` files can cost literally tens of thousands of dollars per month? Your sizes and flavors matter, and your teams understanding of them is essential.
+
+Architects are responsible for the blueprints that pass the specifications. Without a proper understanding of what the cloud is, as Kamala understands it, we'll never have regulatory oversight of the profession of cloud architecture, like we have with architecture. Am I saying that we need to have the same type of experience as architects do? Not even close! I am suggesting that the industry at large itself certifies "architects" of public clouds before understanding that these certifications are just sales pipelines and not measurements of intelligence to problem solve. 
+
+Certifications give us certified morons that know how to sell you a version of an actual cloud architect's blueprints in the moment. You certify people based on that perspective, and once you get that, being on the inside of how the cloud is actually built permits you the ability to write the tests themselves that the technicians will study for and be required to pass in order to take phone calls in the middle of the night to support the actual company that is running the Infrastructure as Code. 
+
+However, not all certifications truly are like that, and while I may discount the profession at large, I do not dismiss it. Once its capable of actually understanding what the cloud is, and not having the testing administrators answer like `$OUR` __almost__ President answered; then again, once its understood, certifying for it, should be easy because you're trying to save lives in the process of certifying who is qualified. 
+
+Architects are called in multiple scenarios for any institution or organization, and when they are called in, they are asked to build Infrastructure as Code. In my opinion, Cloud Architects are a very important job, just like Architecture itself. It's an art, in its own way. Each of us have `$OUR` passions and such, and for me, I see Infrastructure as Code, and the ability to deploy at the click of a button is pretty damn cool and I love building it for others to experience the thrill of it too. 
+
+But, just like spinning up real estate, digital real estate can get expensive too. Unless you're ready for the true volatility of the WILD WILD WEST of the decentralized infrastructure projects out there on the markets. 
+
+You need to make sure that you're hiring the right assets to run the ship. It's essential in Star Fleet and in all other forms of service command. 
+
 
 
