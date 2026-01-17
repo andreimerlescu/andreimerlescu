@@ -82,6 +82,16 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 
 > \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
 
+## Linux System Administration
+
+I am a seasoned engineer of 17+ years of working with Linux flavored operating systems. Primarily, I prefer running on Rocky Linux, though I enjoy pre-IBM RedHat and Debian flavors as my backup. If I was forced to use Ubuntu, I used Ubuntu. It was fun for a while, but then when things needed to get locked down tigher due to requirements, it meant that I needed to get comfortable with SELinux and having enforcing mode active. It also meant that I needed to implement and integrate WAF's into my solutions as well. Thus in the Go packages that I've released, like the Reader / Writer / Search, they have the ability to define a Web Application Firewall policy structure on their own with a realtively basic enforcement policy against it that places bad actors in iptable ban lists after enough failures in bad requests.
+
+I'll spend a bunch of time doing an advanced search in 30 milliseconds that parses through 86,000 pages of JFK files. That algorithm is super fun to check out, go explore it. But, SELinux enforcing; check. And, advanced memory management; check. If I spend a bunch of time performing that search, why can't I spend a bunch of time in another 30 ms response doing something about known WAF attacks? 
+
+Now, what makes a WAF a WAF and not an acronym is the policy definitions that you define. What paths are off limits? What parameters are flagged as no go? Tell the WAF, and it will enforce it. That way, if the request contains it, then you can spend that 30ms on keeping bad actors from connecting.
+
+All, of course, open source. 
+
 ## Cloud Architecture
 
 What is Cloud Architecture? If you know, then you kow, but if you don't, then its as Kamala Harris explains. It's up in the clouds and you put your stuff up there. Ok, but you know what Architecture is right? Even Kamala Harris knows what architecture is. Buildings! Monuments! What's your point? Well, like in architecture, you start with blueprints and sandbox models before you commit to building the building itself. Otherwise, you're literally spit balling it (or raw dogging it). 
