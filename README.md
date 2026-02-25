@@ -10,12 +10,8 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 
 | Ticker | CA | About |
 |--------|----|-------|
-| `$IAM` | [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) | **Exodus 3:14**: `$IAM` _that_ `$IAM` |
-| `$YAHUAH` | [rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab](https://xpmarket.com/token/YAHUAH-rnHrefi3A1Y4eWCyahtyBtfac1NCnYtnab) | **Exodus 3:14**: `$YAHUAH` _that_ `$IAM` |
 | `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
 | `$PLAYANDPROSPER` | [rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis](https://xpmarket.com/token/PLAYANDPROSPER-rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis) | Play And Prosper on XRP |
-| `$OUR` | [rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT](https://xpmarket.com/token/OUR-rMeV8xd8FCeakGEgtW1JSTm8ZyY8rsTQNT) | The `$OUR` meme token. | 
-| `$America` | [rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA](https://xpmarket.com/token/America-rpVajoWTXFkKWY7gtWSwcpEcpLDUjtktCA) | XRP Bot Trader | 
 | `$RAHKI` | [rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY](https://xpmarket.com/token/RAHKI-rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY) | Language Gopher Meme Coin Project |
 | `$THOTH` | [rBk691vubN43ctwJN4LvVppGxXibAZ4mKs](https://xpmarket.com/token/THOTH-rBk691vubN43ctwJN4LvVppGxXibAZ4mKs) | The THOTH Council of X App on XRP |
 | `$KLAUS` | [rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn](https://xpmarket.com/token/KLAUS-rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn) | The Ultimate Golden Retrieve Meme Coin on XRP |
@@ -38,15 +34,10 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [goini](https://github.com/andreimerlescu/goini) | Go | CLI utility that interacts with `.ini` text files for read/write operations. |
 | [goenv](https://github.com/andreimerlescu/goenv) | Go | CLI utility that interacts with `.env` text files for read/write operations. |
 | [bump](https://github.com/andreimerlescu/bump) | Go | CLI utility that interacts with `VERSION` files for easy version file management. |
-| [prettyboy](https://github.com/andreimerlescu/prettyboy) | Go | CLI utility to browse `~/.bash_history` and `~/.hist/` history. |
 | [igo](https://github.com/andreimerlescu/igo) | Go | CLI utility to manage multiple versions of Go on a non-sudo account. |
 | [ip.ishere.dev](https://github.com/andreimerlescu/ip.ishere.dev) | Go | Open source for [ip.ishere.dev](https://ip.ishere.dev/) |
 | [figtree](https://github.com/andreimerlescu/figtree) | Go | Go Package for CLI Flag / Env Configuration |
 | [checkfs](https://github.com/andreimerlescu/checkfs) | Go | Go Package for Filesystem Checks for `File` & `Directory` |
-| [apario-writer-html2csv](https://github.com/andreimerlescu/apario-writer-html2csv) | Go | CLI Utility to convert `.html` into `apario-writer` CSV. |
-| [apario-reader](https://github.com/andreimerlescu/apario-reader) | Go | Reader component of the **Project Apario** idea. |
-| [apario-writer](https://github.com/andreimerlescu/apario-writer) | Go | Writer component of the **Project Apario** idea. |
-| [apario-search](https://github.com/andreimerlescu/apario-search) | Go | Search component of the **Project Apario** idea. |
 | [sema](https://github.com/andreimerlescu/sema) | Go | Go Package for using Semaphores |
 | [textee](https://github.com/andreimerlescu/textee) | Go | Go Package for interacting with _textee_ substrings. |
 | [gematria](https://github.com/andreimerlescu/gematria) | Go | Go Package for calculating 6 types of Gematria. |
@@ -59,7 +50,6 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [configurable](https://github.com/andreimerlescu/configurable) | Go | Pre-`figtree` package. |
 | [counter](https://github.com/andreimerlescu/counter) | Go | CLI utility for counting things. | 
 | [extra-ssh-bash](https://github.com/andreimerlescu/extra-ssh-bash) | Go | Run the same `bash` command on _n-_ linux hosts using `extra-ssh-bash` |
-| [install-go](https://github.com/andreimerlescu/install-go) | Bash | Pre-`igo` Bash Scripts for Installing Go | 
 | [disk-speed](https://github.com/andreimerlescu/disk-speed) | Bash | Bash script for calculating disk speed on linux. |
 | [encrypted-luks-workspace](https://github.com/andreimerlescu/encrypted-luks-workspace) | Bash | Bash utility for create encrypted volumes using LUKS for Linux OSs |
 | [configure-ebs](https://github.com/andreimerlescu/configure-ebs) | Bash | Bash script for mounting/unmounting AWS EBS in AWS EC2. |
@@ -81,38 +71,4 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [SurgePays.com](https://surgepays.com) | 2026+ | Cloud Architecture | `Go`, `C++`, `Bash` |
 
 > \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
-
-## Linux System Administration
-
-I am a seasoned engineer of 17+ years of working with Linux flavored operating systems. Primarily, I prefer running on Rocky Linux, though I enjoy pre-IBM RedHat and Debian flavors as my backup. If I was forced to use Ubuntu, I used Ubuntu. It was fun for a while, but then when things needed to get locked down tigher due to requirements, it meant that I needed to get comfortable with SELinux and having enforcing mode active. It also meant that I needed to implement and integrate WAF's into my solutions as well. Thus in the Go packages that I've released, like the Reader / Writer / Search, they have the ability to define a Web Application Firewall policy structure on their own with a realtively basic enforcement policy against it that places bad actors in iptable ban lists after enough failures in bad requests.
-
-I'll spend a bunch of time doing an advanced search in 30 milliseconds that parses through 86,000 pages of JFK files. That algorithm is super fun to check out, go explore it. But, SELinux enforcing; check. And, advanced memory management; check. If I spend a bunch of time performing that search, why can't I spend a bunch of time in another 30 ms response doing something about known WAF attacks? 
-
-Now, what makes a WAF a WAF and not an acronym is the policy definitions that you define. What paths are off limits? What parameters are flagged as no go? Tell the WAF, and it will enforce it. That way, if the request contains it, then you can spend that 30ms on keeping bad actors from connecting.
-
-All, of course, open source. 
-
-## Cloud Architecture
-
-What is Cloud Architecture? If you know, then you kow, but if you don't, then its as Kamala Harris explains. It's up in the clouds and you put your stuff up there. Ok, but you know what Architecture is right? Even Kamala Harris knows what architecture is. Buildings! Monuments! What's your point? Well, like in architecture, you start with blueprints and sandbox models before you commit to building the building itself. Otherwise, you're literally spit balling it (or raw dogging it). 
-
-So, what is cloud architecture then? It's the blueprints expressed in code of what the building will look like when we start the construction of it. We have sign off on our stakeholders and we know what we're building. The practice of Cloud Architecture is the art of designing cloud systems for public/private and hybrid purposes that span multi-discipline and multi-platform in a manner that fundamentally serves the base layer of what will be deployed as the norm going forward.
-
-Cloud Architects product Infrastructure As Code (IaC). The raw lines of IaC are the Architect's blueprints rendered out as near plain English HCL syntax as possible. The mechanics of how HCL operates is open source and accessible to engineers to learn. Hashicorp also offers free virtual training workshops for engineers to practice with Terraform. I encourage this.
-
-Having IaC, stored in `git`, permits engineers the ability to understand fundamentally how infrastructure originated. More so, AI tooling is being built that will allow the history of a git repo to part of the context of the conversation itself, depending on the complexity and depth of the repository itself, and the project itself. For things like IaC, it's easy to see how 50 KB of a dozen `.tf` files can cost literally tens of thousands of dollars per month. Your sizes and flavors matter, and your teams understanding of them is essential.
-
-Architects are responsible for the blueprints that pass the specifications. Without a proper understanding of what the cloud is, as Kamala understands it, we'll never have regulatory oversight of the profession of cloud architecture, like we have with architecture. Am I saying that we need to have the same type of experience as architects do? Not even close! I am suggesting that the industry at large itself certifies "architects" of public clouds before understanding that these certifications are just sales pipelines and not measurements of intelligence to problem solve. 
-
-Certifications give us certified morons that know how to sell you a version of an actual cloud architect's blueprints in the moment. You certify people based on that perspective, and once you get that, being on the inside of how the cloud is actually built permits you the ability to write the tests themselves that the technicians will study for and be required to pass in order to take phone calls in the middle of the night to support the actual company that is running the Infrastructure as Code. 
-
-However, not all certifications truly are like that, and while I may discount the profession at large, I do not dismiss it. Once its capable of actually understanding what the cloud is, and not having the testing administrators answer like `$OUR` __almost__ President answered; then again, once its understood, certifying for it, should be easy because you're trying to save lives in the process of certifying who is qualified. 
-
-Architects are called in multiple scenarios for any institution or organization, and when they are called in, they are asked to build Infrastructure as Code. In my opinion, Cloud Architects are a very important job, just like Architecture itself. It's an art, in its own way. Each of us have `$OUR` passions and such, and for me, I see Infrastructure as Code, and the ability to deploy at the click of a button is pretty damn cool and I love building it for others to experience the thrill of it too. 
-
-But, just like spinning up real estate, digital real estate can get expensive too. Unless you're ready for the true volatility of the WILD WILD WEST of the decentralized infrastructure projects out there on the markets. 
-
-You need to make sure that you're hiring the right assets to run the ship. It's essential in Star Fleet and in all other forms of service command. 
-
-
 
