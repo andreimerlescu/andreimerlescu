@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=465&lines=Thank+you+for+visiting+my+profile!;Wentworth+Institute+Graduate+2011;Cisco+Systems+-+2009-2016;Oracle+Cloud+(OCI)++-+2016-2020;WB+Games+(WBNY)+-+2021-2023;Invented+PhoenixVault+in+2020;Launched+Project+Apario+in+2021;Rewrote+PhoenixVault+in+2023;%24IAM+RESEARCH+%26+DEVELOPMENT!;%24IAM+building+XRP+games+and+apps!;Cisco+Called+Me.+I+Answered.;Oracle+Called+Me.+I+Answered.;WB+Games+Called+Me.+I+Answered.)](https://git.io/typing-svg)
 
-My name is Andrei. I enjoy writing Go applications and doing DevOps engineering.
+My name is Andrei. I used to enjoy writing Go applications and doing DevOps engineering. Then AI took my career away from me. Now I want nothing to do with the industry and people who push AI onto everything. 
 
 ## XRP Projects
 
@@ -68,7 +68,7 @@ As you can see from my **PROJECTS** below, I love building, so `$IAM` going to b
 | [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
 | [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
 | [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
-| [SurgePays.com](https://surgepays.com) | 2026+ | Cloud Architecture | `Go`, `C++`, `Bash` |
+| [SurgePays.com](https://surgepays.com) | 2026 | Cloud Architecture | `Go`, `C++`, `Bash` |
 
 > \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
 
