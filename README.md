@@ -2,26 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=465&lines=Thank+you+for+visiting+my+profile!;Wentworth+Institute+Graduate+2011;Cisco+Systems+-+2009-2016;Oracle+Cloud+(OCI)++-+2016-2020;WB+Games+(WBNY)+-+2021-2023;Invented+PhoenixVault+in+2020;Launched+Project+Apario+in+2021;Rewrote+PhoenixVault+in+2023;%24IAM+RESEARCH+%26+DEVELOPMENT!;%24IAM+building+XRP+games+and+apps!;Cisco+Called+Me.+I+Answered.;Oracle+Called+Me.+I+Answered.;WB+Games+Called+Me.+I+Answered.)](https://git.io/typing-svg)
 
-My name is Andrei. I used to enjoy writing Go applications and doing DevOps engineering. Then AI took my career away from me. Now I want nothing to do with the industry and people who push AI onto everything. 
-
-## XRP Projects
-
-As you can see from my **PROJECTS** below, I love building, so `$IAM` going to be building out apps these tokens and more:
-
-| Ticker | CA | About |
-|--------|----|-------|
-| `$ISHALL` | [rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX](https://xpmarket.com/token/ISHALL-rnPjYnFHppG6Uw5gqgUNE6BDjWW8aCE2aX) | Meme Token | 
-| `$PLAYANDPROSPER` | [rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis](https://xpmarket.com/token/PLAYANDPROSPER-rhT7eJ5SzvX7cTH66SBY6qzThSREVPskis) | Play And Prosper on XRP |
-| `$RAHKI` | [rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY](https://xpmarket.com/token/RAHKI-rGm8A6E5quE5hvoERypCRLd1gpmoc31xyY) | Language Gopher Meme Coin Project |
-| `$THOTH` | [rBk691vubN43ctwJN4LvVppGxXibAZ4mKs](https://xpmarket.com/token/THOTH-rBk691vubN43ctwJN4LvVppGxXibAZ4mKs) | The THOTH Council of X App on XRP |
-| `$KLAUS` | [rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn](https://xpmarket.com/token/KLAUS-rJPa8myf3d3zZCn3gJXUrvCfBQ8vT5k3Mn) | The Ultimate Golden Retrieve Meme Coin on XRP |
-| `$GALLEON` | [rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa](https://xpmarket.com/token/GALLEON-rPWCieDaitKSDekXPWP9EtH5mWzNw8eRsa) | The `$GALLEON` meme token. |
-| `$APARIO` | [rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2](https://xpmarket.com/token/APARIO-rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2) | The XRP token behind the **PhoenixVault** |
-| `$XPQ` | [rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o](https://xpmarket.com/token/XPQ-rp3oAG6oPRuSFYLJiVUNQMdcUoj6t7jx1o) | XRPL Wallet App | 
-| `$RSA` | [rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf](https://xpmarket.com/token/RSA-rKuM1ws1MfFa5RnrWJ2Qt8KAbzVdumGraf) | Raven Squad Army Token |
-| `$IAM` | [r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh](https://xpmarket.com/token/IAM-r4nmbMuWJMduJe7M3HfyqpN6GCvBmRkxhh) | **Exodus 3:14**: `$IAM` _that_ `$IAM` |
-| `$VICTORIOUS` | [rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU](https://xpmarket.com/token/VICTORIOUS-rnyb1twQVcpzaogkDe7bwtRFqkaBrq6nkU) | Meme Token |
-
 ## Projects 
 
 | Name | Language | About | 
