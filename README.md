@@ -1,10 +1,6 @@
 ### Hi there 👋, 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=465&lines=Thank+you+for+visiting+my+profile!;Wentworth+Institute+Graduate+2011;Cisco+Systems+-+2009-2016;Oracle+Cloud+(OCI)++-+2016-2020;WB+Games+(WBNY)+-+2021-2023;Invented+PhoenixVault+in+2020;Launched+Project+Apario+in+2021;Rewrote+PhoenixVault+in+2023;%24IAM+RESEARCH+%26+DEVELOPMENT!;%24IAM+building+XRP+games+and+apps!;Cisco+Called+Me.+I+Answered.;Oracle+Called+Me.+I+Answered.;WB+Games+Called+Me.+I+Answered.)](https://git.io/typing-svg)
-
-‏פעם הבאה שאלוהים כלשהו מבטיח לנו ארץ, מסרבים בנימוס.
-
-Learning Go in 2021 was a waste of energy, time, and money. I sacrificed a lot to learn Go, so I could build better open source software to have my livelihood and my career completely gutted from me in a violent manner by AI displacing backend software engineers and devops experts to tooling that costs a fraction of what I cost. My mere existence is a buden to this degenerate society and so I have retired from tech and give ZERO fucks at all about anyone, frankly speaking. No offense intended. I spent my entire life after escaping the orphanage in Romania to build myself up to be a programmer and a developer for my livelihood and in the middle of it I get rugged. I'm done. Fuck this world. Enjoy my source code and have fun on this fucking rock. 
+Rest In Peace Andrei.
 
 ## Projects 
 
