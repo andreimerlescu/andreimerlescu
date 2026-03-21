@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-Rest In Peace Andrei.
+After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. Past projects have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convienence. I bill a minimum of 2 hours per day regardless of the length of the interaction. I do not bill over 9 hours per day as I refuse to work over 9 hours for any given client that I work with. Services require a monthly retainer of $3,600 per month on top of the hourly rate.
 
 ## Projects 
 
