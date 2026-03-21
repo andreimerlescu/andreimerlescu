@@ -3,7 +3,7 @@
 | Qualification | Experience |
 |--------|--------|
 | Years of Experience | Since 2009 (17y) |
-| Top Languages | `Go`, `Ruby`, `Bash` |
+| Top Languages | `Go`, `Ruby`, `PHP`, `Bash` |
 | Retainer | $3,600/mo (paid in USD | RLUSD | XRP) |
 | Workstation | M3 Mac Studio w/ 256GB RAM + MacBook Pro w/ 48GB RAM |
 | Hourly Rate | $170/hr |
