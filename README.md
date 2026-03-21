@@ -1,8 +1,20 @@
 ### Hi there 👋, 
 
+| Qualification | Experience |
+|--------|--------|
+| Years of Experience | 17 |
+| Top Languages | `Go`, `Ruby`, `Bash` |
+| Retainer | $3,600/mo |
+| Workstation | M3 Mac Studio w/ 256GB RAM |
+| Hourly Rate | $170/hr |
+| Daily Minimum | 2 hours |
+| Maximum Clients | 3 Businesses |
+| Available Seats | 1 Remaining |
+
 After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. Past projects have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convienence. I bill a minimum of 2 hours per day regardless of the length of the interaction. I do not bill over 9 hours per day as I refuse to work over 9 hours for any given client that I work with. Services require a monthly retainer of $3,600 per month on top of the hourly rate.
 
-## AI Capable Developer 
+
+## AI Enhanced Business Development Services 
 
 I built my career being a per-character programmer with a higher education backend in Electrical Engineering over 17 years ago. Today, I have the highest end AI development work station and I am capable of writing code in over 12 programming languages. Now with AI, I am able to build projects from start to finish in a matter of days to weeks, instead of months to years. Because of that, I require a retainer for services at $3,600 per month paid at the beginning of each month that is non-refundable and is mandatory in order to consult with me. Then, I'll bill you $170/hr (2 hours per day minimum) while I take whatever it is that you have, and I mean whatever it is that you have, and I can upgrade it for the modern world and the modern workflow. 
 
