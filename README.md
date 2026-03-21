@@ -2,6 +2,28 @@
 
 After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. Past projects have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convienence. I bill a minimum of 2 hours per day regardless of the length of the interaction. I do not bill over 9 hours per day as I refuse to work over 9 hours for any given client that I work with. Services require a monthly retainer of $3,600 per month on top of the hourly rate.
 
+## AI Capable Developer 
+
+I built my career being a per-character programmer with a higher education backend in Electrical Engineering over 17 years ago. Today, I have the highest end AI development work station and I am capable of writing code in over 12 programming languages. Now with AI, I am able to build projects from start to finish in a matter of days to weeks, instead of months to years. Because of that, I require a retainer for services at $3,600 per month paid at the beginning of each month that is non-refundable and is mandatory in order to consult with me. Then, I'll bill you $170/hr (2 hours per day minimum) while I take whatever it is that you have, and I mean whatever it is that you have, and I can upgrade it for the modern world and the modern workflow. 
+
+Other engineers will require benefits and paid time off and other perks that add risk to the organization. What I am offering is nimble and agile for any organization to seek my services and stay ahead of the market. The job market is rough for software engineers seeking full time work, but for any company that can't hire full time, but needs AI integration assistance; let me work on your project over a 3 month or 6 month engagement period and watch what I can build for you. 
+
+## Professional Career
+
+| Website | Years | Title | Technologies |
+|---------|-------|-------|--------------|
+| [MuggleNet.com](https://mugglenet.com) | 2003-2005 | Volunteer Developer | `LAMP` |
+| [SawmillMag.com](https://sawmillmag.com) | 2005-2020 | Website Architect | `LAMP`, `Ruby` |
+| [Cisco.com](https://cisco.com) | 2009-2016 | Senior Software Engineer | `Perl`, `LAMP`, `Ruby`, `JS` |
+| [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | `Ruby`, `Go`, `HCL`, _policy management_. |
+| [PhoenixVault](https://jfkfiles.info) | 2019-2025 | Founder | `Ruby on Rails`, `Go`, `Bash`, `HCL` | 
+| [BitFry.com](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
+| [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
+| [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
+| [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
+| [SurgePays.com](https://surgepays.com) | 2026 | Cloud Architecture | `Go`, `C++`, `Bash` |
+
+
 ## Projects 
 
 | Name | Language | About | 
@@ -35,26 +57,6 @@ After the pandemic I learned Go and started building a bunch of open source soft
 | [configure-ebs](https://github.com/andreimerlescu/configure-ebs) | Bash | Bash script for mounting/unmounting AWS EBS in AWS EC2. |
 | [ips.shabbat](https://github.com/andreimerlescu/ips.shabbat) | PHP | IP.Community 4 Plugin to Enforce Shabbat |
 
-## Professional Career
-
-| Website | Years | Title | Technologies |
-|---------|-------|-------|--------------|
-| [MuggleNet.com](https://mugglenet.com) | 2003-2005 | Volunteer Developer | `LAMP` |
-| [SawmillMag.com](https://sawmillmag.com) | 2005-2020 | Website Architect | `LAMP`, `Ruby` |
-| [Cisco.com](https://cisco.com) | 2009-2016 | Senior Software Engineer | `Perl`, `LAMP`, `Ruby`, `JS` |
-| [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | `Ruby`, `Go`, `HCL`, _policy management_. |
-| [PhoenixVault](https://jfkfiles.info) | 2019-2025 | Founder | `Ruby on Rails`, `Go`, `Bash`, `HCL` | 
-| [BitFry.com](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
-| [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
-| [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
-| [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
-| [SurgePays.com](https://surgepays.com) | 2026 | Cloud Architecture | `Go`, `C++`, `Bash` |
 
 > \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
-
-## AI Capable Developer 
-
-I built my career being a per-character programmer with a higher education backend in Electrical Engineering over 17 years ago. Today, I have the highest end AI development work station and I am capable of writing code in over 12 programming languages. Now with AI, I am able to build projects from start to finish in a matter of days to weeks, instead of months to years. Because of that, I require a retainer for services at $3,600 per month paid at the beginning of each month that is non-refundable and is mandatory in order to consult with me. Then, I'll bill you $170/hr (2 hours per day minimum) while I take whatever it is that you have, and I mean whatever it is that you have, and I can upgrade it for the modern world and the modern workflow. 
-
-Other engineers will require benefits and paid time off and other perks that add risk to the organization. What I am offering is nimble and agile for any organization to seek my services and stay ahead of the market. The job market is rough for software engineers seeking full time work, but for any company that can't hire full time, but needs AI integration assistance; let me work on your project over a 3 month or 6 month engagement period and watch what I can build for you. 
 
