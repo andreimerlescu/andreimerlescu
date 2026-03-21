@@ -8,7 +8,7 @@
 | Workstation | M3 Mac Studio w/ 256GB RAM + MacBook Pro w/ 48GB RAM |
 | Hourly Rate | $170/hr |
 | Daily Minimum | 2 hours |
-| Consulting Limit | 3 Businesses |
+| Consulting Limit | 3 Businesses (serving two currently) |
 | Available Services | I can help ONE more company. |
 
 After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. Past projects have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convienence. I bill a minimum of 2 hours per day regardless of the length of the interaction. I do not bill over 9 hours per day as I refuse to work over 9 hours for any given client that I work with. Services require a monthly retainer of $3,600 per month on top of the hourly rate.
