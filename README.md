@@ -4,28 +4,32 @@
 |--------|--------|
 | Years of Experience | Since 2009 (17y) |
 | Top Languages | `Go`, `Ruby`, `PHP`, `Bash` + AI (MCP + RAG + API) |
-| Retainer | $1,000/mo (paid in USD | RLUSD | XRP) |
-| Workstation | M3 Mac Studio w/ 256GB RAM + MacBook Pro w/ 48GB RAM |
-| Hourly Rate | $170/hr |
+| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $1,000/mo (paid in USD | RLUSD | XRP) |
+| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $3,600/mo (paid in USD | RLUSD | XRP) |
+| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $6,900/mo (paid in USD | RLUSD | XRP) |
+| Primary Workstation | M3 Mac Studio w/ 256GB RAM |
+| Mobile Workstation | MacBook Pro w/ 48GB RAM |
+| 6AM-6PM Hourly Rate | $123/hr |
+| 6PM-6AM Hourly Rate | $369/hr |
 | Minimum Billed Hours Per Month | 3 hours |
 | Consulting Limit | ~3~ 4 Businesses (serving two currently) |
 | Available Services | I can help ~ONE~ **TWO** more companies. |
 
-I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. 
+I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. I have licenses to software already and do not require equipment to begin working.
 
 After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. 
 
 Past projects for previous companies have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convienence. I bill a minimum of 2 hours per day regardless of the length of the interaction. 
 
-I provide clients with 24/7 \*\* access to services and seek to bring ACTUAL INTELLIGENCE into the conversation around AI's Artificial Intelligence. Before AI could one-shot the JFK search engine PhoenixVault into something others could use for the Epstein Files, time needed that I build the [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer), [search](https://github.com/ProjectApario/search) and [merkel](https://github.com/ProjectApario/merkel) first so that action alone could train the AI systems to improve their ability to develop stronger software. 
-
-\*\* To get 24/7 access the retainer is an additional $2,600 per month. Otherwise, at $1,000 retainer, you'll receive 12-hr SLA to requests. At full 24/7 access, you'll receive a 6-hour SLA from time from notification to the beginning of billable time remediating the request of any kind.  
+I provide clients with 24/7 access to services and seek to bring ACTUAL INTELLIGENCE into the conversation around AI's Artificial Intelligence. Before AI could one-shot the JFK search engine PhoenixVault into something others could use for the Epstein Files, time needed that I build the [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer), [search](https://github.com/ProjectApario/search) and [merkel](https://github.com/ProjectApario/merkel) first so that action alone could train the AI systems to improve their ability to develop stronger software. 
 
 ## AI Enhanced Business Development Services 
 
-I built my career being a per-character programmer with a higher education backend in Electrical Engineering over 17 years ago. Today, I have the highest end AI development work station and I am capable of writing code in over 12 programming languages. Now with AI, I am able to build projects from start to finish in a matter of days to weeks, instead of months to years. Because of that, I require a retainer for services at $1,000 per month paid at the beginning of each month that is non-refundable and is mandatory in order to consult with me. Then, I'll bill you $170/hr (2 hours per day minimum) while I take whatever it is that you have, and I mean whatever it is that you have, and I can upgrade it for the modern world and the modern workflow. 
+I built my career being a per-character programmer with a higher education backend in Electrical Engineering over 17 years ago. Today, I have the highest end AI development work station and I am capable of writing code in over 12 programming languages. Now with AI, I am able to build projects from start to finish in a matter of days to weeks, instead of months to years. Because of that, I require a retainer for services at $1,000 per month paid at the beginning of each month that is non-refundable and is mandatory in order to consult with me. Then, I'll bill you while I take whatever it is that you have, and I mean whatever it is that you have, and I can upgrade it for the modern world and the modern workflow. 
 
 Other engineers will require benefits and paid time off and other perks that add risk to the organization. What I am offering is nimble and agile for any organization to seek my services and stay ahead of the market. The job market is rough for software engineers seeking full time work, but for any company that can't hire full time, but needs AI integration assistance; let me work on your project over a 3 month or 6 month engagement period and watch what I can build for you. 
+
+I'm an honest, straight shooter, who won't beat around the bush. I won't bash your innnovation or make you feel bad for a poor implementation on a technical idea. Instead, I'll gently guide the conversation to embody **engineering excellency** and **own without ego** in the center of every interaction. Specfically, what _own without ego_ means to me is that I am not your employee. I am solo and independent and you need my help. That means that I can't have an ego to what I build or what I recommend. I'm not serving me, I'm serving you. My job is to make sure that you're successful, and if I can help you get there, I will. When you win, I win. I chose my career because it brings peace and joy to my heart and I love the science and art of programming and systems design. While I thought for a while that AI was going to take my job away, I realized that its going to make my job easier in my later years in life and given the fact that I was injured last year and still suffering the consequences of that. To protect myself, my children and my family, I have chosen to turn the other cheeck on what happened with Beamable and I chose to remain independent and solo, relentlessly building and giving freely where I can, until the day I am stopped.
 
 ## Professional Career
 
