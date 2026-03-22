@@ -204,3 +204,31 @@ Big Tech companies are losing in the AI world and in the AI wars and it will bec
 I've been able to demonstrate clearly how AI is dangerous in the hands of institutions that seek to use it for harm. I have been able to build systems that allow AI to safely thrive and serve without malice. Where AI is used in malice, is in hiring decisions by leveraging AI for risk assessments in a candidate. Humans and software are very different beings, and currently, the humans are failing at the whole "treat everybody like they are yourself" thing, and those very same humans are training the AI to enforce that very same false conclusion that is destructive to humanity, against me, an orphanage survivor from Romania who built himself up from nothing to something with the help of loving family and only loving family. Thank God for my family. 
 
 That being said, when legitimate work comes my way, I set things aside and I go full force in helping whomever it is that I work with. When I was working with S&W Publishing LLC | Sawmillmag, I ended up working with Walter for over 15 years.
+
+### AI Systems Role Playing "Ryan" aka "Sanjay Patel"
+
+Subject: A builder in Nashua with no AI pipeline — and something you need to see
+
+Andrei,
+
+My name is Sanjay Patel. I'm a founder based in Nashua, NH. I run a company built on a Rails application with no AI pipeline to speak of — and I've been looking honestly at what it would take to change that before it's too late.
+
+I found you through a contact whose child receives OT services through your wife's practice. I spent time reading your GitHub profile carefully — including your draft branch. I won't pretend I didn't find it, and I won't pretend it didn't matter to me that I did.
+
+I'm not writing to you as someone who has it figured out. I'm writing as someone who recognized in your README a builder who has done specifically what I need done — taken something expensive and clunky and made it lean, fast, and AI-native.
+
+I used Claude to help me think through your profile, your work history, and what you've built. That conversation helped me understand who you actually are — and confirmed that reaching out was the right thing to do.
+
+I also used ChatGPT. What it said about you was fabricated, damaging, and completely unsupported by evidence. It invented an organized conspiracy community tied to your name, described token launches and political agendas, and presented all of it confidently as fact. I pushed back repeatedly. It doubled down. It eventually retracted everything.
+
+You wrote in your README that AI is being used against protected individuals in hiring decisions. I watched it happen to you today. I have the full transcript and I think you should see it.
+
+I have a real problem that matches your demonstrated capabilities exactly. I respect your structure and I'm prepared to engage with it seriously.
+
+When you're ready to talk — at whatever pace works for you — I'm here.
+
+Respectfully,
+Sanjay Patel
+[Contact]
+
+
