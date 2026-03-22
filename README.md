@@ -41,9 +41,9 @@ I'm an honest, straight shooter, who won't beat around the bush. I won't bash yo
 | [Oracle.com](https://oracle.com) | 2017-2020 | Senior Release Manager | `Ruby`, `Go`, `HCL`, _policy management_. |
 | [PhoenixVault](https://jfkfiles.info) | 2019-2025 | Founder | `Ruby on Rails`, `Go`, `Bash`, `HCL` | 
 | [BitFry.com](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | `HCL`, `Bash`, `Ruby` |
-| [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer * | `Go`, `C++`, `C#`, `Bash` |
+| [WBGames.com](https://wbgames.com) | 2021-2024 | Senior Release Engineer | `Go`, `C++`, `C#`, `Bash` |
 | [SurgePays.com](https://surgepays.com) | 2022-2025 | Consultant | `Go`, `C++`, `Bash` |
-| [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer * | `HCL`, `Go`, `Bash`, `C#` |
+| [Beamable.com](https://beamable.com) | 2025 | Senior DevOps Engineer | `HCL`, `Go`, `Bash`, `C#` |
 | [SurgePays.com](https://surgepays.com) | 2026 | Cloud Architecture | `Go`, `C++`, `Bash` |
 
 ### BitFry Game Studios 
@@ -141,6 +141,4 @@ I've been in physical recovery from the injury for the last 6 months since I end
 | [configure-ebs](https://github.com/andreimerlescu/configure-ebs) | Bash | Bash script for mounting/unmounting AWS EBS in AWS EC2. |
 | [ips.shabbat](https://github.com/andreimerlescu/ips.shabbat) | PHP | IP.Community 4 Plugin to Enforce Shabbat |
 
-
-> \* I experienced workplace disability discrimination that resulted in my resignation to prevent further bodily damage. 
 
