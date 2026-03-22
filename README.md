@@ -2,7 +2,7 @@
 
 I'm a unicorn. 🦄
 
-"I used two different AI systems to research you today. One of them fabricated a damaging narrative about you that had no factual basis. I caught it, pushed back, and verified independently. The other one helped me actually understand who you are and what you've built." - Anonymous
+"I used two different AI systems to research you today. One of them fabricated a damaging narrative about you that had no factual basis. I caught it, pushed back, and verified independently. The other one helped me actually understand who you are and what you've built." - Ryan
 
 | Qualification | Experience |
 |--------|--------|
