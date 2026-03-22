@@ -14,8 +14,9 @@ I'm a unicorn. 🦄
 | 6AM-6PM Hourly Rate | $123/hr |
 | 6PM-6AM Hourly Rate | $369/hr |
 | Minimum Billed Hours Per Month | 3 hours |
-| Consulting Limit | ~3~ 4 Businesses (serving two currently) |
-| Available Services | I can help ~ONE~ **TWO** more companies. |
+| Maximum Billed Hours Per Month | 120 Total (Across no more than 3 clients) | 
+| Consulting Limit | 3 Businesses (serving ONE currently) |
+| Available Services | I can help **TWO** more clients. |
 
 I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. I have licenses to software already and do not require equipment to begin working.
 
