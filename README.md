@@ -13,10 +13,6 @@ Success is like the ocean.
 The problem is some people go to ocean with a teaspoon.
 The other problem is you'll try to trade your teaspoon for a bucket.
 
-1. Ask with intelligence | articulation | enunciated 
-2. Goals are like magnets. The more you describe them, the more they pull.
-3. Ask with faith. You're asking Yah'Shua. Who gives you access to the eternal "I AM" that you are.
-
 ## Andrei Merlescu (formerly Michael Trimm)
 
 My name is Andrei. I was adopted to America on 10 Tevet 5751. On 11 Tevet 5751, my world changed from listening and partially speaking to exclusively Romanian language within an orphanage housing around 33 others alongside me. On that day, I became Michael. On that day, I started a 29 year alternate timeline for me that ended on 11 Tavet 5751. Born on 19 Elul 5748, Andrei entered into America, the United States, under the name of Andrei Trimm by international cooperation and agreements in court. Upon arrival to 44.8016° N, 68.7712° W, Andrei was quickly dismissed in favor for Michael under any and all conditions, as fast as possible. This was happening to thousands of international adoptees around the world. By 25 Elul 5754, I was admitted into the public education system and had developmental delays caused by the orphanage exposure and neglect. On 22 Nisan 5759, I began receiving Attaching Holding Therapy services by a social worker named Lee Spanger, at the age of 8. Services concluded at 12 years old, where after my 11th birthday I was in Cleveland Ohio receiving services from Dr Gregory Keck and being moved from home to home during that period of my life.
