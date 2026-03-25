@@ -35,13 +35,13 @@ By 12 Av 5775 I found myself in Tokyo Japan for the OpenStack Summit, representi
 |--------|--------|
 | Years of Experience | Since 2009 (17y) |
 | Top Languages | `Go`, `Ruby`, `PHP`, `Bash` + AI (MCP + RAG + API) |
-| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $1,000/mo (paid in USD | RLUSD | XRP) |
-| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $3,600/mo (paid in USD | RLUSD | XRP) |
-| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $6,900/mo (paid in USD | RLUSD | XRP) |
+| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $3,000/mo |
+| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $6,000/mo |
+| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $9,000/mo |
 | Primary Workstation | M3 Mac Studio w/ 256GB RAM |
 | Mobile Workstation | MacBook Pro w/ 48GB RAM |
-| 6AM-6PM Hourly Rate | $123/hr |
-| 6PM-6AM Hourly Rate | $369/hr |
+| 6AM-6PM Hourly Rate | $777/hr |
+| 6PM-6AM Hourly Rate | $999/hr |
 | Minimum Billed Hours Per Month | 3 hours |
 | Maximum Billed Hours Per Month | 120 Total (Across no more than 3 clients) | 
 | Consulting Limit | 3 Businesses (serving ONE currently) |
@@ -49,11 +49,11 @@ By 12 Av 5775 I found myself in Tokyo Japan for the OpenStack Summit, representi
 
 I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. I have licenses to software already and do not require equipment to begin working.
 
-After the pandemic I learned Go and started building a bunch of open source software. Before the pandemic, I was in Big Tech. Open to work. I bill at $170/hr for programming services that includes AI development. Some packages, especially `summarize` and `aigcm` use Ollama local LLM models to provide RAG/MCP access to components like file system resources and Docker tools. I can take a complex infrastructure and refactor it on a multi-cloud architecture potentially saving millions of dollars. 
-
 Past projects for previous companies have delivered this value, and for that reason, my rate is my rate because of how effective I am. I work on my own hours and my own time, but I make myself available for clients at their convenience. I bill a minimum of 2 hours per day regardless of the length of the interaction. 
 
-I provide clients with 24/7 access to services and seek to bring ACTUAL INTELLIGENCE into the conversation around AI's Artificial Intelligence. Before AI could one-shot the JFK search engine PhoenixVault into something others could use for the Epstein Files, time needed that I build the [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer), [search](https://github.com/ProjectApario/search) and [merkel](https://github.com/ProjectApario/merkel) first so that action alone could train the AI systems to improve their ability to develop stronger software. 
+I provide clients with 24/7 access to services and seek to bring ACTUAL INTELLIGENCE into the conversation around AI's Artificial Intelligence. Before AI could one-shot the JFK search engine PhoenixVault into something others could use for the Epstein Files, time needed that I build the [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer), [search](https://github.com/ProjectApario/search) and [merkel](https://github.com/ProjectApario/merkel) first so that action alone could train the AI systems to improve their ability to develop stronger software. Now, with an AI capable power-house of a machine, I am available for hire with flexibility in terms negotiation for various projects, advisary board positions, and other engagements, all lawful and all billed according to the table above. Terms are NET 15 upon receipt. No pay means no show. I have the ability to connect the dots for you. I worked in Big Tech before AI and I have spent the last 5 years training AI on that which gave me the ability to innovate time and time again, despite the challenges that I live with regarding what happened to me when I was a young child in Romania and in Ohio, but as an adult; I have been at your service. After the pandemic, I restored my identity and reclaimed what was mine and no one else's to take away from me. With my birth right recognized and the complete identity integration that took place over the last 7 years, I am available to work on excited new projects with businesses and organizations. I am not an employee, but I'll keep a time card for when we do actually engage. I'll bill you at 20 minute intervals, 5 units per hour. 21 minutes is 2 units. 41 minutes is 5 units.
+
+Working full time, 9-5PM means that I cannot provide support for my wife, who is Dr Heather Ajzenman, OTD, OTR/L, HPCS. She is a highly specialized pediatric occupational therapist, researcher, and author. She is best known for her work integrating equine-assisted therapy specifically hippotherapy into clinical practice for children with developmental challenges. Heather earned her Doctor of Occupational Therapy (OTD) from the Washington University School of Medicine in St. Louis, which is consistently ranked as one of the top occupational therapy programs in the United States. I (formerly Michael Trimm) play a significant administrative and foundational role in running and launching Play & Prosper Therapy, PLLC. While Heather is the clinical heart of the business - providing the expertise in occupational therapy and hippotherapy - my involvement is visible in the structural and operational setup of the company. By accepting this arrangement, you're effectively compensating me $200K/year without having me full time. It's a win-win in the 2026 era that we are living in. My rate has long been outdated and I am grateful to Claude, Gemini and Grok for their assistance in the development of almost 99 open source packages on top of dozens of utilities, tools, and internal products that I have built for the companies I've worked with in the past.
 
 ## AI Enhanced Business Development Services 
 
@@ -140,6 +140,10 @@ A month before resigning and then getting fired, I actually upgraded the company
 The company found it easier to wrong me, part ways with me, and then sell off; thus rugging their Solana crypto token that I personally ended up losing big time out on. My investment dropped by 90% as a request of the aftermath of September-November 2025 last year with them. Many others in the crypto community (developers not investors) were impacted. I was working with Vultr trying to get their Checker Nodes to be on-click deploy. But, you need code for that. The code wasn't written yet, and I felt that I was cast as an outsider from the first day at Beamable because they led on with that they were more than they had, but then once you saw behind the curtain, you saw that its a combination of good looks, AI prompts, and no questions asked that keep them on top of the competition.
 
 I've been in physical recovery from the injury for the last 6 months since I ended my time with Beamable and chose NOT to go after then for breaking the law against me. They did even more to me, to further retaliate against me, and maybe just maybe, I'll post aout THAT sometime. But, for others who are casually looking at this engineer's profile and being like what's his deal? I'm a builder and I turn the other cheek. Beamable wronged me, it hurt me, and I focused on physical recovery over retalation. The window of opportunity to seek justice has expired and they officially got away with hurting me. But, my testimony is my testimony, and a court case would take that away and cast it down to the sentiment of a verdict. You be the judge. 
+
+### S&amp;W Publishing | Sawmillmag 
+
+
 
 ## Projects 
 
