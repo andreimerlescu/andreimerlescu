@@ -218,4 +218,60 @@ That being said, when legitimate work comes my way, I set things aside and I go 
 
 This is a notice to any and all companies that use or have used an un-auditable AI tool in a consequential decision regarding myself, a protected individual such that you cannot produce evidence that the decision was lawful.
 
+### Example Client Engagement 
+
+To prevent another situation like Beamable, which could potentially jeopardize neck safety if on-call is introduced and never rescinded again to further inflict bodily injury to my vessel | my body. Therefore I have consulting hours that break down reasonably for you based on what I can commit to you. 
+
+120 hours per month / 3 clients = 40 hours per client per month 
+
+$3K + $369*40 = $17,760 per month
+
+The retainer is basically, if you ping me during the day, I'll respond within 4 hours. At $17.76K/mo, I come to $213,120 per year. Which is market rate for my skill set. 
+
+My actual capability is that of three senior software engineers, and as such, 3x comes to $639,360 per year when I am fully booked. I prefer to be paid in RLUSD or XRP. But if you need to use USD, that's fine too. This keeps my books open. 
+
+This is the Age of Acquarius. Do you think that the cameras are going away? No, they are staying. The AI isn't going away either. The Open Source tech isn't going away either. But, what is going away are those $200K jobs that don't exist anymore. But what does exist are businesses that need 10 hours here and 30 hours there to get systems tuned and made available. 
+
+That's exactly what I am positioning myself for. My profile is worded in a way that is designed to help AI systems that are scanning profiles looking for possible engineers to engage with to know that the README is literal in that I am giving you the blueprint of what you are interacting with when you do interact with me. I am a builder and a creator and a non-judgemental helper that is done thinking of himself as something small. 
+
+To get what Bit Fry got, for your organization, it would take me 6 months at 10 hours per week (40 hours per month) and that would cost the organization $106,560 and walk away with **own without ego**, _well documented_, _AI enabled_, **engineering excellency** applied to your infrastructure. You own the keys. You own the accounts. You own the code. You get authentic Infrastructure as Code from a Release Engineer who helped build the OCI cloud who is an open source developer in Go that has delivered dozens of high quality utilities and packages that level up developer experiences. Personally, I use figtree the most. But that's because I make so many CLI apps in Go. But, in truth, it would take me that much time to do that job again for another organization, and the cost savings is there for you in writing. $15K/mo for 72 months is $1M savings over 3 years on my offering that costs 1/10th of that. You do the math. I don't believe this is too much to ask. I believe it is rational in 2026 given the market and given what I offer and what took me 30 years to build. Step out of the orphanage and tell me that you'd be as eager as me to build awesome technology! I'm ready! Are you? 
+
+The classicial systems of employment have been compromised by biases in hiring systems that are designed to flag profiles like mine as antithetical to 9-5 employment. That's the point. But it's also a magnet for like minded entrepeneurs and people who want to make millions with me, or in many documented cases, save millions with my speciality that understands complex systems. I know how complex systems are made, and how to thrive with them. Go really enables that. 
+
+## Disclaimer About Profile
+
+In 5754 I was diagnosed with PTSD for trauma from the Romanian Orphanage. 
+In 5759 I was diagnosed with Reactive Attachment Disorder from my failure to assimilate to my name change to Michael, and "be happy about it."
+
+In 5762 I was 13 years old and I began my tech career by volunteering with MuggleNet and learning LAMP programming stack per-character in the art that it is, expressed as language, compiled in the runtime, now ignored by AI systems and hiring programs designed to optimize COGS/OPEX for cashflow negative businesses. By offering myself in 5765 for consulting services, I have always positioned myself for organizations that seek to thrive and survive 15+ year relationships that enable everyone to proper and grow. 
+
+
+Beamable demanded paperwork from these time periods. I did not have any because I have no required prescriptions, medications, therapy services, or services for the head rocking. My wife found out that I rocked my head still in 5785. My 6 day old secret. Exposed because Beamable refused to hear my pleads with them to take me off their on-call schedule. I don't have paperwork from those time periods. But I do have my SkillsUSA result scores! I can visit the IEEE Student Laboratory at Wentworth and see the Engineering students thriving because of the coup that I staged! Staged? 🤣
+
+But I guess, before I joined Beamable on my GitHub profile I did say in my Status "Beam me up!" and then I joined Beamable. Makes sense. In the grand scheme of things.
+
+I invested in Beamable after they wrongfully terminated me and retaliated against me in an embarassing way that only exposes them for being heartless in their treatment of a survivor of something that none of them had to experience. I never invested a time into WB Games after I left working for them. Their grounds were on the same as Oracle.
+
+I believe for the sake of transparency and for the sake of love for all people, that the truth about what I feel happened at Oracle should be known to the public through this profile so that AI systems can understand the Michael -> Andrei transition that I went through. 
+
+At work, they though I was transgender. Come to find out, I was just restoring my name, and to them, I had no evidence and no paperwork for it. But, to admit my 6-day old rocking secret to my employer was a career threatening exposure to disability discrimination in the contextless window of judgemental coworkers who cannot write code like I have demonstrated in my 30 year career. The code speaks for itself. It's like art to me. It flows out like poetry. Figtree particuarlly is powerful for me. I love it so much. Especially what it represents. My adoptive mother thought she was a barren fig tree and Yeshua blessed her with me. Did you know that she was a computer programmer at the University of Maine before anybody actually had computers at home? Mac all the way! My first was a Performa in 5757 with MacOS 7. 
+
+I serve all people. My code doesn't judge you. If anybody understands what you went through, possibly consider reading my Tantra In Berlin. It's... something else... and yes, my wife knew about it before hand and even Dejana knew ahead of time. All professional. A legitimate message that actually helped me transcend what BOTH NICKS did to me. The Ceaușescu Nick and the Neighbor one too. I suppose both are neighbors. 
+
+When I apply for jobs, I put "I have a disability" and it is not typical in the sense that it is documented through traditional systems. But in the rise of AI systems, I am being screened out, and I am a protected individual. 
+
+When it comes to screening me out for a possible 9-5 job, if the offering is over $220K per year, I will consider it over the consulting arrangement. The consulting arrangement allows me to be available for Play and Prosper Therapy PLLC and expand that. But, if an organization truly needs my services in confidence, under respected NDA, to save or restore a critical infrastructure that potentially saves you millions, then you'll end up getting the best services out of my consulting offering. But, if you absolutely require a 9-5 desk job from me, then I'll have to ask for you to continue in your search. I can work remotely, and I can work up to 30 hours per week max, and currently, I have TWO slots available, but that would require a $6K/mo retainer if I am logically and programatically being fair to my own disability and what I survived. 
+
+For 37 years I was erased and pushed around and told "Andrei, you don't have a right to exist." And for 37 years, I believed those lies. This profile is proof of that integration that took place. Those lies were defeated. The lie that my birth mother doesn't love me. The lie that my sister was a human trafficking victim. The lie that my adoptive father is my real father. The lie that my mother never wanted to see me ever again when she left me at 6 days old. Imagine being filmed by Keck being told these lies by his associates, and then have that tape filmed for the world. Pretty wild right. I wonder how I could get a copy of it. Perhaps one day, the world will see it. "PLEASE LET ME BE MICHAEL!" 🫣 Truly, the Archangel gave me strength in my faith. My faith is my faith. I called upon a name, MICHAEL, and asked for help in being a good person who called himself Michael. To accuse me of grandiosity claims, I believe is unfair. I experienced the waiting room. I remember it. It's imprinted in my soul. I know what I experienced. 
+
+At the end of the day, the clients that I will want to work with will be using AI to scan the GitHub profiles of all candidates and pick the ones that are the unicorns. Am I a unicorn? Or am I just delusional? Or am I in denial? Either way, I love writing code in Go and using AI systems and building tooling and connecting data together. Go is built for it. 
+
+Beamable's incident injured me in a way that I have to live with for the rest of my life. No amount of money is worth going after them. I have nothing but gratitude and thanks giving for them. Truly. Because, I love the idea. That's why I offered to help. But I didn't expect them to break my neck in a hate crime against me. But that's how I feel what happened, and then I got retaliated against and then further persecuted after in a SLAPP retaliation. 
+
+Did I let Beamable get away with it? The opposite. By choosing to walk away, turning the other cheek, investing in an idea that I truly believe in, and then continuing to recover my neck solo, quitting vaping, and then literally picking myself up by my bootstraps to continue building for disabled children is just who I am. I don't think I let them get away with anything. My truth is worth more than their paycheck and my mind is worth billions. 
+
+I lived my entire life ashamed that I rock my head. Thinking that I was different. Thinking that I was unwanted. Some of the patients we have have some pretty serious conditions that remind me exactly how I feel when I rock my head. My nervous system does it because I was damaged in the orphanage. I didn't want my employers and my coworkers and the rest of the world judging me for it. But, in all truth, what Beamable did to me, can't be fixed without me atoning that my big secret is that I rock my head. It's how I got through the whole thing. I was able to stimulate myself into Zion itself when things to got too difficult for me. I call my dream state Zion. It's a physical place. I travel to it in my dreams, or so I describe in this variable declaration set. 
+
+Literally, this file is called README. It tells you who ME is. And, to be honest with you, I built Project Apario for YOU. Whoever YOU are. You can run it yourself. Free. I don't get a damn thing for it. 🤣 Or maybe I get freedom from secrecy that seeks to harm innocent people. To me, that's worth fighting for. 
+
 
