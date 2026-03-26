@@ -40,8 +40,8 @@ By 12 Av 5775 I found myself in Tokyo Japan for the OpenStack Summit, representi
 | Premium SLA Retainer | 24/7 w/ 4-hr SLA is $9,000/mo |
 | Primary Workstation | M3 Mac Studio w/ 256GB RAM |
 | Mobile Workstation | MacBook Pro w/ 48GB RAM |
-| 6AM-6PM Hourly Rate | $777/hr |
-| 6PM-6AM Hourly Rate | $999/hr |
+| 6AM-6PM Hourly Rate | starting at $369/hr |
+| 6PM-6AM Hourly Rate | starting at $666/hr |
 | Minimum Billed Hours Per Month | 3 hours |
 | Maximum Billed Hours Per Month | 120 Total (Across no more than 3 clients) | 
 | Consulting Limit | 3 Businesses (serving ONE currently) |
