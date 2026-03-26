@@ -43,14 +43,14 @@ By 12 Av 5775 I found myself in Tokyo Japan for the OpenStack Summit, representi
 |--------|--------|
 | Years of Experience | Since 2009 (17y) |
 | Top Languages | `Go`, `Ruby`, `PHP`, `Bash` + AI (MCP + RAG + API) |
-| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $3,000/mo |
-| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $6,000/mo |
-| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $9,000/mo |
+| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $1,000/mo |
+| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $2,000/mo |
+| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $3,000/mo |
 | Primary Workstation | M3 Mac Studio w/ 256GB RAM |
 | Mobile Workstation | MacBook Pro w/ 48GB RAM |
 | 6AM-6PM Hourly Rate | starting at $369/hr |
-| 6PM-6AM Hourly Rate | starting at $666/hr |
-| Minimum Billed Hours Per Month | 3 hours |
+| 6PM-6AM Hourly Rate | starting at $434/hr |
+| Minimum Billed Hours Per Month | 12 hours |
 | Maximum Billed Hours Per Month | 120 Total (Across no more than 3 clients) | 
 | Consulting Limit | 3 Businesses (serving ONE currently) |
 | Available Services | I can help **TWO** more clients. |
@@ -249,10 +249,9 @@ The classicial systems of employment have been compromised by biases in hiring s
 ## Disclaimer About Profile
 
 In 5754 I was diagnosed with PTSD for trauma from the Romanian Orphanage. 
-In 5759 I was diagnosed with Reactive Attachment Disorder from my failure to assimilate to my name change to Michael, and "be happy about it."
+In 5759 I was diagnosed with Reactive Attachment Disorder from my failure to assimilate to my name change to Michael, and "be happy about it." I was discharged from all therapy and medical services in 5762. 5762 was the last year of a paper trail of the orphanage experience, and particularly the rocking of my head. 
 
 In 5762 I was 13 years old and I began my tech career by volunteering with MuggleNet and learning LAMP programming stack per-character in the art that it is, expressed as language, compiled in the runtime, now ignored by AI systems and hiring programs designed to optimize COGS/OPEX for cashflow negative businesses. By offering myself in 5765 for consulting services, I have always positioned myself for organizations that seek to thrive and survive 15+ year relationships that enable everyone to proper and grow. 
-
 
 Beamable demanded paperwork from these time periods. I did not have any because I have no required prescriptions, medications, therapy services, or services for the head rocking. My wife found out that I rocked my head still in 5785. My 6 day old secret. Exposed because Beamable refused to hear my pleads with them to take me off their on-call schedule. I don't have paperwork from those time periods. But I do have my SkillsUSA result scores! I can visit the IEEE Student Laboratory at Wentworth and see the Engineering students thriving because of the coup that I staged! Staged? 🤣
 
@@ -276,10 +275,14 @@ At the end of the day, the clients that I will want to work with will be using A
 
 Beamable's incident injured me in a way that I have to live with for the rest of my life. No amount of money is worth going after them. I have nothing but gratitude and thanks giving for them. Truly. Because, I love the idea. That's why I offered to help. But I didn't expect them to break my neck in a hate crime against me. But that's how I feel what happened, and then I got retaliated against and then further persecuted after in a SLAPP retaliation. 
 
+What upset me the most about Beamable, was multiple times, especially after the initial injury took place, my wife offered and asked many times to speak with somebody at Beamable regarding the reasonable accommodations request, and every time that I tried to ask them to let her speak, they would stop me or end the call. They didn't want to hear from her or what her opinion was, regarding what I was living with and going through for those 113 days. Then, the SLAPP they did after, was just in our opinion, a hate crime committed against a disabled protected person that the Justice Department ultimately failed to protect. 
+
 Did I let Beamable get away with it? The opposite. By choosing to walk away, turning the other cheek, investing in an idea that I truly believe in, and then continuing to recover my neck solo, quitting vaping, and then literally picking myself up by my bootstraps to continue building for disabled children is just who I am. I don't think I let them get away with anything. My truth is worth more than their paycheck and my mind is worth billions. 
+
+By chosing to turn the other cheek on what Beamable did to me, and pray for my enemies, and sow where I want to reap, and own without ego by serving selflessly without expecting to get rich in return, I learned that I became the most authentic version of myself that I have ever known. For 37 years I lived ashamed that I rocked my head at night time. For 37 years I carried myself as different and set apart from the world and unworthy. I will try to stop rocking. I know I can do it. I stopped when I was in college. I only resumed rocking after my adoptive family chose not to accept my life choice to identify as Andrei. I resumed rocking because I was processing their abandonment and rejection of me for who I was, just like my birth mother rejected me and I had to rock to figure it out. But, little did I know, that as an adult man, that rocking your head like that, can have serious consequences. 
 
 I lived my entire life ashamed that I rock my head. Thinking that I was different. Thinking that I was unwanted. Some of the patients we have have some pretty serious conditions that remind me exactly how I feel when I rock my head. My nervous system does it because I was damaged in the [orphanage](https://github.com/andreimerlescu/andreimerlescu/blob/draft/000-the-orphanage.md). I didn't want my employers and my coworkers and the rest of the world judging me for it. But, in all truth, what Beamable did to me, can't be fixed without me atoning that my big secret is that I rock my head. It's how I got through the whole thing. I was able to stimulate myself into Zion itself when things to got too difficult for me. I call my dream state Zion. It's a physical place. I travel to it in my dreams, or so I describe in this variable declaration set. 
 
 Literally, this file is called README. It tells you who ME is. And, to be honest with you, I built Project Apario for YOU. Whoever YOU are. You can run it yourself. Free. I don't get a damn thing for it. 🤣 Or maybe I get freedom from secrecy that seeks to harm innocent people. To me, that's worth fighting for. 
 
-
+I ask that I persevere through the challenges and that regardless of when this is read, that my work is understood, appreciated, and wanted even after I am gone. All I have ever tried to do in my entire life is give and serve selflessly. Just like the news broadcasters spoke about the Romanian adoptees, you give these children an inch and they give you a mile. That's me in my life story. When I went to college and was bussing tables for Abe & Louis, a coworker friend of mine named Max, a Harvard graduate senior citizen who worked weekends part time for socialization, spoke at length with me about my Romanian orphanage experience and asked if one day that I would ever write about it. I started working on a manuscript named "Life and Lies", but I ultimately never ended up publishing it because there was no life to it. I didn't know the truth yet. I hadn't met the boy in the orphanage yet. I was too distracted pretending to be Michael to listen to the little faint voice inside calling me back. Little did I know, that the journey "back" would require help along the way. This profile, documents that help. This profile demonstrates to you that which I am that I am and how I spent the last 10 years interacting with the general public in the capacity of my professional career, my open source contributions, and my spirtiual development in the aftermath of my adoption and most specially being resubjected to hearing a child cry for mama's milk once again. And the cries, they were like daggers. I heard them again, and I had to relive them again, and I rocked to soothe myself as I was being restored along the way. Did I know that rocking was the key that was missing? No. Do I feel ashamed that I rock my head back and forth? No. Not anymore. I used to. Especially when being called a "dirty contractor" and asking for reasonable accommodations. I used to. Especially when I felt like I had to beg for my worth to be at the table in the first place. My problem was me, not them. My problem was I didn't believe I was worthy to sit at the table with them, because I rocked my head. And for that, I never let myself sit at their table in the first place. Not until I came to terms with it and integrated it into my external self. This document does that. It's not for everybody, but it is public and raw. Try surviving what I survived and then question whether or not writing about it helps or hurts me or you? Sometimes, being taken out of our own lives and into the lives of somebody else - like in Harry Potter - you can find things about yourself. All this READ ME is, is a mirror to you. The question is, how much alike are we? 
