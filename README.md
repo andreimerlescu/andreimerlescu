@@ -336,4 +336,13 @@ Their systems had some genuine problems, including hiring problems with contract
 
 To lose out so badly by choosing to reach out to Brandon in the first place on LinkedIn, really reflects the irony of FAFO. I guess I got my consequences. I tried to help. And I guess that I wasn't actually wanted. Instead, what was wanted, was to ignore my requests for reasonable accommodations. 113 days. By the 114th day, I quit and my resignation was refused. I accepted the refusal on condition of a conversation with the leadership. Well, under the new management structure of Skillz, it appears that the very same decision making failures that took place have been corrected. I still lost out a lot of money on it. But, it doesn't make me not a fan of the tech regardless of what they did to me. If the Checker Nodes come out anytime in the future, I'll be ready to host them and even the Validator Nodes. The tech has potential. But in volatile markets and unsound leadership, small companies can make big mistakes that have real world consequences that hurt people like myself.
 
+# The Orphanage
+
+At 6 days old, a knock on the door startled the silent room. A mother, nursing her newborn child was rocking him back and forth in her chair, as her ill father stepped to the threshold to see two social workers from the government, here to collect the baby. Me. 
+
+Why? What do you mean? Because of the illness in the household, the child is in danger and the state is intervening. Effective immediate, custody of the child is now in the hands of the State and from this point forward, you are permitted to visit the child once per month if the caretakers approver of your conduct during the visitations.
+
+At 7 days old, I woke up for the first day of hundreds that I would be institutionalized in Ceaușescu's orphanages. At 7 days old, I didn't realize that I was going to be acquainted with my sister, who was a little over a year old. She too, was institutionalized and taken from our mother, and handed to the State to be property. Literal property.
+
+What could we do? I saw that there was no hope in sight, and I knew that we couldn't make an escape out the door. Even you got to see in Director Who the children on the street who were homeless in the middle of winter. Freedom must exist. [continue reading...](https://github.com/andreimerlescu/andreimerlescu/blob/draft/000-the-orphanage.md)
 
