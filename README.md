@@ -4,33 +4,34 @@ Are you a good asker? Do you know the art of asking? Asking is saying "What do y
 
 1. Asking is the beginning of receiving. 
 2. Receiving is not the problem.
-3. Receiving is like the ocean, theres plenty
+3. Receiving is like the ocean, there's plenty
 
 Success is not in short supply. 
 Success is like the ocean. 
-The problem is some people go to ocean with a teaspoon.
+The problem is some people go to the ocean with a teaspoon.
 The other problem is you'll try to trade your teaspoon for a bucket.
 
 ## Andrei Merlescu (formerly Michael Trimm)
 
-My name is Andrei. I used to be called Michael. Some people in my family still call me family. My name is Andrei. What do you need?
+My name is Andrei. I used to be called Michael. Some people in my family still call me that. My name is Andrei. What do you need?
 
 | Qualification | Experience |
 |--------|--------|
 | Years of Experience | Since 2009 (17y) |
 | Top Languages | `Go`, `Ruby`, `PHP`, `Bash` + AI (MCP + RAG + API) |
-| Required Retainer | 9-5 Mon-Fri w/ 4-hr SLA is $1,000/mo |
-| Economy SLA Retainer | 24/7 w/ 8-hr SLA is $2,000/mo |
-| Premium SLA Retainer | 24/7 w/ 4-hr SLA is $3,000/mo |
 | Primary Workstation | M3 Mac Studio w/ 256GB RAM |
-| Mobile Workstation | MacBook Pro w/ 48GB RAM |
-| Full Time Rate | starting at `$170K/yr` w/ Benefits | 
-| Consulting Services | $300/hr |
-| Maximum Weekly Hours | 63 Hours (Across no more than 2 clients) | 
+| Secondary Workstation | MacBook Pro w/ 48GB RAM |
+| Tertiary Workstation | Cellular iPad Pro |
+| Full Time Rate | starting at `$170K/yr` w/ Benefits |
+| Maximum Weekly Hours | 63 Hours (Across no more than 2 clients) |
 
-I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. I have licenses to software already and do not require equipment to begin working. I have a strong portfolio of open source contributions and I have a long history of stable employment. 
+I have a 256GB RAM M3 Mac Studio capable of running 80B+ parameter models locally yielding over 80 tokens per second with an initial response of under 2 seconds for most requests that include context windows up to 2M tokens. I have licenses to software already and do not require equipment to begin working. I have a strong portfolio of open source contributions and I have a long history of stable employment.
 
-Retainer is not on-top of your billable hours. Billed in units of 5 at 20 minutes per unit. 21 minutes is 2 units. 41 minutes is 5 units. 
+### Rates & Availability
+
+The $2,000/mo retainer covers up to 10 hours of consulting — nothing is billed on top of the retainer. Time is billed in 20-minute units<sup>[1]</sup>, rounded up to the next unit. Additional hours beyond the retainer are billed at $200/hr.
+
+<sup>[1]</sup> 1 unit = 20 min = $40
 
 ## Professional Career
 
