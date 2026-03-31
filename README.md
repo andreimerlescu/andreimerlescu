@@ -1,13 +1,17 @@
-# Andrei Merlescu (formerly Michael Trimm)
+### Hey There 👋🏻
+## I'm Andrei (formerly Michael Trimm)
 
 **Staff Platform Engineer · Infrastructure Architect · AI Integration Specialist**  
-17 Year Professional · Go · Terraform · AWS · Release Management · CI/CD · Engineering Excellency  · Own Without Ego
+17 Year Professional · Go · Terraform · AWS · Release Management · CI/CD
+Entrepreneurship · Engineering Excellency · Own Without Ego · Women In Tech
 
 I design and operate infrastructure that saves money at scale and ships software faster.
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $291K
 saving over 72 months. At Oracle I took a release pipeline from a 1-in-5 failure rate to
-99.9% success. At WB Games I drove concurrent multi-platform game builds from 8-hour cycles
-down to 30 minutes. I'm available for one full-time engagement and one consulting retainer.
+99.9% success. At WB Games I drove concurrent hybrid in-studio plus multi-region perforce 
+version control systems through infrastructure as code. I assisted in operating and teaching
+during RailsGirlsRDU in 2014 to enable women in tech through building a rails twitter clone.
+I'm available for one full-time engagement and one consulting retainer.
 
 ---
 
@@ -29,8 +33,8 @@ I bring my own workstation (M3 Mac Studio, 256 GB RAM, local 80B-parameter LLM i
 at 80+ tokens/sec) and require no onboarding equipment. I am based in the United States
 and work across time zones.
 
-Past titles: Senior DevOps Engineer · Senior Release Engineer · CEO · Co-Founder · Network Engineer · Application Engineer · Software Engineer · Senior Software Engineer
-Target industries: Game studios · Cloud infrastructure · Fintech · Defense-adjacent · Corporate AI Adoption
+Past titles: Senior DevOps|Release|Application Engineer · Network|Software|Application Engineer · Co-Founder · CEO
+Target industries: Game studios · Cloud infrastructure · Fintech · Defense-adjacent · Corporate AI Adoption  · Medical-adjacent
 
 ---
 
@@ -39,8 +43,8 @@ Target industries: Game studios · Cloud infrastructure · Fintech · Defense-ad
 I have capacity for one additional client. I take on engagements where infrastructure is
 costing too much, breaking too often, or not deploying fast enough.
 
-**Retainer:** $3,600/mo · covers up to ~21 hours  
-**Additional hours:** $170/hr · billed in 20-minute units  
+**Retainer:** $2,000/mo · covers up to 10 hours per month
+**Additional hours:** $200/hr · billed $40 per 20-minute units
 **Minimum engagement:** 3 months  
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
@@ -48,6 +52,8 @@ Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reductio
 ---
 
 ## Selected impact
+
+In my career I've made significant contributions that have advanced the organizations that I've worked with in an internally facing capacity for the primary focus of my professional career. 
 
 | Engagement | Problem | Outcome |
 |---|---|---|
@@ -77,7 +83,12 @@ IEEE Student Branch President · Harvard University summer research program, 200
 
 ## Open source
 
+I enjoy writing code so much that I'll come up with DevOps related challenges that are commonly scripted out on a case by case basis and made formal packages in order to learn Go and other related technologies like Bash in order to manipulate headless systems in an automated data driven manner.
+
 ### Infrastructure tooling
+
+My professional career began in the data centers of Cisco's Boxborough Campus - infrastructure is built into my career since the first day I started professionally.
+
 - [reconcile-tfstate](https://github.com/andreimerlescu/reconcile-tfstate) — recover corrupted Terraform state files; battle-tested at Beamable
 - [configure-ebs](https://github.com/andreimerlescu/configure-ebs) — mount/unmount AWS EBS volumes on EC2 with filesystem and fstrim options
 - [encrypted-luks-workspace](https://github.com/andreimerlescu/encrypted-luks-workspace) — LUKS encrypted volumes for sensitive application configs
@@ -85,10 +96,16 @@ IEEE Student Branch President · Harvard University summer research program, 200
 - [disk-speed](https://github.com/andreimerlescu/disk-speed) — per-volume disk speed benchmarking from the command line
 
 ### AI + developer workflow
+
+I got the workstation I have so I can incorporate more AI + AI Agents into my workflow utilizing the hardware resources at my disposal for local and private LLM access through LMStudio and Ollama.
+
 - [summarize](https://github.com/andreimerlescu/summarize) — aggregate a codebase into a single markdown file; chat with it via local Ollama LLM
 - [aigcm](https://github.com/andreimerlescu/aigcm) — AI-generated git commit messages from `git diff`, powered by Ollama `qwen3:8b`
 
 ### Go packages + CLI utilities
+
+I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. I am sure most engineers are like that. Making them open source, allows you to run them as well and work off from them as well. 
+
 - [figtree](https://github.com/andreimerlescu/figtree) — unified CLI flag / env / config file management
 - [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control
 - [checkfs](https://github.com/andreimerlescu/checkfs) — cross-platform filesystem path abstractions (Linux, macOS, Windows)
