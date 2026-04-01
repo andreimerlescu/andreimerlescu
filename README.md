@@ -44,8 +44,8 @@ I have capacity for one additional client. I take on engagements where infrastru
 costing too much, breaking too often, or not deploying fast enough.
 
 **Retainer:** $2,000/mo · covers up to 10 hours per month
-**Additional hours:** $200/hr · billed $40 per 20-minute units
-**Minimum engagement:** 3 months  
+**Additional hours:** $200/hr · billed $40 per 12-minute units
+**Minimum engagement:** 3 months (longest was 15 years)
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
 
@@ -69,12 +69,21 @@ In my career I've made significant contributions that have advanced the organiza
 
 | Company | Years | Role | Stack |
 |---|---|---|---|
+| [MuggleNet](https://mugglenet.com) | 2004-2006 | Volunteer Developer | PHP · MySQL · JS |
+| [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 | Webmaster | PHP · MySQL · JS · Ruby |
+| [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch |
+[ [Wentworth Admissions](https://wit.edu) | Summary 2008 | Tour Guide | Gave tours of the campus to prospective students |
+| [Harvard University](https://harvard.edu) | Summer 2009 | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
 | [Cisco](https://cisco.com) | 2009–2016 | Senior Software Engineer | Perl · Ruby · LAMP · JS |
+| [Trakify](https://trakify.com) | 2015 | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
 | [Oracle](https://oracle.com) | 2017–2020 | Senior Release Manager | Ruby · Go · HCL |
+| [Project Apario](https://projectapario.com) | 2020-2026 | Owner &amp; Founder | Ruby · Go · Bash · HCL · JS · VueJS | 
 | [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
 | [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
 | [SurgePays](https://surgepays.com) | 2022–2026 | Consulting Architect | Go · C++ · Bash |
 | [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer | HCL · Go · Bash · C# |
+
+On October 10th 2015, Mike Hogan of Barron's Magazine published a piece featuring my company Trakify after we spoke on the telephone for several hours about the product and the vision itself. The piece was published the following month. While leadership has never been my go-to, it has never been something that I have stayed away from. Leading in engineering efforts comes naturally to me, as Trakify had 4 individuals that I was collaborating with that helped drive the product to market. PhoenixVault had a large online community and served over 800 concurrent daily users per month. PhoenixVault had 3 other individuals. I'm a leader, a builder, a team player, and a guy who genuinely loves building cool things with incredible technology.
 
 **Education:** B.S. Computer Engineering Technology · Wentworth Institute of Technology, 2011  
 IEEE Student Branch President · Harvard University summer research program, 2008
