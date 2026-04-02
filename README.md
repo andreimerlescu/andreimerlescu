@@ -67,8 +67,6 @@ My work has primarily advanced the organizations I've worked with from the insid
 | SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
 | Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
 
-
-
 ---
 
 ## Career
@@ -83,7 +81,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 | [Trakify](https://trakify.com) | 2015 | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
 | [Oracle](https://oracle.com) | 2017–2020 | Senior Release Manager | Ruby · Go · HCL |
 | [PhoenixVault](https://phoenixvault.org) | 2020 | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
-| [Project Apario](https://projectapario.com) \[PhoenixVault Replacement\] | 2021-2026 | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
+| [Project Apario](https://projectapario.com) <br>\[PhoenixVault Replacement\] | 2021-2026 | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
 | [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
 | [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
 | [SurgePays](https://surgepays.com) | 2022-2026 | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
@@ -91,7 +89,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 
 In 2015, Barron's Magazine covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
 
-**Education:** B.S. Computer Engineering Technology · Wentworth Institute of Technology, 2011 
+**Education:** B.S. Computer Engineering Technology · 3.0 GPA · Wentworth Institute of Technology, 2011 
 
 ---
 
@@ -137,4 +135,8 @@ via a single CSV and a single binary.
 
 ---
 
-*Available for conversations. Reach out via GitHub or Email.*
+# International adoptee
+
+In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. 
+
+*Available for conversations. Reach out via GitHub. Join if you don't have one yet. It's the online place online that I maintain any kind of social media presence or profile for others to follow. Last year, I was on LinkedIn, but chose to deactivate my account. Life exists outside of LinkedIn. Touch grass.*
