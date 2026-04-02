@@ -85,7 +85,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 | [Project Apario](https://projectapario.com) \[PhoenixVault Replacement\] | 2021-2026 | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
 | [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
 | [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
-| [SurgePays](https://surgepays.com) | 2022–2026 | Consulting Architect | Go · C++ · Bash |
+| [SurgePays](https://surgepays.com) | 2022-2026 | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
 | [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer | HCL · Go · Bash · C# |
 
 In 2015, Barron's Magazine covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
