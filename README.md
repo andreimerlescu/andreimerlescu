@@ -77,13 +77,12 @@ My work has primarily advanced the organizations I've worked with from the insid
 | [MuggleNet](https://mugglenet.com) | 2004-2006 | Volunteer Developer | PHP · MySQL · JS |
 | [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 | Webmaster | PHP · MySQL · JS · Ruby |
 | [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch | Leadership · Community Development · STEM Advocacy |
-| [Wentworth Admissions](https://wit.edu) | Summer 2008 | Tour Guide | Gave tours of the campus to prospective students |
 | [Harvard University](https://harvard.edu) | Summer 2009 | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
 | [Cisco](https://cisco.com) | 2009–2016 | Senior Software Engineer | Perl · Ruby · LAMP · JS |
 | [Trakify](https://trakify.com) | 2015 | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
 | [Oracle](https://oracle.com) | 2017–2020 | Senior Release Manager | Ruby · Go · HCL |
 | [PhoenixVault](https://phoenixvault.org) | 2020 | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
-| [Project Apario](https://projectapario.com) | 2021-2026 | Owner &amp; Founder | PhoenixVault Relaunch + Go · HCL · VueJS | 
+| [Project Apario](https://projectapario.com) \[PhoenixVault Replacement\] | 2021-2026 | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
 | [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
 | [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
 | [SurgePays](https://surgepays.com) | 2022–2026 | Consulting Architect | Go · C++ · Bash |
@@ -97,7 +96,7 @@ In 2015, Barron's Magazine covered Trakify — a stock-tracking platform I found
 
 ## Open source
 
-I enjoy writing code so much that I'll come up with DevOps related challenges that are commonly scripted out on a case by case basis and made formal packages in order to learn Go and other related technologies like Bash in order to manipulate headless systems in an automated data driven manner.
+I formalize problems I encounter into reusable packages rather than one-off scripts. Most of what's here started as a real operational need — something I hit at a client or in my own infrastructure — and became a proper package so others can use it too.
 
 ### Infrastructure tooling
 
@@ -118,7 +117,7 @@ I got the workstation I have so I can incorporate more AI + AI Agents into my wo
 
 ### Go packages + CLI utilities
 
-I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. I am sure most engineers are like that. Making them open source, allows you to run them as well and work off from them as well. 
+I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. Making them open source, allows you to run them as well and work off from them as well. 
 
 - [figtree](https://github.com/andreimerlescu/figtree) — unified CLI flag / env / config file management
 - [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control
