@@ -52,9 +52,13 @@ I have the capacity to build large and complex systems that can drive large grow
 I have structured capacity for up to five consulting retainer clients. I have capacity to add four additional clients with retainers or one full time engagement at this time. I take on engagements where infrastructure is costing too much, breaking too often, or not deploying fast enough.
 
 **Retainer:** $4,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
+
 **Additional hours:** $200/hr · billed $40 per 12-minute units
+
 **After hours:** $4,000/hr · billed $800 per 12-minute units (11PM-6AM EST)
+
 **Minimum engagement:** 3 months (longest was 17 years) · _No maximum._
+
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
 
