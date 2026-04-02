@@ -63,7 +63,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 | Cisco Systems (2015-2016) | RHEL Packages Missing From Cisco Repository for OpenStack | Compiled Missing Packages for Cisco Repository for OpenStack to compile on Cisco hardware. |
 | Oracle Cloud (2017–2020) | Release pipeline failing 1 in 5 deploys to production | Redesigned release automation in Ruby + Go; 99.9% success rate |
 | Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
-| WB Games (2021–2024) | $7M+/yr Perforce OPEX across 85 servers, 4-hr workspace syncs, no cloud migration path | Designed OCI migration reducing infrastructure from 85 → 17 servers, $7M → $1M OPEX, syncs from 4hrs → 30min; P4 transfer rewrite in Go; Hogwarts Legacy credits via Avalanche Studio |
+| WB Games (2021–2024) | $7M+/yr Perforce OPEX across 85 servers, 4-hr workspace syncs, no cloud migration path | Designed OCI migration reducing infrastructure from 85 → 17 servers, $7M → $1M OPEX, syncs from 4hrs → 30min; P4 transfer rewrite in Go; Hogwarts Legacy credits via Avalanche Software |
 | SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
 | Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
 
