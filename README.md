@@ -41,8 +41,7 @@ Target industries: Game studios · Cloud infrastructure · Fintech · Defense-ad
 
 ## Consulting availability
 
-I have capacity for one additional client. I take on engagements where infrastructure is
-costing too much, breaking too often, or not deploying fast enough.
+Without a full-time engagement, I have capacity for up to five consulting retainer clients. I have capacity for one additional client. I take on engagements where infrastructure is costing too much, breaking too often, or not deploying fast enough.
 
 **Retainer:** $3,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
 **Additional hours:** $200/hr · billed $40 per 12-minute units
