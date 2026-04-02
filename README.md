@@ -137,5 +137,4 @@ via a single CSV and a single binary.
 
 ---
 
-*Available for conversations. Reach out via GitHub or
-[LinkedIn](https://linkedin.com/in/andreimerlescu).*
+*Available for conversations. Reach out via GitHub or Email.*
