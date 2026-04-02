@@ -3,7 +3,7 @@
 
 **Staff Platform Engineer · Infrastructure Architect · AI Integration Specialist**  
 21+ Year Professional · Go · Terraform · AWS · Release Management · CI/CD
-Entrepreneurship · Engineering Excellency · Own Without Ego · Women In Tech
+Entrepreneurship <br>Engineering Excellency · Own Without Ego · Women In Tech · Disability Awareness
 
 I design and operate infrastructure that saves money at scale and ships software faster.
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $291K
