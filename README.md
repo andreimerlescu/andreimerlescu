@@ -111,7 +111,7 @@ My professional career began in the data centers of Cisco's Boxborough Campus - 
 
 ### AI + developer workflow
 
-I got the workstation I have so I can incorporate more AI + AI Agents into my workflow utilizing the hardware resources at my disposal for local and private LLM access through LMStudio and Ollama.
+This workstation exists so I can run inference locally and privately — no API calls, no data leaving the machine. This is to provide services under regulatory clarity.
 
 - [summarize](https://github.com/andreimerlescu/summarize) — aggregate a codebase into a single markdown file; chat with it via local Ollama LLM
 - [aigcm](https://github.com/andreimerlescu/aigcm) — AI-generated git commit messages from `git diff`, powered by Ollama `qwen3:8b`
