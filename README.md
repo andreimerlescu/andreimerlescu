@@ -53,18 +53,20 @@ Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reductio
 
 ## Selected impact
 
-In my career I've made significant contributions that have advanced the organizations that I've worked with in an structural facing capacity to the actual corporation for the primary focus of my professional career, rather than the direct consultation with end users and customers.
+My work has primarily advanced the organizations I've worked with from the inside — infrastructure, pipelines, and platforms — rather than direct end-user or customer-facing product work.
 
 | Engagement | Problem | Outcome |
 |---|---|---|
 | Cisco Systems (2011-2014) | Fragmented Document Data Ingestion | Engineered Virtual Docs, a Ruby on Rails application that compiled four distinct document types that looked like PDFs and Slide Decks for various stages of engagements. Resulted in eCATS being restructured into SVS to serve a larger customer pool with the new technology. |
-| Trakify (2015) | I wanted to know when stocks were at a certain price give or take | I built Trakify using Yahoo Finance API to provide this exact interface using Twilio SMS and MySQL for consumption based usage of alerts and notifications based on customizable thresholds. | 
+| Trakify (2015) | No affordable real-time stock price alert tooling | Built a Rails app on MongoDB using Yahoo Finance API + Twilio SMS to deliver threshold-based price alerts; covered by Barron's Magazine. |
 | Cisco Systems (2015-2016) | RHEL Packages Missing From Cisco Repository for OpenStack | Compiled Missing Packages for Cisco Repository for OpenStack to compile on Cisco hardware. |
-| Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
 | Oracle Cloud (2017–2020) | Release pipeline failing 1 in 5 deploys to production | Redesigned release automation in Ruby + Go; 99.9% success rate |
-| Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
-| SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
+| Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
 | WB Games (2021–2024) | $7M+/yr Perforce OPEX, no cloud migration path | Built Terraform + Bash IaC automation for OCI migration; delivered P4 transfer rewrite in Go |
+| SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
+| Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
+
+
 
 ---
 
@@ -74,7 +76,7 @@ In my career I've made significant contributions that have advanced the organiza
 |---|---|---|---|
 | [MuggleNet](https://mugglenet.com) | 2004-2006 | Volunteer Developer | PHP · MySQL · JS |
 | [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 | Webmaster | PHP · MySQL · JS · Ruby |
-| [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch |
+| [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch | Leadership · Community Development · STEM Advocacy |
 | [Wentworth Admissions](https://wit.edu) | Summer 2008 | Tour Guide | Gave tours of the campus to prospective students |
 | [Harvard University](https://harvard.edu) | Summer 2009 | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
 | [Cisco](https://cisco.com) | 2009–2016 | Senior Software Engineer | Perl · Ruby · LAMP · JS |
