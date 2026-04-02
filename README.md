@@ -2,7 +2,7 @@
 ## I'm Andrei (formerly Michael Trimm)
 
 **Staff Platform Engineer · Infrastructure Architect · AI Integration Specialist**  
-17 Year Professional · Go · Terraform · AWS · Release Management · CI/CD
+21+ Year Professional · Go · Terraform · AWS · Release Management · CI/CD
 Entrepreneurship · Engineering Excellency · Own Without Ego · Women In Tech
 
 I design and operate infrastructure that saves money at scale and ships software faster.
@@ -45,7 +45,7 @@ costing too much, breaking too often, or not deploying fast enough.
 
 **Retainer:** $2,000/mo · covers up to 10 hours per month
 **Additional hours:** $200/hr · billed $40 per 12-minute units
-**Minimum engagement:** 3 months (longest was 15 years)
+**Minimum engagement:** 3 months (longest was 17 years)
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
 
@@ -53,10 +53,13 @@ Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reductio
 
 ## Selected impact
 
-In my career I've made significant contributions that have advanced the organizations that I've worked with in an internally facing capacity for the primary focus of my professional career. 
+In my career I've made significant contributions that have advanced the organizations that I've worked with in an structural facing capacity to the actual corporation for the primary focus of my professional career, rather than the direct consultation with end users and customers.
 
 | Engagement | Problem | Outcome |
 |---|---|---|
+| Cisco Systems (2011-2014) | Fragmented Document Data Ingestion | Engineered Virtual Docs, a Ruby on Rails application that compiled four distinct document types that looked like PDFs and Slide Decks for various stages of engagements. Resulted in eCATS being restructured into SVS to serve a larger customer pool with the new technology. |
+| Trakify (2015) | I wanted to know when stocks were at a certain price give or take | I built Trakify using Yahoo Finance API to provide this exact interface using Twilio SMS and MySQL for consumption based usage of alerts and notifications based on customizable thresholds. | 
+| Cisco Systems (2015-2016) | RHEL Packages Missing From Cisco Repository for OpenStack | Compiled Missing Packages for Cisco Repository for OpenStack to compile on Cisco hardware. |
 | Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
 | Oracle Cloud (2017–2020) | Release pipeline failing 1 in 5 deploys to production | Redesigned release automation in Ruby + Go; 99.9% success rate |
 | Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
@@ -72,21 +75,21 @@ In my career I've made significant contributions that have advanced the organiza
 | [MuggleNet](https://mugglenet.com) | 2004-2006 | Volunteer Developer | PHP · MySQL · JS |
 | [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 | Webmaster | PHP · MySQL · JS · Ruby |
 | [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch |
-[ [Wentworth Admissions](https://wit.edu) | Summary 2008 | Tour Guide | Gave tours of the campus to prospective students |
+| [Wentworth Admissions](https://wit.edu) | Summer 2008 | Tour Guide | Gave tours of the campus to prospective students |
 | [Harvard University](https://harvard.edu) | Summer 2009 | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
 | [Cisco](https://cisco.com) | 2009–2016 | Senior Software Engineer | Perl · Ruby · LAMP · JS |
 | [Trakify](https://trakify.com) | 2015 | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
 | [Oracle](https://oracle.com) | 2017–2020 | Senior Release Manager | Ruby · Go · HCL |
-| [Project Apario](https://projectapario.com) | 2020-2026 | Owner &amp; Founder | Ruby · Go · Bash · HCL · JS · VueJS | 
+| [PhoenixVault](https://phoenixvault.org) | 2020 | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
+| [Project Apario](https://projectapario.com) | 2021-2026 | Owner &amp; Founder | PhoenixVault Relaunch + Go · HCL · VueJS | 
 | [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
 | [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
 | [SurgePays](https://surgepays.com) | 2022–2026 | Consulting Architect | Go · C++ · Bash |
 | [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer | HCL · Go · Bash · C# |
 
-On October 10th 2015, Mike Hogan of Barron's Magazine published a piece featuring my company Trakify after we spoke on the telephone for several hours about the product and the vision itself. The piece was published the following month. While leadership has never been my go-to, it has never been something that I have stayed away from. Leading in engineering efforts comes naturally to me, as Trakify had 4 individuals that I was collaborating with that helped drive the product to market. PhoenixVault had a large online community and served over 800 concurrent daily users per month. PhoenixVault had 3 other individuals. I'm a leader, a builder, a team player, and a guy who genuinely loves building cool things with incredible technology.
+In 2015, Barron's Magazine covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
 
-**Education:** B.S. Computer Engineering Technology · Wentworth Institute of Technology, 2011  
-IEEE Student Branch President · Harvard University summer research program, 2008
+**Education:** B.S. Computer Engineering Technology · Wentworth Institute of Technology, 2011 
 
 ---
 
@@ -134,6 +137,3 @@ via a single CSV and a single binary.
 
 *Available for conversations. Reach out via GitHub or
 [LinkedIn](https://linkedin.com/in/andreimerlescu).*
-
-
-
