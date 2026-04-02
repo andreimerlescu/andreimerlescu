@@ -8,8 +8,9 @@ Entrepreneurship <br>Engineering Excellency · Own Without Ego · Women In Tech 
 I design and operate infrastructure that saves money at scale and ships software faster.
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $291K
 saving over 72 months. At Oracle I took a release pipeline from a 1-in-5 failure rate to
-99.9% success. At WB Games I drove concurrent hybrid in-studio plus multi-region perforce 
-version control systems through infrastructure as code. I assisted in operating and teaching
+99.9% success. At WB Games I architected a Perforce migration projected to cut OPEX from
+$7M to $1M annually and workspace syncs from 4 hours to 30 minutes — shelved before
+deployment due to studio in-house preferences over in-cloud. I assisted in operating and teaching
 during RailsGirlsRDU in 2014 to enable women in tech through building a rails twitter clone.
 I'm available for one full-time engagement and one consulting retainer.
 
@@ -43,9 +44,9 @@ Target industries: Game studios · Cloud infrastructure · Fintech · Defense-ad
 I have capacity for one additional client. I take on engagements where infrastructure is
 costing too much, breaking too often, or not deploying fast enough.
 
-**Retainer:** $2,000/mo · covers up to 10 hours per month
+**Retainer:** $3,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
 **Additional hours:** $200/hr · billed $40 per 12-minute units
-**Minimum engagement:** 3 months (longest was 17 years)
+**Minimum engagement:** 3 months (longest was 17 years) · _No maximum._
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
 
@@ -62,7 +63,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 | Cisco Systems (2015-2016) | RHEL Packages Missing From Cisco Repository for OpenStack | Compiled Missing Packages for Cisco Repository for OpenStack to compile on Cisco hardware. |
 | Oracle Cloud (2017–2020) | Release pipeline failing 1 in 5 deploys to production | Redesigned release automation in Ruby + Go; 99.9% success rate |
 | Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
-| WB Games (2021–2024) | $7M+/yr Perforce OPEX, no cloud migration path | Built Terraform + Bash IaC automation for OCI migration; delivered P4 transfer rewrite in Go |
+| WB Games (2021–2024) | $7M+/yr Perforce OPEX across 85 servers, 4-hr workspace syncs, no cloud migration path | Designed OCI migration reducing infrastructure from 85 → 17 servers, $7M → $1M OPEX, syncs from 4hrs → 30min; P4 transfer rewrite in Go; Hogwarts Legacy credits via Avalanche Studio |
 | SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
 | Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
 
