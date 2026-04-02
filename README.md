@@ -169,6 +169,6 @@ via a single CSV and a single binary.
 
 ## International adoptee
 
-In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. 
+In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. I maintain professional contact with graduates of the RailsGirlsRDU weekend from North Carolina that I helped lead. Now that she has AI, she's been unlocked! What are you building? I'm here to help if you need some guidance. 
 
-*Available for conversations. Reach out via GitHub. Join if you don't have one yet. It's the online place online that I maintain any kind of social media presence or profile for others to follow. Last year, I was on LinkedIn, but chose to deactivate my account. Life exists outside of LinkedIn. Touch grass.*
+*Available for conversations. Reach out via GitHub. Join if you don't have one yet. It's the only place online that I maintain any kind of social media presence or profile for others to follow. Last year, I was on LinkedIn, but chose to deactivate my account. Life exists outside of LinkedIn. Touch grass.*
