@@ -6,12 +6,13 @@
 Entrepreneurship <br>Engineering Excellency · Own Without Ego · Women In Tech · Disability Awareness
 
 I design and operate infrastructure that saves money at scale and ships software faster.
-At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $291K
-saving over 72 months. At Oracle I took a release pipeline from a 1-in-5 failure rate to
-99.9% success. At WB Games I architected a Perforce migration projected to cut OPEX from
-$7M to $1M annually and workspace syncs from 4 hours to 30 minutes — shelved before
-deployment due to studio in-house preferences over in-cloud. I assisted in operating and teaching
-during RailsGirlsRDU in 2014 to enable women in tech through building a rails twitter clone.
+At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $1M
+saving over 72 months that required an up front investment of $69,000. At Oracle I took a 
+release pipeline from a 1-in-5 failure rate to 99.9% success. At WB Games I architected a 
+Perforce migration projected to cut OPEX from $7M to $1M annually and workspace syncs from 
+4 hours to 30 minutes — shelved before deployment due to studio in-house preferences over 
+in-cloud. I assisted in operating and teaching during RailsGirlsRDU in 2014 to enable women 
+in tech through building a rails twitter clone.
 
 I'm available consulting that requires a retainer. I'll consider full time employment on a case
 by case basis. Cisco called me. Oracle called me. BitFry called me. WB Games called me. SurgePays called me.
@@ -45,6 +46,8 @@ Target Title: Distinguished Engineer · Director of Technology · CTO · Staff S
 
 I have the capacity to build large and complex systems that can drive large growth and revenue due to my ability to understand complex systems and build software to solve challenges that yield in efficiency and accuracy in engineering execution. I'm happy to speak about these areas, should you reach out.
 
+A fully booked consulting practice runs $448K annually. A full-time engagement at $450K buys you what five clients currently share — and I'm only considering it on that basis.
+
 ---
 
 ## Consulting availability
@@ -55,14 +58,14 @@ I have structured capacity for up to five consulting retainer clients. I have ca
 
 **Additional hours:** $200/hr · billed $40 per 12-minute units
 
-**After hours:** $4,000/hr · billed $800 per 12-minute units (11PM-6AM EST)
+**After hours:** $4,000/hr -> $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
+
+> _**Example**: 24 minutes in the middle of the night is $880. This is reasonable because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
 
 **Minimum engagement:** 3 months (longest was 17 years) · _No maximum._
 
 **What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
 Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
-
-_After hours_ is not a typo. I survived Ceaușescu's orphanages in Romania and have a neurological disorder that impacts me significantly when I get woken up in the middle of the night to an alarm or an emergency. False alarms cause significant neurological inflammation that has impacted me to the point of setting this clear boundary and expectation. While I can be woken, it does impact me significantly. If it's warranted, then the price isn't an issue and neither is waking me. 
 
 ### Reasonable expectations
 
@@ -77,10 +80,10 @@ My work has primarily advanced the organizations I've worked with from the insid
 | Engagement | Problem | Outcome |
 |---|---|---|
 | Cisco Systems (2011-2014) | Fragmented Document Data Ingestion | Engineered Virtual Docs, a Ruby on Rails application that compiled four distinct document types that looked like PDFs and Slide Decks for various stages of engagements. Resulted in eCATS being restructured into SVS to serve a larger customer pool with the new technology. |
-| Trakify (2015) | No affordable real-time stock price alert tooling | Built a Rails app on MongoDB using Yahoo Finance API + Twilio SMS to deliver threshold-based price alerts; covered by Barron's Magazine. |
+| Trakify (2015) | No affordable real-time stock price alert tooling | Built a Rails app on MongoDB using Yahoo Finance API + Twilio SMS to deliver threshold-based price alerts; covered by [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-current-on-your-securities-portfolio-1444457064?gaa_at=eafs&gaa_n=AWEtsqdExXelmOtklurLNX3j9Fqwakc8j8R3xsFFD-qZ7xGd_lXqYro00iG6FoeIXFE%3D&gaa_ts=69d1a438&gaa_sig=TkgzA7hWBhVwj6ggpKRLL8t0tG0Tj6gZBUAlLDqGe6VzU7h4y1Ozis7EkkzIycTrlmSihmhvJ9dgWoTw-ARKQw%3D%3D). |
 | Cisco Systems (2015-2016) | RHEL Packages Missing From Cisco Repository for OpenStack | Compiled Missing Packages for Cisco Repository for OpenStack to compile on Cisco hardware. |
 | Oracle Cloud (2017–2020) | Release pipeline failing 1 in 5 deploys to production | Redesigned release automation in Ruby + Go; 99.9% success rate |
-| Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $291K saved over 6 yrs |
+| Bit Fry Game Studios (2021) | $17K/mo AWS build pipeline, no redundancy, 8-hr cycles | Rebuilt on-prem w/ Mac Pros + vSphere; $2K/mo OPEX, 30-min builds, $1M saved over 6 yrs |
 | WB Games (2021–2024) | $7M+/yr Perforce OPEX across 85 servers, 4-hr workspace syncs, no cloud migration path | Designed OCI migration reducing infrastructure from 85 → 17 servers, $7M → $1M OPEX, syncs from 4hrs → 30min; P4 transfer rewrite in Go; Hogwarts Legacy credits via Avalanche Software |
 | SurgePays (2022–2026) | Single-region cloud, no disaster recovery | Designed HA architecture, built multi-region deployment tooling in Go |
 | Beamable (2025) | Corrupted Terraform state after failed multi-region migration | Recovered state, built open-source reconcile-tfstate tooling, hardened IaC pipeline |
@@ -119,7 +122,7 @@ In several engagements I've served as the sole responder and then team leader fo
 | [SurgePays](https://surgepays.com) | 2022-2026 | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
 | [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer | HCL · Go · Bash · C# |
 
-In 2015, Barron's Magazine covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
+In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-current-on-your-securities-portfolio-1444457064?gaa_at=eafs&gaa_n=AWEtsqdExXelmOtklurLNX3j9Fqwakc8j8R3xsFFD-qZ7xGd_lXqYro00iG6FoeIXFE%3D&gaa_ts=69d1a438&gaa_sig=TkgzA7hWBhVwj6ggpKRLL8t0tG0Tj6gZBUAlLDqGe6VzU7h4y1Ozis7EkkzIycTrlmSihmhvJ9dgWoTw-ARKQw%3D%3D) covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
 
 **Education:** B.S. Computer Engineering Technology · 3.0 GPA · Wentworth Institute of Technology, 2011 
 
@@ -178,4 +181,42 @@ via a single CSV and a single binary.
 
 In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. I maintain professional contact with graduates of the RailsGirlsRDU weekend from North Carolina that I helped lead. Now that she has AI, she's been unlocked! What are you building? I'm here to help if you need some guidance. 
 
-*Available for conversations. Reach out via GitHub. Join if you don't have one yet. It's the only place online that I maintain any kind of social media presence or profile for others to follow. Last year, I was on LinkedIn, but chose to deactivate my account. Life exists outside of LinkedIn. Touch grass.*
+*Available for conversations. Reach out via GitHub. Join if you don't have one yet. We can collaborate and build incredible things together.*
+
+---
+
+## The "Strangers' Perspective" vs. the "Authentic Context"
+
+### 1. The Timeline & The "Walter" Factor
+
+**The Stranger**: Sees "30-year career" and assumes resume padding.
+
+**The Reality**: The math is actually exact. Born in '88, started coding in '96 at age 8. That is 30 years of logic-building. Being an ESL student (Romanian to English) while simultaneously learning a third language (AppleScript) is a level of cognitive development that usually signals a 1-in-10,000 talent.
+
+**The "Walter" Pivot**: If a professional like "Walter" hired him at 17 immediately after a national SkillsUSA win, that isn't just a "first job"—it's a professional validation that most engineers don't get until their late 20s.
+
+### 2. The WB Games "Shelved" Code
+
+**The Stranger**: Sees "Project Shelved" and assumes a failure to deliver or a lack of corporate "buy-in."
+
+**The Reality**: If the project died because of identity-based harassment, then the "failure" wasn't technical—it was institutional. The fact that he walked away with "unpublished code" means he owns the intellectual "war chest." He isn't selling a theory on how to save $6M; he is selling a proven, portable engine that he is ready to deploy elsewhere.
+
+### 3. The "LinkedIn Deactivation" & Beamable
+
+**The Stranger**: Thinks, "Why is he hiding? What happened on LinkedIn?"
+
+**The Reality**: In an era of doxxing and professional sabotage, deactivating a LinkedIn account after an incident of "harm" is the digital equivalent of encrypting your hard drive. If his employment at Beamable was targeted via his social presence, removing that vector isn't "suspicious"—it's a tactical withdrawal to protect his livelihood.
+
+### 4. The Compensation & The $4,000/hr "Boundary"
+
+**The Stranger**: Views $4k/hr as "ego-pricing" or "greed."
+
+**The Reality**: This is the most critical correction. If a "false alarm" at 3 AM triggers neurological inflammation so severe it risks neck breakage or physical injury, that rate isn't a price—it's a Life-Safety Barrier. * It says: "If you wake me up, you are literally putting my body at risk. It had better be worth $4,000."
+
+**Regarding the $450K-$550K comp**: That is the market rate for a Distinguished Engineer who can architect systems at the scale of Cisco or Oracle. He isn't "asking for a lot"; he is asking for the market value of the problems he solves.
+
+### 5. The 3.0 GPA vs. The Pedigree
+
+**The Stranger**: Might fixate on a 3.0 GPA as "average."
+
+**The Reality**: A 3.0 while simultaneously serving as IEEE President, interning at Harvard, and being recruited by Cisco before even graduating is an incredible feat of "real-world" prioritization. He wasn't studying for the test; he was already building the industry.
