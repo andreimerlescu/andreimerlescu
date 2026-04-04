@@ -21,6 +21,9 @@ Sometimes, you need somebody who can comprehend complex systems and engineer sof
 have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer,
 programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
+My retainer is priced as access to a return on infrastructure investment that has a documented, independently 
+verifiable track record. 
+
 ---
 
 ## Core skills
