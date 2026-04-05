@@ -1,9 +1,9 @@
 ### Hey There 👋🏻
 ## I'm Andrei (formerly Michael Trimm)
 
-**Staff Platform Engineer · Infrastructure Architect · AI Integration Specialist**  
+**Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** 
 21+ Year Professional · Go · Terraform · AWS · Release Management · CI/CD
-Entrepreneurship <br>Engineering Excellency · Own Without Ego · Women In Tech · Disability Awareness
+Entrepreneurship <br>Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
 
 I design and operate infrastructure that saves money at scale and ships software faster.
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $1M
@@ -39,40 +39,41 @@ PostgreSQL · MongoDB · Linux · macOS · Windows · TeamCity · Unreal Engine 
 
 ## Full-time availability
 
-I'm open to a Staff, Principal, or Director-level Platform / DevOps / Release Engineering role. I can utilize my own workstation (M3 Mac Studio, 256 GB RAM, local 80B-parameter LLM inference at 80+ tokens/sec) upon request and with permission. I require a company-issued workstation for full-time engagements to maintain clear IP separation between employer work product and my personal open source portfolio. I am based in the United States and easily work across time zones, languages and cultures.
+I'm open to a Senior, Staff, Principal, or Director-level Platform / DevOps / Release Engineering role. I am based in the United States and can work across time zones, languages and cultures.
 
-Past titles: Senior DevOps|Release|Application Engineer · Network|Software|Application Engineer · Co-Founder · CEO
+Past titles: Senior DevOps|Release|Application Engineer · Network|Software|Application Engineer
 Target industries: Game studios · Cloud infrastructure · Fintech · Defense-adjacent · Corporate AI Adoption  · Medical-adjacent
 
-Target Comp: $450-$550K per year plus benefits
-Target Title: Distinguished Engineer · Director of Technology · CTO · Staff Software Architect · Staff DevOps Architect
+Target Comp: $150-$250K per year plus benefits
+Target Title: Senior Platform Architect · Senior DevOps Architect · Site Reliability Engineer
 
 I have the capacity to build large and complex systems that can drive large growth and revenue due to my ability to understand complex systems and build software to solve challenges that yield in efficiency and accuracy in engineering execution. I'm happy to speak about these areas, should you reach out.
-
-A fully booked consulting practice runs $448K annually. A full-time engagement at $450K buys you what five clients currently share — and I'm only considering it on that basis. A full time opportunity means 9AM - 5PM Monday - Friday with the expectation of company travel and some extended sessions for longer development efforts. Full time means full time. I maintained my relationship with Walter while working at Cisco, Oracle and WB Games. I can maintain that same relationship in any full time capacity. I am happy to discuss it openly to ensure confidence in the decisions being made regarding engaging my services in a full time capacity. Even today I still speak fondly of Cisco, Oracle, SurgePays, Beamable, Bit Fry and WB Games. The engineering work being performed, coupled with the functional, entertainment and fiscal value provided is unmatched. 
 
 ---
 
 ## Consulting availability
 
-I have structured capacity for up to five consulting retainer clients. I have capacity to add four additional clients with retainers or one full time engagement at this time. I take on engagements where infrastructure is costing too much, breaking too often, or not deploying fast enough.
+I provide consulting services for organizations that need my expertise but don't need me building full time. 
 
-**Retainer:** $4,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
+**Retainer:** $3,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
 
 **Additional hours:** $200/hr · billed $40 per 12-minute units
 
-**After hours:** $4,000/hr -> $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
+**After hours:** $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
 
-> _**Example**: 24 minutes in the middle of the night is $880. This is reasonable because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
+> _**Note**: This is reasonable because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
 
-**Minimum engagement:** 3 months (longest was 17 years) · _No maximum._
+**Minimum engagement:** 1 month (longest was 17 years) · _No maximum._
 
-**What I work on:** Terraform state recovery · multi-region migrations · CI/CD rebuilds ·
-Perforce at scale · AI integration (MCP, RAG, local LLM) · cloud cost reduction · web application development with AI · Go application development with AI · AI agent virtual company development
+**What I work on:** web application development with AI · cloud infrastructure engineering · ai integration services (mcp, rag, or local llm) · strategic opportunities for growth, cost savings, and applied technology · multi-region cloud hosting solutions · CI/CD pipelines including rebuilds · perforce (p4) at scale · systems analysis · big data processing
 
 ### Reasonable expectations
 
-Each retainer covers 5 hours per week with extensions of up to 4 additional hours per week. Each given day, I cap myself at 9 hours per day. Going into arrangements knowing this ceiling, allows you to budget between $4,000-$8,000 per month. 
+Professionally, I've provided consulting services even while employed full time for the 21+ year professional tenure of my career. I respect all IP of each client and am able to appropriately compartmentalize responsibilities, follow-ups, and sub-projects. In full time engagements in the past, I've openly communicated with leadership about this service offering. 
+
+Each retainer covers 5 hours per week with extensions of up to 4 additional hours per week and are capped at 9 hours per day, therefore all consulting services range between $3,000-$7,000 per month.
+
+Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or between 6PM-10PM EST. Weekends can be requested if services are needed. 
 
 ---
 
@@ -194,26 +195,50 @@ In 1990 I was adopted to the United States of America. In 1997 I became a Natura
 
 **The Stranger**: Sees "30-year career" and assumes resume padding.
 
-**The Reality**: The math is actually exact. Born in '88, started coding in '96 at age 8. That is 30 years of logic-building. Being an ESL student (Romanian to English) while simultaneously learning a third language (AppleScript) is a level of cognitive development that usually signals a 1-in-10,000 talent.
+**The Reality**: The math is exact. Born in '88, started coding in '96 at age 8.
+That is 30 years of logic-building. Being an ESL student (Romanian to English)
+while simultaneously learning a third language (AppleScript) is a level of
+cognitive development that usually signals a 1-in-10,000 talent.
 
-**The "Walter" Pivot**: If a professional like "Walter" hired him at 17 immediately after a national SkillsUSA win, that isn't just a "first job"—it's a professional validation that most engineers don't get until their late 20s.
+**The "Walter" Pivot**: When a professional like "Walter" hired me at 17
+immediately after a national SkillsUSA win, that wasn't just a "first job" —
+it was a professional validation that most engineers don't receive until their
+late 20s.
 
 ### 2. The WB Games "Shelved" Code
 
-**The Stranger**: Sees "Project Shelved" and assumes a failure to deliver or a lack of corporate "buy-in."
+**The Stranger**: Sees "Project Shelved" and assumes a failure to deliver or a
+lack of corporate "buy-in."
 
-**The Reality**: If the project died because of identity-based harassment, then the "failure" wasn't technical—it was institutional. The fact that he walked away with "unpublished code" means he owns the intellectual "war chest." He isn't selling a theory on how to save $6M; he is selling a proven, portable engine that he is ready to deploy elsewhere.
+**The Reality**: The architecture was complete, independently verifiable including 
+Hogwarts Legacy credits, and projected to save $6M annually. I exited when the
+organization implemented contractor-mandatory leadership preference programs that
+I assessed as discriminatory and inconsistent with merit-based advancement —
+conduct now under active federal scrutiny. The failure wasn't technical. The
+code is portable. The savings are available to the next organization willing to
+deploy it.
 
 ### 3. The Compensation & The $4,000/hr "Boundary"
 
 **The Stranger**: Views $4k/hr as "ego-pricing" or "greed."
 
-**The Reality**: This is the most critical correction. If a "false alarm" at 3 AM triggers neurological inflammation so severe it risks neck breakage or physical injury, that rate isn't a price—it's a Life-Safety Barrier. * It says: "If you wake me up, you are literally putting my body at risk. It had better be worth $4,000."
+**The Reality**: A false alarm at 3 AM triggers neurological inflammation with
+documented physical risk. That rate isn't a price — it's a life-safety
+boundary. It communicates clearly: if you need me at that hour, it had better
+be worth it. Both parties benefit from that clarity before an engagement begins,
+not after.
 
-**Regarding the $450K-$550K comp**: That is the market rate for a Distinguished Engineer who can architect systems at the scale of Cisco or Oracle. He isn't "asking for a lot"; he is asking for the market value of the problems he solves.
+**Regarding the target comp**: The range reflects market rate for a
+Distinguished Engineer who can architect and deliver at the scale of Cisco,
+Oracle, and WB Games. I'm not asking for a lot. I'm asking for the value of
+the problems I solve.
 
 ### 4. The 3.0 GPA vs. The Pedigree
 
-**The Stranger**: Might fixate on a 3.0 GPA as "average."
+**The Stranger**: Fixates on a 3.0 GPA as "average."
 
-**The Reality**: A 3.0 while simultaneously serving as IEEE President, interning at Harvard, and being recruited by Cisco before even graduating is an incredible feat of "real-world" prioritization. He wasn't studying for the test; he was already building the industry.
+**The Reality**: A 3.0 earned while serving as IEEE President, interning at
+Harvard, and being recruited by Cisco before graduation isn't average
+performance — it's evidence of someone who was already building the industry
+while others were studying for it.
+
