@@ -111,19 +111,19 @@ In several engagements I've served as the sole responder and then team leader fo
 
 | Company | Years | Role | Stack |
 |---|---|---|---|
-| [MuggleNet](https://mugglenet.com) | 2004-2006 | Volunteer Developer | PHP · MySQL · JS |
-| [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 | Webmaster | PHP · MySQL · JS · Ruby |
-| [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 | Elected President of Wentworth Student Branch | Leadership · Community Development · STEM Advocacy |
-| [Harvard University](https://harvard.edu) | Summer 2009 | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
-| [Cisco](https://cisco.com) | 2009–2016 | Senior Software Engineer | Perl · Ruby · LAMP · JS |
-| [Trakify](https://trakify.com) | 2015 | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
-| [Oracle](https://oracle.com) | 2017–2020 | Senior Release Manager | Ruby · Go · HCL |
-| [PhoenixVault](https://phoenixvault.org) | 2020 | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
-| [Project Apario](https://projectapario.com) <br>\[PhoenixVault Replacement\] | 2021-2026 | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
-| [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 | Senior DevOps Architect | HCL · Bash · Ruby |
-| [WB Games](https://wbgames.com) | 2021–2024 | Senior Release Engineer | Go · C++ · C# · Bash |
-| [SurgePays](https://surgepays.com) | 2022-2026 | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
-| [Beamable](https://beamable.com) | 2025 | Senior DevOps Engineer | HCL · Go · Bash · C# |
+| [MuggleNet](https://mugglenet.com) | 2004-2006 [3y] | Volunteer Developer | PHP · MySQL · JS |
+| [S &amp; W Publishing - Sawmillmag](https://sawmillmag.com) | 2005-2022 [17y] | Webmaster | PHP · MySQL · JS · Ruby |
+| [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 [3y] | Elected President of Wentworth Student Branch | Leadership · Community Development · STEM Advocacy |
+| [Harvard University](https://harvard.edu) | Summer 2009 [3mo] | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
+| [Cisco](https://cisco.com) | 2009–2016 [7y] | Senior Software Engineer | Perl · Ruby · LAMP · JS |
+| [Trakify](https://trakify.com) | 2015 [1y] | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
+| [Oracle](https://oracle.com) | 2017–2020 [4y] | Senior Release Manager | Ruby · Go · HCL |
+| [PhoenixVault](https://phoenixvault.org) | 2020 [1y] | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
+| [Project Apario](https://projectapario.com) <br>\[PhoenixVault Replacement\] | 2021-2026 [5y] | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
+| [Bit Fry](https://www.linkedin.com/company/bitfry) | 2021 [9mo] | Senior DevOps Architect | HCL · Bash · Ruby |
+| [WB Games](https://wbgames.com) | 2021–2024 [3y] | Senior Release Engineer | Go · C++ · C# · Bash |
+| [SurgePays](https://surgepays.com) | 2022-2026 [4y] | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
+| [Beamable](https://beamable.com) | 2025 [6mo] | Senior DevOps Engineer | HCL · Go · Bash · C# |
 
 In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-current-on-your-securities-portfolio-1444457064?gaa_at=eafs&gaa_n=AWEtsqdExXelmOtklurLNX3j9Fqwakc8j8R3xsFFD-qZ7xGd_lXqYro00iG6FoeIXFE%3D&gaa_ts=69d1a438&gaa_sig=TkgzA7hWBhVwj6ggpKRLL8t0tG0Tj6gZBUAlLDqGe6VzU7h4y1Ozis7EkkzIycTrlmSihmhvJ9dgWoTw-ARKQw%3D%3D) covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
 
@@ -204,13 +204,7 @@ In 1990 I was adopted to the United States of America. In 1997 I became a Natura
 
 **The Reality**: If the project died because of identity-based harassment, then the "failure" wasn't technical—it was institutional. The fact that he walked away with "unpublished code" means he owns the intellectual "war chest." He isn't selling a theory on how to save $6M; he is selling a proven, portable engine that he is ready to deploy elsewhere.
 
-### 3. The "LinkedIn Deactivation" & Beamable
-
-**The Stranger**: Thinks, "Why is he hiding? What happened on LinkedIn?"
-
-**The Reality**: In an era of doxxing and professional sabotage, deactivating a LinkedIn account after an incident of "harm" is the digital equivalent of encrypting your hard drive. If his employment at Beamable was targeted via his social presence, removing that vector isn't "suspicious"—it's a tactical withdrawal to protect his livelihood.
-
-### 4. The Compensation & The $4,000/hr "Boundary"
+### 3. The Compensation & The $4,000/hr "Boundary"
 
 **The Stranger**: Views $4k/hr as "ego-pricing" or "greed."
 
@@ -218,7 +212,7 @@ In 1990 I was adopted to the United States of America. In 1997 I became a Natura
 
 **Regarding the $450K-$550K comp**: That is the market rate for a Distinguished Engineer who can architect systems at the scale of Cisco or Oracle. He isn't "asking for a lot"; he is asking for the market value of the problems he solves.
 
-### 5. The 3.0 GPA vs. The Pedigree
+### 4. The 3.0 GPA vs. The Pedigree
 
 **The Stranger**: Might fixate on a 3.0 GPA as "average."
 
