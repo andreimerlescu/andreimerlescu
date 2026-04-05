@@ -49,7 +49,7 @@ Target Title: Distinguished Engineer · Director of Technology · CTO · Staff S
 
 I have the capacity to build large and complex systems that can drive large growth and revenue due to my ability to understand complex systems and build software to solve challenges that yield in efficiency and accuracy in engineering execution. I'm happy to speak about these areas, should you reach out.
 
-A fully booked consulting practice runs $448K annually. A full-time engagement at $450K buys you what five clients currently share — and I'm only considering it on that basis.
+A fully booked consulting practice runs $448K annually. A full-time engagement at $450K buys you what five clients currently share — and I'm only considering it on that basis. A full time opportunity means 9AM - 5PM Monday - Friday with the expectation of company travel and some extended sessions for longer development efforts. Full time means full time. I maintained my relationship with Walter while working at Cisco, Oracle and WB Games. I can maintain that same relationship in any full time capacity. I am happy to discuss it openly to ensure confidence in the decisions being made regarding engaging my services in a full time capacity. Even today I still speak fondly of Cisco, Oracle, SurgePays, Beamable, Bit Fry and WB Games. The engineering work being performed, coupled with the functional, entertainment and fiscal value provided is unmatched. 
 
 ---
 
