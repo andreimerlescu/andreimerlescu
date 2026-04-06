@@ -3,7 +3,7 @@
 
 **Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
 21+ Year Professional · Go · Terraform · AWS · Release Management · CI/CD <br/>
-Entrepreneurship <br>Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
+Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
 
 I design and operate infrastructure that saves money at scale and ships software faster.
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $1M
