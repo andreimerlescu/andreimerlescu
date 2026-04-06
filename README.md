@@ -6,12 +6,12 @@
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
 
 I design and operate infrastructure that saves money at scale and ships software faster.
-At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $1M
-saving over 72 months that required an up front investment of $69,000. At Oracle I took a 
-release pipeline from a 1-in-5 failure rate to 99.9% success. At WB Games I architected a 
-Perforce migration projected to cut OPEX from $7M to $1M annually and workspace syncs from 
-4 hours to 30 minutes — shelved before deployment due to studio in-house preferences over 
-in-cloud. I assisted in operating and teaching during RailsGirlsRDU in 2014 to enable women 
+At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $500K
+saving over 36 months that required an up front investment of $69,000 every three years. 
+At Oracle I took a release pipeline from a 1-in-5 failure rate to 99.9% success. At WB Games 
+I architected a Perforce migration projected to cut OPEX from $7M to $1M annually and workspace 
+syncs from 4+ hours to 30 minutes — shelved before deployment due to studio in-house preferences 
+over in-cloud. I assisted in operating and teaching during RailsGirlsRDU in 2014 to enable women 
 in tech through building a rails twitter clone.
 
 I'm available consulting that requires a retainer. I'll consider full time employment on a case
