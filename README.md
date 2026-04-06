@@ -218,22 +218,7 @@ conduct now under active federal scrutiny. The failure wasn't technical. The
 code is portable. The savings are available to the next organization willing to
 deploy it.
 
-### 3. The Compensation & The $4,000/hr "Boundary"
-
-**The Stranger**: Views $4k/hr as "ego-pricing" or "greed."
-
-**The Reality**: A false alarm at 3 AM triggers neurological inflammation with
-documented physical risk. That rate isn't a price — it's a life-safety
-boundary. It communicates clearly: if you need me at that hour, it had better
-be worth it. Both parties benefit from that clarity before an engagement begins,
-not after.
-
-**Regarding the target comp**: The range reflects market rate for a
-Distinguished Engineer who can architect and deliver at the scale of Cisco,
-Oracle, and WB Games. I'm not asking for a lot. I'm asking for the value of
-the problems I solve.
-
-### 4. The 3.0 GPA vs. The Pedigree
+### 3. The 3.0 GPA vs. The Pedigree
 
 **The Stranger**: Fixates on a 3.0 GPA as "average."
 
