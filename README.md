@@ -165,7 +165,7 @@ This workstation exists so I can run inference locally and privately — no API 
 I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. Making them open source, allows you to run them as well and work off from them as well. 
 
 - [figtree](https://github.com/andreimerlescu/figtree) — unified CLI flag / env / config file management
-- [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control
+- [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control <sup><span style="color:red;">UPDATED</span></sup>
 - [checkfs](https://github.com/andreimerlescu/checkfs) — cross-platform filesystem path abstractions (Linux, macOS, Windows)
 - [bump](https://github.com/andreimerlescu/bump) — VERSION file management for CI pipelines
 - [verbose](https://github.com/andreimerlescu/verbose) — logging package that censors secrets in stdout while writing them to disk
