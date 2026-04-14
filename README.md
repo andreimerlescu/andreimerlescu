@@ -164,7 +164,6 @@ This workstation exists so I can run inference locally and privately — no API 
 
 I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. Making them open source, allows you to run them as well and work off from them as well. 
 
-- [lemmings](https://github.com/andreimerlescu/lemmings) - load testing simulating confused lemmings hitting relentlessly
 - [room](https://github.com/andreimerlescu/room) - drop in waiting room for go web apps that use gin for routing
 - [figtree](https://github.com/andreimerlescu/figtree) — unified CLI flag / env / config file management
 - [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control <sup><span style="color:red;">Updated Spring 2026</span></sup>
@@ -172,6 +171,10 @@ I learned Go and built a handful of commercial and enterprise scale applications
 - [bump](https://github.com/andreimerlescu/bump) — VERSION file management for CI pipelines
 - [verbose](https://github.com/andreimerlescu/verbose) — logging package that censors secrets in stdout while writing them to disk
 - [igo](https://github.com/andreimerlescu/igo) — install and manage multiple Go versions without sudo
+
+**In Progress**:
+
+- [lemmings](https://github.com/andreimerlescu/lemmings) - load testing simulating confused lemmings hitting relentlessly
 
 ### Project Apario ([@ProjectApario](https://github.com/ProjectApario))
 A decentralized OSINT document platform built on a custom reader / writer / search trio,
