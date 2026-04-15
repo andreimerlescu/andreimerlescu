@@ -16,7 +16,7 @@ in tech through building a rails twitter clone.
 
 I'm available consulting that requires a retainer. I'll consider full time employment on a case
 by case basis. Cisco called me. Oracle called me. BitFry called me. WB Games called me. SurgePays called me.
-Beamable called me. Walter called me. You'll call me. Send me that message when you're ready to build.
+Beamable called me. Walter called me. Will you call me? Send me that message when you're ready to build.
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that 
 have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer,
 programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
