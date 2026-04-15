@@ -178,9 +178,7 @@ I learned Go and built a handful of commercial and enterprise scale applications
 - [verbose](https://github.com/andreimerlescu/verbose) — logging package that censors secrets in stdout while writing them to disk
 - [igo](https://github.com/andreimerlescu/igo) — install and manage multiple Go versions without sudo
 
-**In Progress**:
-
-- [lemmings](https://github.com/andreimerlescu/lemmings) - load testing simulating confused lemmings hitting relentlessly
+Read my statement on [OPENSOURCE.md](/OPENSOURCE.md)
 
 ### Project Apario ([@ProjectApario](https://github.com/ProjectApario))
 A decentralized OSINT document platform built on a custom reader / writer / search trio,
