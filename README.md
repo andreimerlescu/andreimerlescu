@@ -121,7 +121,7 @@ In several engagements I've served as the sole responder and then team leader fo
 | [IEEE Student Branch President](https://ieee.wit.edu) | 2007-2010 [3y] | Elected President of Wentworth Student Branch | Leadership · Community Development · STEM Advocacy |
 | [Harvard University](https://harvard.edu) | Summer 2009 [3mo] | IT Support Internship | IT Services in William James Hall <br>+ Consulting with Dr Jill Hooley  |
 | [Cisco](https://cisco.com) | 2009–2016 [7y] | Senior Software Engineer | Perl · Ruby · LAMP · JS |
-| [Trakify](https://trakify.com) | 2015 [1y] | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
+| [Trakify]([https://trakify.com](https://web.archive.org/web/20160111134734/http://www.trakify.com/)) | 2015 [1y] | CEO | Ruby on Rails · MongoDB · Yahoo! Finance API |
 | [Oracle](https://oracle.com) | 2017–2020 [4y] | Senior Release Manager | Ruby · Go · HCL |
 | [PhoenixVault](https://phoenixvault.org) | 2020 [1y] | Owner &amp; Founder | Ruby · MongoDB · Bash · JS |
 | [Project Apario](https://projectapario.com) <br>\[PhoenixVault Replacement\] | 2021-2026 [5y] | Owner &amp; Founder | Go · HCL · VueJS · Ruby | 
