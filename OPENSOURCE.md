@@ -119,19 +119,73 @@ the same with `.env` called [goenv](https://github.com/andreimerlescu/goenv).
 
 ## `genwordpass`
 
+This package is a **multilingal** _random password generator_ that uses a combination of uppercase, lowercase and
+symbols in order to randomly generate strong and memorable passwords. There are **five (5)** languages included in
+the package including **Romanian**, **German**, **Russian**, **Spanish**, and **English**. 
+
     go install github.com/andreimerlescu/genwordpass@latest
 
 ## `entgenpass`
+
+This package is a different attempt at random password generation. Instead of focusing on memorable passwords that are
+big in memory ([genwordpass](https://github.com/andreimerlescu/genwordpass) takes a few seconds to load but its strong).
+This package is [entgenpass](https://github.com/andreimerlescu/entgenpass) and its responsible for random strings that 
+are calculated with entropy strength. It's a similar generation time for a password, but its a different approach. Both 
+packages in my judgement are safe to use. 
 
     go install github.com/andreimerlescu/entgenpass@latest
 
 ## Project Apario
 
+In 2020 I was asked by a bunch of online folks to build a search engine for OSINT records. I released PhoenixVault, but it 
+changed from a _Ruby on Rails_ closed-source _SaaS_ product that had voluntary subscriptions to finance the $7K/mo hosting 
+bills for roughly 500 concurrent monthly users, funded by over 200 subscribers for **four (4) years** until I rewrote the 
+_closed source_ offering into an **open source** offering written in Go. In my professional career, Project Apario offered
+me a lot of growing opportunities to master DevOps in scale and load outside of my full time job. This allowed me to learn
+new tech and try new concepts. 
+
 ### `reader`
+
+The [reader](https://github.com/ProjectApario/reader) is the presentation layer of the **trio** that is _Project Apario_.
 
 ### `writer`
 
+The [writer](https://github.com/ProjectApario/writer) is what builds a **database directory** of _Apario Assets_ that can be 
+used in the presentation [reader](https://github.com/ProjectApario/reader) layer. 
+
 ### `search`
 
+The [search](https://github.com/ProjectApario/search) acts similar to the [reader](https://github.com/ProjectApario/reader)
+in that it uses the **database directory** of _Apario Assets_ to generate cached indexes of the raw text extracted and read
+from OCR. Text is processed through [textee](https://github.com/andreimerlescu/textee) in order to chunk a string into small
+substrings, then [gematria](https://github.com/andreimerlescu/gematria) is used in order to calculate the English, Jewish and
+Simple _gematria_ value for each _textee_ substring. When searches are performed, the `textee` substring is used in matching 
+potential `gematria` matches. In life we have coincidences and _gematria_ is one of the best. Search opens that up. It's 
+interface is REST API and `wss://` | `ws://`.
+
 ### `merkel`
+
+The [merkel](https://github.com/ProjectApario/merkel) project is the last in the chain for _Project Apario_ until the DAO
+NFTs sell on XRP. I'm not necessarily trying to make _money_ on the project _per-se_, but the XRP collected simply goes 
+into the `rAparioji3FxAtD7UufS8Hh9XmFn7h6AX` wallet address and would be used in conjunction with the `$APARIO` token that 
+was minted. I've _built it_, it's ultimately a matter of _whether or not they will come_. Merkel attempts to introduce 
+the **merkle** concept for verifying NFT participation chains. If _Project Apario_ continues by my hands, and its future
+involves crypto, then the **merkel** package would end up being used because its important to have authenticity and 
+reliability in what you're asserting. 
+
+## PhoenixVault
+
+The movement in 2020 was originally for the JFK files, and I found the technical challenge of NARA's release of the files
+unsearchable to be a fun challenge to conquer. That I did. I started with a proof of concept and then I delivered on the 
+real deal. The _closed source_ cost $7K/mo to serve 500K JFK files and the **open source** version costs $63/mo to serve 500K JFK files - both for roughly 500 concurrent users. 
+
+### Roadmap for _Project Apario_
+
+Since the **PhoenixVault** is the _product_ of _Project Apario_, I plan on integrating the skills acquired from my VueJS 
+course, coupled with AI assisted development, coupled with [room](https://github.com/andreimerlescu/room) and the new 
+[lemmings](https://github.com/andreimerlescu/lemmings), I should be able to build a brand new service for Project Apario
+completely from start to finish. But doing it, without any support, or sponsorship, is difficult when I can only contribute
+a few hours per month in any meaningful capacity. When I am able to increase that efficiency by increasing collaboration, 
+the project will resume. But, until that happens, I'll be waiting on the DAO NFTs to sell, and when they sell, I'll know 
+that I have a team of serious folks who want to help build out the future roadmap of the project. The door is open. 
 
