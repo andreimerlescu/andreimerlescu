@@ -74,6 +74,8 @@ _Topobuilder_ is designed for front-end "funnel" landing pages sites that are go
 
 _Sovereign_ is designed for real-world in-world load testing of systems before major commercial events. When you are planning on spending $50,000 for a TV spot and you want to send your customers to your website to buy your new product that you just announced, you'll want to use _Sovereign_ so that you can orchestrate your [lemmings](https://github.com/andreimerlescu/lemmings) in a manner that **1)** defines the behavior of the customer and **2)** properly tests your infrastructure for game day. The reports provide you with data that you can drive successful business decisions with. Without the data about your product or platform that Sovereign Lemmings reveals, you're not really a sovereign are you? _For me_, I felt like when I launched Trakify, and countless other apps, I didn't know _how many people_ were actually going to hit my site and how long they were going to stay on it. Thus why _lemmings_ was born. I solved the problem I ran into and now I am handing you that solution too. 
 
+_Sovereign_ depends on _Topobuilder_ and so if you don't have a license to `topobuilder` then you can't run `sovereign`. **IF** you're truly a sovereign over your own business, then investing $13,998 is sowing exactly where you want to reap. The results other organizations have seen from my work can pay for that ten fold on a case by case basis depending on so many factors and variables that I've seen in the real world, that offering this sounds crazy, but to a business that spends $50,000 per month to AWS for their landing pages, all of a sudden I am looking pretty good. 
+
 ---
 
 ## Consulting availability
