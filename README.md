@@ -57,8 +57,10 @@ I have two **closed source** projects that I offer on commercial basis for custo
 
 | Product | About | Price |
 |---------|-------|-------|
-| `topobuilder` | Multi-Region Cloud Container Provisioner | $99/mo + Support |
-| `sovereign` | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $99/mo + Support |
+| `topobuilder` | Multi-Region Cloud Container Provisioner | $3,999 |
+| `sovereign` | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $3,999 |
+
+> **Topobuilder** _and_ **Sovereign** includes _20 billable hours_ of 1 on 1 consulting services provided over Zoom. This comes out to 100 `12-minute` units. Consulting billable hours are valid up to 12 months after purchase date.
 
 Support provided does **not** require a _retainer_ as _regular consulting services does_. Support is available upon request and subject to $40 per 12-minute units. Support can be conducted over text message, phone call or Zoom meeting. 
 
