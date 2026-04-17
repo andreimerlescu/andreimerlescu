@@ -57,14 +57,22 @@ I have two **closed source** projects that I offer on commercial basis for custo
 
 | Product | About | Price |
 |---------|-------|-------|
-| `topobuilder` | Multi-Region Cloud Container Provisioner | $3,999 |
-| `sovereign` | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $3,999 |
+| `topobuilder` Annual License | Multi-Region Cloud Container Provisioner | $9,999 |
+| `sovereign` Annual License | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $3,999 |
 
 > **Topobuilder** _and_ **Sovereign** includes _20 billable hours_ of 1 on 1 consulting services provided over Zoom. This comes out to 100 `12-minute` units. Consulting billable hours are valid up to 12 months after purchase date.
+
+> **NOTE:** _Annual licenses_ are **non-transferrable** during company to company acquisition and are **non-refundable** under any circumstances. Licenses are granted on a case by case basis and subject to approval prior to issuance. Licenses are valid for 365 days. After 365 days, commercial entities must renew their license.
 
 Support provided does **not** require a _retainer_ as _regular consulting services does_. Support is available upon request and subject to $40 per 12-minute units. Support can be conducted over text message, phone call or Zoom meeting. 
 
 Topobuilder and Sovereign both require Linux or macOS to operate with support. 
+
+Consulting clients that are already paying a monthly retainer are subject to a 50% discount of `topobuilder` and `sovereign` upon request for as long as the engagement is ongoing and in an acceptable manner. 
+
+_Topobuilder_ is designed for front-end "funnel" landing pages sites that are going multi-region by means of a single configuration definition. Swap the container out and you go from "Bob's Beans" to "Bob's Corn" by virtue of the container deployed between config files. 
+
+_Sovereign_ is designed for real-world in-world load testing of systems before major commercial events. When you are planning on spending $50,000 for a TV spot and you want to send your customers to your website to buy your new product that you just announced, you'll want to use _Sovereign_ so that you can orchestrate your [lemmings](https://github.com/andreimerlescu/lemmings) in a manner that **1)** defines the behavior of the customer and **2)** properly tests your infrastructure for game day. The reports provide you with data that you can drive successful business decisions with. Without the data about your product or platform that Sovereign Lemmings reveals, you're not really a sovereign are you? _For me_, I felt like when I launched Trakify, and countless other apps, I didn't know _how many people_ were actually going to hit my site and how long they were going to stay on it. Thus why _lemmings_ was born. I solved the problem I ran into and now I am handing you that solution too. 
 
 ---
 
