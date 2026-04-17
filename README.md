@@ -51,6 +51,21 @@ I have the capacity to build large and complex systems that can drive large grow
 
 ---
 
+## Commercial Services
+
+I have two **closed source** projects that I offer on commercial basis for customers upon request. The first is _Topobuilder_ which takes a containerized application specification expressed as a YAML file and launches it into a multi-region load balanced cluster of the container using HAProxy. This application was built for landing pages that needed to be distributed globally with the click of a button and a config file. The second is _Sovereign_ which orchestrates the [Lemmings](https://github.com/andreimerlescu/lemmings) via `topobuilder` in order to conduct on-cloud **lemming** based load testing in an aggregated manner. If you're interested in commercially using **Topobuilder** _or_ **Sovereign** please contact me. 
+
+| Product | About | Price |
+|---------|-------|-------|
+| `topobuilder` | Multi-Region Cloud Container Provisioner | $999/mo + Support |
+| `sovereign` | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $99/mo + Support |
+
+Support provided does **not** require a _retainer_ as _regular consulting services does_. Support is available upon request and subject to $40 per 12-minute units. Support can be conducted over text message, phone call or Zoom meeting. 
+
+Topobuilder and Sovereign both require Linux or macOS to operate with support. 
+
+---
+
 ## Consulting availability
 
 I provide consulting services for organizations that need my expertise but don't need me building full time. 
