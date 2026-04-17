@@ -1,5 +1,49 @@
 # Open Source
 
+I formalize problems I encounter into reusable packages rather than one-off scripts. Most of what's here started as a real operational need — something I hit at a client or in my own infrastructure — and became a proper package so others can use it too.
+
+### Infrastructure tooling
+
+My professional career began in the data centers of Cisco's Boxborough Campus - infrastructure is built into my career since the first day I started professionally.
+
+- [reconcile-tfstate](https://github.com/andreimerlescu/reconcile-tfstate) — recover corrupted Terraform state files; battle-tested at Beamable
+- [configure-ebs](https://github.com/andreimerlescu/configure-ebs) — mount/unmount AWS EBS volumes on EC2 with filesystem and fstrim options
+- [encrypted-luks-workspace](https://github.com/andreimerlescu/encrypted-luks-workspace) — LUKS encrypted volumes for sensitive application configs
+- [extra-ssh-bash](https://github.com/andreimerlescu/extra-ssh-bash) — run the same command across N Linux hosts simultaneously
+- [disk-speed](https://github.com/andreimerlescu/disk-speed) — per-volume disk speed benchmarking from the command line
+
+### AI + developer workflow
+
+This workstation exists so I can run inference locally and privately — no API calls, no data leaving the machine. This is to provide services under regulatory clarity.
+
+- [summarize](https://github.com/andreimerlescu/summarize) — aggregate a codebase into a single markdown file; chat with it via local Ollama LLM
+- [aigcm](https://github.com/andreimerlescu/aigcm) — AI-generated git commit messages from `git diff`, powered by Ollama `qwen3:8b`
+
+### Go packages + CLI utilities
+
+I learned Go and built a handful of commercial and enterprise scale applications in Go (3 completed each over 10K lines). In addition to that, while learning Go, I built a handful of packages to help me master the patterns of Go. I use the packages I write. Making them open source, allows you to run them as well and work off from them as well. 
+
+- [lemmings](https://github.com/andreimerlescu/lemmings) - simulate real world load testing with lemmings 
+- [room](https://github.com/andreimerlescu/room) - drop in waiting room for go web apps that use gin for routing
+- [figtree](https://github.com/andreimerlescu/figtree) — unified CLI flag / env / config file management
+- [sema](https://github.com/andreimerlescu/sema) — semaphore primitives for Go concurrency control <sup><span style="color:red;">Updated Spring 2026</span></sup>
+- [checkfs](https://github.com/andreimerlescu/checkfs) — cross-platform filesystem path abstractions (Linux, macOS, Windows)
+- [bump](https://github.com/andreimerlescu/bump) — VERSION file management for CI pipelines
+- [verbose](https://github.com/andreimerlescu/verbose) — logging package that censors secrets in stdout while writing them to disk
+- [igo](https://github.com/andreimerlescu/igo) — install and manage multiple Go versions without sudo
+
+Read my statement on [OPENSOURCE.md](/OPENSOURCE.md)
+
+### Project Apario ([@ProjectApario](https://github.com/ProjectApario))
+A decentralized OSINT document platform built on a custom reader / writer / search trio,
+all in Go. Indexed with full-text search via
+[textee](https://github.com/andreimerlescu/textee) and integrity-verified with a
+[Merkle tree](https://github.com/ProjectApario/merkel) package. GPL-3 / AGPL-3.
+Originally built to make the JFK files searchable; deployable for any document collection
+via a single CSV and a single binary.
+
+## My Open Source Story
+
 After the pandemic, I decided to change fundamentally what was more than a decade of professional 
 experience that was contributed behind closed doors in a way that proved my value year over year 
 making what I was making. In 2020, I was asked to learn Go, didn't comprehend the fundamentals yet, 
