@@ -22,7 +22,7 @@ engineer software solutions that  have been built on a 30 year career that start
 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's 
 printer reconnect to a faulty cable connection. 
 
-\- \[ [AI.md](/AI.md) \] &middot; \[ [OPENSOURCE.md](/OPENSOURCE.md) \] -
+\- \[ [AI.md](/AI.md) \] &middot; \[ [COMMERCIAL.md](/COMMERCIAL.md) \] &middot; \[ [OPENSOURCE.md](/OPENSOURCE.md) \] -
 
 ---
 
