@@ -21,3 +21,19 @@ Professionally, I've provided consulting services even while employed full time 
 Each retainer covers 5 hours per week with extensions of up to 4 additional hours per week and are capped at 9 hours per day, therefore all consulting services range between $3,000-$7,000 per month.
 
 Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or between 6PM-10PM EST. Weekends can be requested if services are needed. 
+
+--- 
+
+## Incident Response
+
+| Company | Incident | Response | Solution |
+|---------|----------|----------|----------|
+| [Cisco Systems](https://cisco.com) | SVN Repo Corruption | Restoration of SVN Repo &amp; Migration to Git | Organizational Stability for Decades in Source Control Version Management |
+| [Oracle](https://oracle.com) | 80% Release Success = 1 in 5 fail in 🔴🔵 deployments | Post Mortem Analysis &amp; _Own Without Ego_ meant understanding the 5 W's to WIN | 99.9%+ Success Rate In OCI Deployments | 
+| [WB Games](https://wbgames.com) | P4 Cluster Corruption In AWS | Restored Cluster &amp; Built Automation Tooling Protecting Infrastructure | Long Term Perforce Stability |
+
+---
+
+## Crisis Responses
+
+In several engagements I've served as the sole responder and then team leader for ransomware attacks and zero-day recovery incidents under confidentiality. As recently as late 2025 I provided this service. Response time and discretion are non-negotiable. Services are $80 per 12 minutes for emergency response services performed between 11PM-6AM EST. Services rendered from 6AM to 11PM that are emergency / crisis responses are billed $60 per 12 minutes.
