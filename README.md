@@ -76,6 +76,8 @@ _Sovereign_ is designed for real-world in-world load testing of systems before m
 
 _Sovereign_ depends on _Topobuilder_ and so if you don't have a license to `topobuilder` then you can't run `sovereign`. **IF** you're truly a sovereign over your own business, then investing $13,998 is sowing exactly where you want to reap. The results other organizations have seen from my work can pay for that ten fold on a case by case basis depending on so many factors and variables that I've seen in the real world, that offering this sounds crazy, but to a business that spends $50,000 per month to AWS for their landing pages, all of a sudden I am looking pretty good. 
 
+Not sure if sovereign is right for you? Start with [lemmings](https://github.com/andreimerlescu/lemmings) - it's free and open source. Run it locally against your stack. When you’re ready to scale that across multiple regions simultaneously, **sovereign** is what you reach for next. That's where bookmarking this page comes in handy and following me helps you. 
+
 ---
 
 ## Consulting availability
