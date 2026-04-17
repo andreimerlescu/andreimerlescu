@@ -57,7 +57,7 @@ I have two **closed source** projects that I offer on commercial basis for custo
 
 | Product | About | Price |
 |---------|-------|-------|
-| `topobuilder` | Multi-Region Cloud Container Provisioner | $999/mo + Support |
+| `topobuilder` | Multi-Region Cloud Container Provisioner | $99/mo + Support |
 | `sovereign` | [Lemmings](https://github.com/andreimerlescu/lemmings) `topobuilder` Orchestrator | $99/mo + Support |
 
 Support provided does **not** require a _retainer_ as _regular consulting services does_. Support is available upon request and subject to $40 per 12-minute units. Support can be conducted over text message, phone call or Zoom meeting. 
