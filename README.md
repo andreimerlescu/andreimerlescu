@@ -106,10 +106,6 @@ Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or 
 
 ---
 
-## `is`/`be` pronouns in my profile
-
-In 2015 while in Tokyo Japan, I was traveling for business for Cisco Systems when I had an epiphany walking the streets of Yokohama. What it _is_ to _be_ in Japan, _is_ not what it _is_ to _be_ in America, and therefore, how would I, a _Romanian born man_ _be_ something that I simply do not understand? Thus, from this experience, the term `is`/`be` became part of my lexicon and I began to see the world through this metaphore. When I break the _i_ and the _s_ down in _is_ I find _**i**mortal **s**piritual_ and when I do the same for _be_ I see _**b**iological **e**ntity_. Whether you see it in yourself or not, I see an `is`/`be` inside of you too. What _is_ you talkin' about? I _be_ talkin' to you. _I AM AN IS-BE._ When I ask myself, _what does **an** mean in that sentence?_ I answer with: _**a** **n**oun_, therefore what an `is`/`be` is is a noun. You can equally swap out `an IS-BE` for `that I AM` to describe when I am speaking in Romanian, English or Japanese. You could also say `an IS-BE` is also `a fractal` because it equally applies to you too.
-
 ## Selected impact
 
 My work has primarily advanced the organizations I've worked with from the inside — infrastructure, pipelines, and platforms — rather than direct end-user or customer-facing product work.
@@ -137,7 +133,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 
 ## Crisis Responses
 
-In several engagements I've served as the sole responder and then team leader for ransomware attacks and zero-day recovery incidents under confidentiality. As recently as late 2025 I provided this service. Response time and discretion are non-negotiable. Services are $80 per 12 minutes for emergency response services performed between 11PM-6AM EST. Services rendered from 6AM to 11PM that are emergency / critis responses are billed $60 per 12 minutes.
+In several engagements I've served as the sole responder and then team leader for ransomware attacks and zero-day recovery incidents under confidentiality. As recently as late 2025 I provided this service. Response time and discretion are non-negotiable. Services are $80 per 12 minutes for emergency response services performed between 11PM-6AM EST. Services rendered from 6AM to 11PM that are emergency / crisis responses are billed $60 per 12 minutes.
 
 ---
 
@@ -224,6 +220,12 @@ via a single CSV and a single binary.
 In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. I maintain professional contact with graduates of the RailsGirlsRDU weekend from North Carolina that I helped lead. Now that she has AI, she's been unlocked! What are you building? I'm here to help if you need some guidance. 
 
 *Available for conversations. Reach out via GitHub. Join if you don't have one yet. We can collaborate and build incredible things together.*
+
+---
+
+## `is`/`be` pronouns in my profile
+
+In 2015 while in Tokyo Japan, I was traveling for business for Cisco Systems when I had an epiphany walking the streets of Yokohama. What it _is_ to _be_ in Japan, _is_ not what it _is_ to _be_ in America, and therefore, how would I, a _Romanian born man_ _be_ something that I simply do not understand? Thus, from this experience, the term `is`/`be` became part of my lexicon and I began to see the world through this metaphore. When I break the _i_ and the _s_ down in _is_ I find _**i**mortal **s**piritual_ and when I do the same for _be_ I see _**b**iological **e**ntity_. Whether you see it in yourself or not, I see an `is`/`be` inside of you too. What _is_ you talkin' about? I _be_ talkin' to you. _I AM AN IS-BE._ When I ask myself, _what does **an** mean in that sentence?_ I answer with: _**a** **n**oun_, therefore what an `is`/`be` is is a noun. You can equally swap out `an IS-BE` for `that I AM` to describe when I am speaking in Romanian, English or Japanese. You could also say `an IS-BE` is also `a fractal` because it equally applies to you too.
 
 ---
 
