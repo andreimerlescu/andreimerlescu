@@ -62,7 +62,7 @@ I have two **closed source** projects that I offer on commercial basis for custo
 
 > **Topobuilder** _and_ **Sovereign** includes _20 billable hours_ of 1 on 1 consulting services provided over Zoom. This comes out to 100 `12-minute` units. Consulting billable hours are valid up to 12 months after purchase date.
 
-> **NOTE:** _Annual licenses_ are **non-transferrable** during company to company acquisition and are **non-refundable** under any circumstances. Licenses are granted on a case by case basis and subject to approval prior to issuance. Licenses are valid for 365 days. After 365 days, commercial entities must renew their license.
+> **NOTE:** Licenses are granted exclusively to the purchasing entity and are non-transferable under any circumstances, including merger, acquisition, or corporate restructuring. In the event that the purchasing entity is acquired, the license becomes void on the date of acquisition. The acquiring entity must obtain their own license prior to use. Licenses are non-refundable and valid for 365 days from issuance. Renewal is required after 365 days. All licenses are subject to approval prior to issuance.
 
 Support provided does **not** require a _retainer_ as _regular consulting services does_. Support is available upon request and subject to $40 per 12-minute units. Support can be conducted over text message, phone call or Zoom meeting. 
 
