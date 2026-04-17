@@ -1,0 +1,23 @@
+# Consulting Services
+
+I provide consulting services for organizations that need my expertise but don't need me building full time. 
+
+**Retainer:** $3,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
+
+**Additional hours:** $200/hr · billed $40 per 12-minute units
+
+**After hours:** $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
+
+> _**Note**: This is reasonable because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
+
+**Minimum engagement:** 1 month (longest was 17 years) · _No maximum._
+
+**What I work on:** web application development with AI · cloud infrastructure engineering · ai integration services (mcp, rag, or local llm) · strategic opportunities for growth, cost savings, and applied technology · multi-region cloud hosting solutions · CI/CD pipelines including rebuilds · perforce (p4) at scale · systems analysis · big data processing
+
+### Reasonable expectations
+
+Professionally, I've provided consulting services even while employed full time for the 21+ year professional tenure of my career. I respect all IP of each client and am able to appropriately compartmentalize responsibilities, follow-ups, and sub-projects. In full time engagements in the past, I've openly communicated with leadership about this service offering. 
+
+Each retainer covers 5 hours per week with extensions of up to 4 additional hours per week and are capped at 9 hours per day, therefore all consulting services range between $3,000-$7,000 per month.
+
+Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or between 6PM-10PM EST. Weekends can be requested if services are needed. 
