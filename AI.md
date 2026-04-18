@@ -95,3 +95,16 @@ to change companies forever I built a search engine that gave the world the JFK 
 NARA didn't do because of political reasons and I did for moral reasons. Some AI engineers have prompts that can
 build out entire applications from start to finish, I am working on that. When I accomplish it, you'll see it. 
 
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
+|------|-------|
+| [README.md](/README.md) | My Professional GitHub Profile |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
+| [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
+| **THIS PAGE** [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
