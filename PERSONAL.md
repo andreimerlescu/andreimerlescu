@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ Next Page &rarr; \] -
+
 ## International adoptee
 
 In 1990 I was adopted to the United States of America. In 1997 I became a Naturalized US Citizen. In 2016, I married Dr Heather Ajzenman - a pediatric Occupational Therapist from Washington State University that has a peer reviewed study published on [NIH](https://pubmed.ncbi.nlm.nih.gov/24195899/). I have a strong professional career, and I support my wife's practice where I can and that is appropriate. I maintain professional contact with graduates of the RailsGirlsRDU weekend from North Carolina that I helped lead. Now that she has AI, she's been unlocked! What are you building? I'm here to help if you need some guidance. 
@@ -63,3 +65,5 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | **THIS PAGE** [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ Next Page &rarr; \] -
