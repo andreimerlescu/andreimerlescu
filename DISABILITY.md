@@ -28,5 +28,5 @@ The technology industry has **failed me** in more ways than I could ever possibl
 
 ![Proof I worked at WB Games](/IMG_2756.jpeg)
 
-In 2024, **I closed the door on _WB Games_.** I offered to save them significant money and resources to help them go global with their Helix Core Perforce setup, but the secrecy of in-studio servers and the _continued status of being a contractor_ led to no-shows in the meetings and hostility to my technical ideas. 
+In 2024, **I closed the door on _WB Games_.** I offered to save them significant money and resources to help them go global with their Helix Core Perforce setup, but the secrecy of in-studio servers and the _continued status of being a contractor_ led to no-shows in the meetings and hostility to my technical ideas. I _very clearly_ was **not valued** either _as a person_ or _as a contributor_ while working with WB Games. In fact, Steven Flennory went out of his way to make me feel unwelcome. Why hire me and invite me to the Troy office then? 
 
