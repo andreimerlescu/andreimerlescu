@@ -56,6 +56,14 @@ In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-
 
 ---
 
+## Video Game Credits
+
+While at WB Games, I was able to land in the credits to 5 game titles including a personal favorite of mine - Hogwarts Legacy.
+
+[![Moby Games Profile for Andrei Merlescu](/IMG_2756.jpeg)](https://www.mobygames.com/person/1330654/andrei-merlescu/)
+
+---
+
 ## Pre career
 
 ![SkillsUSA results score card](/IMG_1575.jpeg)
