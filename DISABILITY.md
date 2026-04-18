@@ -28,5 +28,5 @@ The technology industry has **failed me** in more ways than I could ever possibl
 
 ![Proof I worked at WB Games](/IMG_2756.jpeg)
 
-WB Games can still take me up on my offer. The door is still open if they are able to _own_ what they did to me. 
+In 2024, **I closed the door on _WB Games_.** I offered to save them significant money and resources to help them go global with their Helix Core Perforce setup, but the secrecy of in-studio servers and the _continued status of being a contractor_ led to no-shows in the meetings and hostility to my technical ideas. 
 
