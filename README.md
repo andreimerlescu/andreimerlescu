@@ -1,5 +1,6 @@
-### Hey There 👋🏻
-## I'm Andrei (formerly Michael Trimm)
+<h1>Hey There 👋🏻 </h1>
+
+<h3>I'm Andrei <small style="color:gray;"> <em>(formerly Michael Trimm)</em> </small></h3>
 
 **Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
 21+ Year Professional · Go · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
@@ -20,12 +21,17 @@ Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgeP
 
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that  have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
-```
-Go · Ruby · Bash · PHP · Terraform (HCL) · AWS · OCI · Swift · C++ · Web Design · Backend Systems
-Docker · VMware vSphere/vCenter · Perforce Helix Core · GitHub Actions · GitLab Administration
-CI/CD pipelines · Multi-region HA · Disaster recovery · IaC · MCP · RAG · Ollama
-PostgreSQL · MongoDB · Linux · macOS · Windows · TeamCity · Unreal Engine Build Pipelines
-```
+### Skill Table
+
+I have over 21+ years of professional experience and I've embraced AI and understand that _many companies_ will get ahead because of it. 
+
+| Go    | Ruby  | Bash    | PHP    | HCL | Swift | C++    |
+|-------|-------|---------|--------|-----|-------|--------|
+| Linux      | macOS           | Windows | VMWare   | AWS            | OCI           | Docker |
+| Web Design | Backend Systems | CI/CD   | Perforce | GitHub Actions | Unreal Engine | TeamCity |
+| Database Admin | MySQL       | MongoDB | PostgreSQL | Redis        | Helix Core    | MariaDB |
+| Disaster Recovery | Release Management | IaC | AI MCP | AI RAG | [gollm](https://github.com/andreimerlescu/golln) | [summarize](https://github.com/andreimerlescu/summarize) |
+| iOS App Developer | Linux System Admin | Big Data Analyst | Site Reliability | Documentation | Communication | Process |
 
 ### When you want to learn more information
 
