@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/CONSULTING.md) \] &middot; \[ **OPEN SOURCE** \] &middot; \[ [Next Page &rarr;](/AI.md) \] -
+
 # Open Source
 
 I formalize problems I encounter into reusable packages rather than one-off scripts. Most of what's here started as a real operational need — something I hit at a client or in my own infrastructure — and became a proper package so others can use it too.
@@ -246,3 +248,5 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page](/CONSULTING.md) \] &middot; \[ **OPEN SOURCE** \] &middot; \[ [Next Page &rarr;](/AI.md) \] -
