@@ -10,7 +10,7 @@ Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech
 
 I design and operate infrastructure that saves money at scale and ships software faster.
 
-At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $500K saving over 36 months that required an up front investment of $69,000 every three years. 
+At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $471K saving over 36 months that required an up front investment of $69K every three years. 
 
 At Oracle I took a release pipeline from a 1-in-5 failure rate to 99.9% success as one of the first to join OCI and stayed for almost 4 years until the pandemic. 
 
@@ -20,11 +20,7 @@ I project myself professionally and I build systems that solve complex tasks. I 
 
 Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. Will you call me? Send me that message when you're ready to build. 
 
-Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that  have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
-
 ### Skill Table
-
-I have over 21+ years of professional experience and I've embraced AI and understand that _many companies_ will get ahead because of it. 
 
 > `Go`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
 
