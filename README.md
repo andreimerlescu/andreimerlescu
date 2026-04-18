@@ -33,7 +33,7 @@ I have over 21+ years of professional experience and I've embraced AI and unders
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
 
 | Sub-Page | Description | 
-|------|-------|
+|------|-------
 | [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
