@@ -37,3 +37,17 @@ Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or 
 ## Crisis Responses
 
 In several engagements I've served as the sole responder and then team leader for ransomware attacks and zero-day recovery incidents under confidentiality. As recently as late 2025 I provided this service. Response time and discretion are non-negotiable. Services are $80 per 12 minutes for emergency response services performed between 11PM-6AM EST. Services rendered from 6AM to 11PM that are emergency / crisis responses are billed $60 per 12 minutes.
+
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
+|------|-------|
+| [README.md](/README.md) | My Professional GitHub Profile |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
+| **THIS PAGE** [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
+| [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
