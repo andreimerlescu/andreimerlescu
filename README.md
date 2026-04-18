@@ -28,6 +28,8 @@ I project myself professionally, love teaching others and especially building sy
 
 Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. Will you call me? Send me that message when you're ready to build. 
 
+![Proof I worked at WB Games](/IMG_2756.jpeg)
+
 ### Skill Table
 
 > `Go`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
