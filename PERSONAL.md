@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ Next Page &rarr; \] -
+\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ \] -
 
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
@@ -68,4 +68,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | **THIS PAGE** [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ Next Page &rarr; \] -
+\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ \] -
