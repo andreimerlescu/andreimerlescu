@@ -20,7 +20,18 @@ Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgeP
 
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that  have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
-| Page | About | 
+```
+Go · Ruby · Bash · PHP · Terraform (HCL) · AWS · OCI · Swift · C++ · Web Design · Backend Systems
+Docker · VMware vSphere/vCenter · Perforce Helix Core · GitHub Actions · GitLab Administration
+CI/CD pipelines · Multi-region HA · Disaster recovery · IaC · MCP · RAG · Ollama
+PostgreSQL · MongoDB · Linux · macOS · Windows · TeamCity · Unreal Engine Build Pipelines
+```
+
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
 |------|-------|
 | [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
@@ -29,9 +40,4 @@ Sometimes, you need somebody who can comprehend complex systems and engineer sof
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-```
-Go · Ruby · Bash · PHP · Terraform (HCL) · AWS · OCI · Swift · C++ · Web Design · Backend Systems
-Docker · VMware vSphere/vCenter · Perforce Helix Core · GitHub Actions · GitLab Administration
-CI/CD pipelines · Multi-region HA · Disaster recovery · IaC · MCP · RAG · Ollama
-PostgreSQL · MongoDB · Linux · macOS · Windows · TeamCity · Unreal Engine Build Pipelines
-```
+
