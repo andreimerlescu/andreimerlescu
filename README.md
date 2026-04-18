@@ -41,4 +41,6 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
+\- \[ &larr; Previous Page \] &middot; \[ **README** \] &middot; \[ [Next Page &rarr;](/COMMERCIAL.md) \] -
+
 
