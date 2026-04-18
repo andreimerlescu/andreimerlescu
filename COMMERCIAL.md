@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page &rarr;](/CONSULTING.md) \] -
+
 # Commercial Services
 
 I have two **closed source** projects that I offer on commercial basis for customers upon request. The first is _Topobuilder_ which takes a containerized application specification expressed as a YAML file and launches it into a multi-region load balanced cluster of the container using HAProxy. This application was built for landing pages that needed to be distributed globally with the click of a button and a config file. The second is _Sovereign_ which orchestrates the [Lemmings](https://github.com/andreimerlescu/lemmings) via `topobuilder` in order to conduct on-cloud **lemming** based load testing in an aggregated manner. If you're interested in commercially using **Topobuilder** _or_ **Sovereign** please contact me. 
@@ -38,3 +40,5 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page &rarr;](/CONSULTING.md) \] -
