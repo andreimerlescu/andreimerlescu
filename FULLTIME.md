@@ -58,7 +58,7 @@ In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-
 
 ## Pre career
 
-![SkillsUSA results score card](/SkillsUSA_2005_ScoreCard_MichaelTrimm_AndreiMerlescu.jpeg)
+![SkillsUSA results score card](/IMG_1575.jpeg)
 I competed in 2005 SkillsUSA Maine Web Design competition, won the Gold medal in the Maine state competition and 8th in the national level out of 32 contestants. I got the highest score in three categories including the written assessment, scaffolding of process and richness of process. This is what drove the measurable results at OCI's release success - the processes that I introduced, yielded that 99.9% success in releases. Volunteering with MuggleNet gave me real world experience that prepared me for nationals. After nationals, S&W Publishing needed my services that started as an internship and progressed into a 17 year consulting career. Walter's recommendation got me into the college of my choice, Wentworth Institute of Technology in Boston, and from there I built up the IEEE Student Branch laboratory that underprivileged students were served by offering 24/7 after-hours access to a rebuilt laboratory in the attic of Dobbs Hall that is still in operation today in 2026.
 
 ### When you want to learn more information
