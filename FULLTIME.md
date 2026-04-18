@@ -58,3 +58,17 @@ In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-
 
 ![SkillsUSA results score card](/IMG_1575.jpeg)
 I competed in 2005 SkillsUSA Maine Web Design competition, won the Gold medal in the Maine state competition and 8th in the national level out of 32 contestants. I got the highest score in three categories including the written assessment, scaffolding of process and richness of process. This is what drove the measurable results at OCI's release success - the processes that I introduced, yielded that 99.9% success in releases. Volunteering with MuggleNet gave me real world experience that prepared me for nationals. After nationals, S&W Publishing needed my services that started as an internship and progressed into a 17 year consulting career. Walter's recommendation got me into the college of my choice, Wentworth Institute of Technology in Boston, and from there I built up the IEEE Student Branch laboratory that underprivileged students were served by offering 24/7 after-hours access to a rebuilt laboratory in the attic of Dobbs Hall that is still in operation today in 2026.
+
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
+|------|-------|
+| [README.md](/README.md) | My Professional GitHub Profile |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
+| [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
+| [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
