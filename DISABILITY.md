@@ -26,3 +26,7 @@ It made parting ways much easier for me, but it also made it much easier for me 
 
 The technology industry has **failed me** in more ways than I could ever possibly quantify. _That_ is that I am _ashamed_ of - not my motor disorder from the orphanage. The days of me blaming myself for the Romanian Government stealing me from a happy family so I could be internationally adopted are **over**. 
 
+![Proof I worked at WB Games](/IMG_2756.jpeg)
+
+WB Games can still take me up on my offer. The door is still open if they are able to _own_ what they did to me. 
+
