@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page &rarr;](/FULLTIME.md) \] -
+
 # AI 
 
 I have an AI capable machine that is currently debugging [lemmings](https://github.com/andreimerlescu/lemmings) failed
@@ -108,3 +110,5 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | **THIS PAGE** [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page &rarr;](/FULLTIME.md) \] -
