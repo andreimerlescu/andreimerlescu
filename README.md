@@ -6,8 +6,9 @@
 21+ Year Professional · Go · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
 
-I design and operate infrastructure that saves money at scale and ships software faster.
+![Go, Ruby, Bash, PHP, HCL, Swift, C++, Linux, macOS, Windows, VMWare, AWS, OCI, Docker, Web Design, Backend Systems, CI/CD, Perforce, GitHub Actions, Unreal Engine, TeamCity, Database Admin, MySQL, MongoDB, PostgreSQL, Redis, Helix Core, MariaDB, Disaster Recovery, Release Management, IaC, AI MCP, AI RAG, gollm, summarize, iOS App Developer, Linux System Admin, Big Data Analyst, Site Reliability, Documentation, Communication, Process](/skill_platform.jpeg)
 
+I design and operate infrastructure that saves money at scale and ships software faster.
 
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $500K saving over 36 months that required an up front investment of $69,000 every three years. 
 
@@ -25,13 +26,7 @@ Sometimes, you need somebody who can comprehend complex systems and engineer sof
 
 I have over 21+ years of professional experience and I've embraced AI and understand that _many companies_ will get ahead because of it. 
 
-| Go    | Ruby  | Bash    | PHP    | HCL | Swift | C++    |
-|-------|-------|---------|--------|-----|-------|--------|
-| Linux      | macOS           | Windows | VMWare   | AWS            | OCI           | Docker |
-| Web Design | Backend Systems | CI/CD   | Perforce | GitHub Actions | Unreal Engine | TeamCity |
-| Database Admin | MySQL       | MongoDB | PostgreSQL | Redis        | Helix Core    | MariaDB |
-| Disaster Recovery | Release Management | IaC | AI MCP | AI RAG | [gollm](https://github.com/andreimerlescu/golln) | [summarize](https://github.com/andreimerlescu/summarize) |
-| iOS App Developer | Linux System Admin | Big Data Analyst | Site Reliability | Documentation | Communication | Process |
+> `Go`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
 
 ### When you want to learn more information
 
