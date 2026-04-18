@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page &rarr;](/OPENSOURCE.md) \] -
+
 # Consulting Services
 
 I provide consulting services for organizations that need my expertise but don't need me building full time. 
@@ -51,3 +53,6 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+
+\- \[ [&larr; Previous Page](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page &rarr;](/OPENSOURCE.md) \] -
