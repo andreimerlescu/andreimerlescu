@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page &rarr;](/PERSONAL.md) \] -
+
 # Full Time Availability
 
 I'm open to a Senior, Staff, Principal, or Director-level Platform / DevOps / Release Engineering role. I am based in the United States and can work across time zones, languages and cultures.
@@ -72,3 +74,5 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page &rarr;](/PERSONAL.md) \] -
