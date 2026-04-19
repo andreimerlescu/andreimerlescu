@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page](/PERSONAL.md) \] &middot; \[ **DISABILITY** \] &middot; \[ _Last Page_ \] -
+
 # Disability 
 
 Disabled persons shouldn't have to disclose to the public what their disability is and apologize for it like I am asked to do on a regular basis year over year in the tech industry. It's absolutely _disgusting_ frankly speaking and I have experienced it for _decades_. By my own hand, because for _decades_ I called myself Michael and for decades I was ashamed and terrified that I lived and survived the orphanages of Romania with a neurological motor disorder and _never_ and I mean **never** received _any early intervention services as a child of any kind_. Part of my name change included "Andrei rocks his head" and as Michael, I couldn't be seen or known that I rocked my head - out of risk and fear of literally _losing everything_ - being kicked out of the group - because I was damaged and defective - because of what was done to me - that I had literally _no control over_. 
@@ -29,4 +31,23 @@ The technology industry has **failed me** in more ways than I could ever possibl
 ![Proof I worked at WB Games](/IMG_2756.jpeg)
 
 In 2024, **I closed the door on _WB Games_.** I offered to save them significant money and resources to help them go global with their Helix Core Perforce setup, but the secrecy of in-studio servers and the _continued status of being a contractor_ led to no-shows in the meetings and hostility to my technical ideas. I _very clearly_ was **not valued** either _as a person_ or _as a contributor_ while working with WB Games. In fact, Steven Flennory went out of his way to make me feel unwelcome. Why hire me and invite me to the Troy office then? 
+
+
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
+|------|-------|
+| [README.md](/README.md) | My Professional GitHub Profile |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _multi-region **hosting and load testing** needs_. |
+| [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
+| [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
+| [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without feeling sorry for myself. |
+
+\- \[ [&larr; Previous Page](/PERSONAL.md) \] &middot; \[ **DISABILITY** \] &middot; \[ _Last Page_ \] -
 
