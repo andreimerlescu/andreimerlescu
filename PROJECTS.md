@@ -17,7 +17,6 @@ I have been blessed with decades of professional employment in the **Big Tech** 
 | [goenv](https://github.com/andreimerlescu/goenv) | August 2025 | `.env` File Manipulation for CI/CD Pipelines | [Download Now &rarr;](https://github.com/andreimerlescu/goenv/releases/tag/v1.0.0) |
 | [trimm](https://github.com/andreimerlescu/trimm) | August 2025 | Split & Join Large Files With `trimm` | [Download Now &rarr;](https://github.com/andreimerlescu/trimm/releases/tag/v1.0.0) |
 | [lemmings](https://github.com/andreimerlescu/lemmings) | April 2026 | Stateful Session Based Load Testing | [Download Now &rarr;](https://github.com/andreimerlescu/lemmings/releases/tag/v0.0.1) |
-| [sovereign](https://github.com/andreimerlescu/sovereign) | April 2026 | Multi-Region Session Aware Load Testing | [BUY NOW &rarr;](/COMMERCIAL.md) |
 
 ## Free Packages For Go
 
@@ -47,7 +46,7 @@ In 2024 I released five `5` **packages** and one `1` **application**.
 
 In 2025 I released one `1` **package** and nine `9` **applications**.
 
-In 2026 I released one `1` **package** and two `2` **applications** _to date **and counting**_. 
+In 2026 I released one `1` **package** and one `1` **application** _to date **and counting**_. 
 
 ---
 
