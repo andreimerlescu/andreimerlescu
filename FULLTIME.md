@@ -78,6 +78,7 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [README.md](/README.md) | My Professional GitHub Profile |
 | [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
