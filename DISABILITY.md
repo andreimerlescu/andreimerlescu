@@ -47,7 +47,7 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
-| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without feeling sorry for myself. |
+| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without asking _you_ to feel sorry for me. |
 
 \- \[ [&larr; Previous Page](/PERSONAL.md) \] &middot; \[ **DISABILITY** \] &middot; \[ _Last Page_ \] -
 
