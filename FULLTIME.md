@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page &rarr;](/PERSONAL.md) \] -
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
 
 # Full Time Availability
 
@@ -84,4 +84,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page &rarr;](/PERSONAL.md) \] -
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **FULL TIME OPPORTUNITIES** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
