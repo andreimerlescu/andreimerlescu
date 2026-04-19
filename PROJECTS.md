@@ -41,7 +41,7 @@ I have two packages that I sell which include **topobuilder** which deploys a co
 
 | Sub-Page | Description | 
 |------|-------
-| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _hosting problems_. |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _multi-region **hosting and load testing** needs_. |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
 | **THIS PAGE** [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
