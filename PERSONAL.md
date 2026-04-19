@@ -72,6 +72,6 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 | **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without feeling sorry for myself. |
 
-> 🫣 I am very high functioning. _Head rocking_ is a **neurological motor disorder** that I developed in [The Orphanage](https://ihave.spoken.press/p/MM8wbX-H_CV). 
+> 🫣 I am very high functioning. _Head rocking_ is a **neurological motor disorder** that I developed in <a href="https://ihave.spoken.press/p/MM8wbX-H_CV" target="_blank" alt="The Orphanage">The Orphanage</a>. 
 
 \- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ &rarr;](/DISABILITY.md) \] -
