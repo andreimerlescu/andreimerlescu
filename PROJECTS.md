@@ -6,6 +6,7 @@ I have been blessed with decades of professional employment in the **Big Tech** 
 
 | Project | Started On | Description | &nbsp; |
 |---------|------------|-------------|--------|
+| [entpassgen](https://github.com/andreimerlescu/entpassgen) | Sept 2024 | Entropy Strong Password Generator | [Download Now &rarr;](https://github.com/andreimerlescu/entpassgen/releases/tag/v1.1.0) |
 | [cli-gematria](https://github.com/andreimelrescu/cli-gematria) | March 2025 | CLI utility to compile [gematria](https://github.com/andreimerlescu/gematria) values | [Download Now &rarr;](https://github.com/andreimerlescu/cli-gematria/releases/tag/v1.0.1) |
 | [genwordpass](https://github.com/andreimerlescu/genwordpass) | April 2025 | Strong Multilingual Word Password Generator | [Download Now &rarr;](https://github.com/andreimerlescu/genwordpass/releases/tag/v1.0.2) |
 | [igo](https://github.com/andreimerlescu/igo) | April 2025 | Install & Manage Multiple Go Versions Without `sudo` | [Download Now &rarr;](https://github.com/andreimerlescu/igo/releases/tag/v1.1.0) |
@@ -15,8 +16,8 @@ I have been blessed with decades of professional employment in the **Big Tech** 
 | [reconcile-tfstate](https://github.com/andreimerlescu/reconcile-tfstate) | July 2025 | Reconciles Terraform State File For Stale Resources | [Download Now &rarr;](https://github.com/andreimerlescu/reconcile-tfstate/releases/tag/v1.0.4) |
 | [goenv](https://github.com/andreimerlescu/goenv) | August 2025 | `.env` File Manipulation for CI/CD Pipelines | [Download Now &rarr;](https://github.com/andreimerlescu/goenv/releases/tag/v1.0.0) |
 | [trimm](https://github.com/andreimerlescu/trimm) | August 2025 | Split & Join Large Files With `trimm` | [Download Now &rarr;](https://github.com/andreimerlescu/trimm/releases/tag/v1.0.0) |
-| [entpassgen](https://github.com/andreimerlescu/entpassgen) | Sept 2024 | Entropy Strong Password Generator | [Download Now &rarr;](https://github.com/andreimerlescu/entpassgen/releases/tag/v1.1.0) |
 | [lemmings](https://github.com/andreimerlescu/lemmings) | April 2026 | Stateful Session Based Load Testing | [Download Now &rarr;](https://github.com/andreimerlescu/lemmings/releases/tag/v0.0.1) |
+| [sovereign](https://github.com/andreimerlescu/sovereign) | April 2026 | Multi-Region Session Aware Load Testing | [BUY NOW &rarr;](/COMMERCIAL.md) |
 
 ## Free Packages For Go
 
@@ -29,7 +30,18 @@ These packages empower the free applications that I have published. They can be 
 | [gematria](https://github.com/andreimerlescu/gematria) | January 2024 | A package that calculates _gematria_ values for `String` types | `v0.0.1` |
 | [sema](https://github.com/andreimerlescu/sema) | January 2024 | A semaphore package that empowers DevOps in Go | `v1.1.0` |
 | [checkfs](https://github.com/andreimerlescu/checkfs) | December 2024 | Check File System Package Filled With Goodies | `v1.0.4` |
+| [verbose](https://github.com/andreimerlescu/verbose) | December 2024 | Novel Secret Aware Logging in Go | `v0.2.0` |
 | [room](https://github.com/andreimerlescu/room) | April 2026 | A [gin](https://gin-gonic.com/en/docs/users/) extension that provides a `WaitingRoom` for heavy traffic applications. | `v1.0.0` |
+
+## Timeline
+
+In 2023 I released my first **package**. 
+
+Im 2024 I released five `5` **packages** and one `1` **application**.
+
+In 2025 I released one `1` **package** and nine `9` **applications**.
+
+In 2026 I released one `1` **package** and two `2` **applications** _to date **and counting**_. 
 
 ---
 
