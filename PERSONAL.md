@@ -69,6 +69,9 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
-| **THIS PAGE** [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without feeling sorry for myself. |
 
-\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ \] -
+> 🫣 I am very high functioning. _Head rocking_ is a **neurological motor disorder** that I developed in [The Orphanage](https://ihave.spoken.press/p/MM8wbX-H_CV). 
+
+\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ &rarr;](/DISABILITY.md) \] -
