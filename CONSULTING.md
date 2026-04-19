@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page &rarr;](/PROJECTS.md) \] -
+\- \[ [&larr; Previous Page _Commercial_](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page _Projects_ &rarr;](/PROJECTS.md) \] -
 
 # Consulting Services
 
@@ -56,4 +56,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
 
-\- \[ [&larr; Previous Page](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page &rarr;](/PROJECTS.md) \] -
+\- \[ [&larr; Previous Page _Commercial_](/COMMERCIAL.md) \] &middot; \[ **CONSULTING SERVICES** \] &middot; \[ [Next Page _Projects_ &rarr;](/PROJECTS.md) \] -
