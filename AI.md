@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page &rarr;](/FULLTIME.md) \] -
+\- \[ [&larr; Previous Page _OpenSource_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
 
 # AI 
 
@@ -112,4 +112,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page &rarr;](/FULLTIME.md) \] -
+\- \[ [&larr; Previous Page _Open Source_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
