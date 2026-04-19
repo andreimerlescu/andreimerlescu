@@ -39,7 +39,7 @@ In 2020 I learned Go and Oracle sent me to [GoDays](https://www.godays.io/pictur
 
 In 2021 I was called by WB Games because of my OCI + Go experience and joined within a week of being called.
 
-In 2022 I built **p4gopher**, a commercial closed source program that migrated P4 streams from read-only servers to read/write destinations in Go.
+In 2022 I built **p4gopher**, a closed source program that migrated P4 streams from read-only servers to read/write destinations in Go.
 
 In 2023 I released my first _open source_ **package**. 
 
