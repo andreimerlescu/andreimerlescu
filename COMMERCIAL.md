@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page &rarr;](/CONSULTING.md) \] -
+\- \[ [&larr; Previous Page _README_](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page _Consulting_ &rarr;](/CONSULTING.md) \] -
 
 # Commercial Services
 
@@ -42,4 +42,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page &rarr;](/CONSULTING.md) \] -
+\- \[ [&larr; Previous Page _README_](/README.md) \] &middot; \[ **COMMERCIAL SERVICES** \] &middot; \[ [Next Page _Consulting_ &rarr;](/CONSULTING.md) \] -
