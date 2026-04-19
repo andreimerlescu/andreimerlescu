@@ -43,7 +43,7 @@ In 2022 I built **p4gopher**, a closed source program that migrated P4 streams f
 
 In 2023 I released my first _open source_ **package**. 
 
-Im 2024 I released five `5` **packages** and one `1` **application**.
+In 2024 I released five `5` **packages** and one `1` **application**.
 
 In 2025 I released one `1` **package** and nine `9` **applications**.
 
