@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ \] -
+\- \[ [&larr; Previous Page _Full Time_](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ 👀 \] -
 
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
@@ -74,4 +74,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 
 > 🫣 I am very high functioning. _Head rocking_ is a **neurological motor disorder** that I developed in <a href="https://ihave.spoken.press/p/MM8wbX-H_CV" target="_blank" alt="The Orphanage">The Orphanage</a>. 
 
-\- \[ [&larr; Previous Page](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ &rarr;](/DISABILITY.md) \] -
+\- \[ [&larr; Previous Page _Full Time_](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ _Disability_ 🪄 &rarr;](/DISABILITY.md) \] -
