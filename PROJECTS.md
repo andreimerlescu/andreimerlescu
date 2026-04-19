@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page](/CONSULTING.md) \] &middot; \[ **PROJECTS** \] &middot; \[ [Next Page &rarr;](/OPENSOURCE.md) \] -
+\- \[ [&larr; Previous Page _Consulting_](/CONSULTING.md) \] &middot; \[ **PROJECTS** \] &middot; \[ [Next Page _Open Source_ &rarr;](/OPENSOURCE.md) \] -
 
 # Free Applications
 
@@ -66,4 +66,4 @@ I have two packages that I sell which include **topobuilder** which deploys a co
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page](/CONSULTING.md) \] &middot; \[ **PROJECTS** \] &middot; \[ [Next Page &rarr;](/OPENSOURCE.md) \] -
+\- \[ [&larr; Previous Page _Consulting_](/CONSULTING.md) \] &middot; \[ **PROJECTS** \] &middot; \[ [Next Page _Open Source_ &rarr;](/OPENSOURCE.md) \] -
