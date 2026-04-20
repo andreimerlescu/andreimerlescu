@@ -28,7 +28,7 @@ At S&W Publishing, I started when I was in High School and continued until the p
 
 I project myself professionally, love teaching others and especially building systems that solve complex problems. I took initiative to get Cisco to sponsor and send me to RailsGirlsRDU 2014 so I could help teach and provide technical support to ambitious women who wanted to learn programming by building a rails twitter clone. I have demonstrated a talent for teaching since childhood. 
 
-Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. I am open to new opportunities. I am forward thinking, business oriented, and conscious of time and money being spent. _You'd be surprised how often I successfully rebuke Claude | Copilot | Gemini on technical grounds_. They are good, but they are not as good as a human. All that AI does is 10x my engineering throughput. Will you call me? Send me that message when you're ready to build. 
+Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. I am open to new opportunities. I am forward thinking, business oriented, and conscious of time and money being spent. _You'd be surprised how often I successfully rebuke Claude | Copilot | Gemini on technical grounds_. They are good, but they are not as good as a human. All that AI does is 10x my engineering throughput. Will you call me? Send me that message when you're ready to build. [Explore consulting services! &rarr;](/CONSULTING.md)
 
 > majestic **\[at\]** hey **\[dot\]** com
 
