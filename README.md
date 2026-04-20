@@ -30,7 +30,7 @@ I project myself professionally, love teaching others and especially building sy
 
 Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. Will you call me? Send me that message when you're ready to build. 
 
-> andrei **\[at\]** merlescu **\[dot\]** net
+> majestic **\[at\]** hey **\[dot\]** com
 
 Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. It's that simple. 
 
