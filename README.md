@@ -12,6 +12,8 @@ I design and operate infrastructure that saves money at scale and ships software
 
 At Cisco Systems, I built a piece of software that changed a department's customer engagement throughout of 30 per calendar year to over 300 per calendar year by means of increasing engineering efficiency through the problems that _VirtualDocs_ solved. 
 
+At Kadro Solutions, I became a certified Magento Developer and built backend systems for Magento bare metal custom solutions for large scale multi-million dollar companies. I traveled to trade shows and represented Kadro and funneled opportunites into partnering with them for Magento services through authentic developer to developer connection over common pain points of running large Magento at scale. 
+
 At Oracle I took the lead on upgrading a release pipeline that had a 1-in-5 failure rate to having a 99.9% success rate as one of the first team members to join OCI who stayed for over 3 years until the pandemic. 
 
 At Bit Fry Game Studios I reduced build pipeline costs from $17K/mo to $2K/mo — a $471K saving over 36 months that required an up front investment of $69K every three years. 
@@ -27,6 +29,10 @@ At S&W Publishing, I started when I was in High School and continued until the p
 I project myself professionally, love teaching others and especially building systems that solve complex problems. I took initiative to get Cisco to sponsor and send me to RailsGirlsRDU 2014 so I could help teach and provide technical support to ambitious women who wanted to learn programming by building a rails twitter clone. I have demonstrated a talent for teaching since childhood. 
 
 Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgePays called me. Beamable called me. Walter called me. Will you call me? Send me that message when you're ready to build. 
+
+> andrei **\[at\]** merlescu **\[dot\]** net
+
+Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. It's that simple. 
 
 ### Skill Table
 
