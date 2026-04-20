@@ -27,6 +27,16 @@ _Sovereign_ depends on _Topobuilder_ and so if you don't have a license to `topo
 
 Not sure if sovereign is right for you? Start with [lemmings](https://github.com/andreimerlescu/lemmings) - it's free and open source. Run it locally against your stack. When you’re ready to scale that across multiple regions simultaneously, **sovereign** is what you reach for next. That's where bookmarking this page comes in handy and following me helps you. 
 
+## Sovereign As A Service
+
+[LemmingSaaS.com](https://lemmingsaas.com) is launching that will let you run Sovereign from my systems for your work for just $99 per developer per year plus usage. The **SaaS** is literal, but I'll let you run it in many environments and get a competitive rate. I'm not going to bind you to just AWS. 🤓
+
+When [lemmings](https://github.com/andreimerlescu/lemmings) is running in a **SaaS** manner, you're telling me how many planets you want to run [lemmings](https://github.com/andreimerlescu/lemmings) on and I am using **topobuilder** in a private closed network to deploy and run your [lemmings](https://github.com/andreimerlescu/lemmings). The orchestrator that I use for that process is called **Sovereign**. If you want to purchase **S**overeign **A**s **A** **S**ervice, then bookmark [LemmingSaaS.com](https://lemmingsaas.com) and keep checking back for the launch.
+
+Before you spend $50,000 on a commercial where you're going to send traffic to your bare metal service or even your cloud service, give it a legitimate go through [LemmingSaaS.com](https://lemmingsaas.com) and see what _you can load test_. 
+
+If you do wish to purchase the `sovereign` binary, it requires a copy of the `topobuilder` binary, which combined is just under $14K. If you're going to drop $50K on a spot to drive traffic, then consider the **SaaS** service _first_, then if you get good use out of it, you could save _a lot_ of money on running it yourself behind a closed network and actually getting _approved_ to purchase it. _Most of my software is free and open source and free of liability. Professionally I've maintained reliability and consistency in service to others but bugs in software exist and I am one [orphanage survivor](/PERSONAL.md)_building for those in need. 
+
 ### When you want to learn more information
 
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
