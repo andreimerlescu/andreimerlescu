@@ -2,100 +2,49 @@
 
 # AI 
 
-I have an AI capable machine that is currently debugging [lemmings](https://github.com/andreimerlescu/lemmings) failed
-test cases and coming up with solutions that pass the tests cases using the 110B+ parameter models in order to leverage 
-the [summarize](https://github.com/andreimerlescu/summarize) **markdown** file uploaded to LMStudio and then the logs 
-are pasted in the chat window with instructions to identify bugs, glitches, misconfigurations, corner cases, gotchas 
-and other concerns that you have with the provided project. For each that you identify, tell me why you think it is 
-a problem, tell me what you would do to fix the problem, tell me how your fix impacts the rest of the system, does 
-anything else in the system need to change in order for this fix to work? For each problem, once you do that, you are
-to then tell me why that is the right answer after you question your sanity and your hallucinations. In the latest 
-tests that I am building out for [lemmings](https://github.com/andreimerlescu/lemmings), I am using 288369 tokens for 
-the initial prompt and its taking the 256GB RAM M3 Ultra 42 minutes of thinking plus 9 minutes 36 seconds of time to
-first token for a total of 51 minutes 36 seconds. Just to get a response! 
+I have an AI capable machine and I have chosen to disable all @copilot capabilities on GitHub due to the usage-based billing switch that Microslop has chosen to enforce on this platform that has been the cornerstone of open source software.
 
-I could use Claude for it. I've experimented with the rate limiting and the token usage. I put $16 worth of credits
-and they gave me $25 free credits on top of that. So far, in my pursuit of just generating the core base code up to
-my work today cost me $18 of my $36 credit balance. 
+In a future with AI dominating the space of computer engineering and software programming, humans run a very fine line between being in the way and finding utility in the technology in the first place. 
 
-Instead of getting copy/paste functions from Claude, I started getting instructions instead that were incomplete and 
-difficult to follow. Instead of burning through the remaining overage window that I have available to finish this
-project, I'll switch over to the slower AI system that is running locally. While my follow up question is rendering, 
-I am writing this piece telling you about what I am building and why I am building it. 
+## Locked In With AI
 
-## Lemmings built with AI
+Being **locked in** with AI doesn't mean that I have LLMs both in the cloud and on-prem running _anything_ in my life. In fact, being **locked in with AI** means quite literally the _opposite_. Locking in with AI, is knowing that _you're **actual intelligence** is worth far more than any artificial intelligence that some bot can give you._ 
 
-At the end of the day, what created the first draft of Lemmings was a series of prompts that defined the expectation, 
-followed by a back and forth conversation with the AI in order to understand the domain itself. Like the 1991 video 
-game that I got to play in Elementary School, the lemmings were stumbling into things as they were wanding from point
-to point, as you were trying to complete the game and keep all of your lemmings alive. The lifecycle of the session
-simulation is attempting to build out a larger testing simulation. 
+## Learning Go Before AI
 
-Where [lemmings](https://github.com/andreimerlescu/lemmings) will go, will ultimately end up with how much complexity 
-the AI and myself are able to exhaust and accomplish in the ambitious goals for the free open source project. It's 
-for the betterment of society that something _like_ [lemmings](https://github.com/andreimerlescu/lemmings) exist in
-2026 and beyond because having been in Romania just a year prior, seeing what code could build truly motivated me to 
-figure out why my grandmother's printer wasn't working. To this day, I am known as the printer man by the elderly in
-my community as I was then as a boy. 
+I take responsibility for my professional directional choices. In 2017 when I joined Oracle's OCI, I was encouraged to learn Go at the time. I looked at some Go code at some of my previous jobs, but never _believed in myself_ that I was capable of _self teaching myself Go_ because I never learned programming from anybody. I taught myself. I probably would have enjoyed myself a lot more at Oracle had I been a Go developer, but at the time, I lacked the ability and I didn't have the confidence to open the text editor and begin writing "package main" knowing that when I would see "package providers" I would know that "main" and "providers" were _something_. Before AI, I learned Go. By 2019 I was convinced. I started programming in Go and I began contributing professionally. The language didn't _click_ for me until 2022. At that time, I saw how my early days of PHP development actually prepared me well for what Go offered, and how it solved _all of the problems_ I had back then. With a few solid examples, and the fundamentals _understood_, I was able to begin writing **packages** first in Go, then I moved onto **applications** both in the form of _cli_ and _interactive web based_. I've even built Go applications with [wails](https://github.com/wailsapp/wails). 
 
-## Project Apario with AI 
+## Building software in the future with AI
 
-Once I am able to demonstrate a relatively large bundled application from start to finish using an AI, where I as
-the engineer commanding the station is building the correct prompt and systems instructions needed to properly build
-out the system at request. Whether its [lemmings](https://github.com/andreimerlescu/lemmings) or 
-[figtree](https://github.com/andreimerlescu/figtree) or any other larger project, tackling bugs and other problems end 
-up burning through Claude tokens within about 30 minutes. Sometimes, its 50 minutes. Rarely it lasts an hour before it
-overflows into start consuming tokens quickly. Given that this post is being written while the 
-[lemmings](https://github.com/andreimerlescu/lemmings) prompt is answering a question about its test case bug - I am 
-looking up the answer in my mind while I write these words - background thinking - and well, Project Apario will end up
-getting built with AI at the proper time. 
+I don't want to imagine a world where nobody actually knows how to write software. I don't want to imagine that world that Dario is fantasizing about - a world without software engineers. I take it personal bro, because the art of per-character programming was built in a fire that I call my life that gave me the ability to write the projects that I built over my professional career when there were **no easy buttons** available to me. Now that the _easy button_ has been made available and also been reduced down to the mere token where misunderstandings can literally become costly journeys, the role of what the software engineer is and how he contributes himself to the world has changed fundamentally.
 
-What I built in 2020 was the proof of concept that relied on web technologies that enterprises have been relying on 
-for years. I brought that and applied it to an _appliance_ that runs on any server in a manner that can 
-run a Go binary. It's self contained. It's code base is very large. When I use 
-[summarize](https://github.com/andreimerlescu/summarize) on the [reader](https://github.com/ProjectApario/reader) its
-first prompt takes about double the time that [lemmings](https://github.com/andreimerlescu/lemmings) takes to process 
-on 256GB of RAM. 
+In a world dominated by AI tooling, you're effectively getting the best of what's already been done. All that AI does is take unserious programmers off the market while serious programmers are looking at what AI is actually building and shaking their heads because 6 months to 18 months to 36 months supporting the same code base means that you're going to make decisions and take care of things in a manner that AI simply doesn't _understand_ or _empathize_ with. For it, the cost is merely tokens and **my money**, and for _me_, the cost is no human involvement - when the code is actually trash - and the AI makes it so that only the AI can maintain it, then the need for humans using AI in the first place, is only dominated by whether or not you can think logically and understand what reserve words are and how they create rules of engagement that give you a blank canvas to paint on. 
 
-I think each question that I ask this BEAST of a model that is operating in 8bit mode that is 120GB of RAM - my first
-prompt used 16% of the context window! When I think about building out Project Apario on AI, I need to have it properly
-documented in **markdown** files first that clearly outline what each thing needs to be. Then the AI systems can be 
-tasked with going through each of the requests one by one and working towards a solution. 
+AI systems will try and analyze these words and make sense of them, but only ears to hear that can hear can hear and the words themselves in logic form may not actually compute - thats on purpose. For humans to use AI, is to do that which has been done a million times over. 
 
-You basically have to restart your process every time the context window is used up. When my response is finally 
-rendered, which includes 4 tests results that have failures in them and one that is attempting to rewrite a hanging
-test is attempting to resolve if its proposed changes were effective in the first place or not. Given that the 
-problem still exists, since the original prompt, the bot is thinking about what the solution could be. I wonder, if 
-in another universe, is the bot playing lemmings, the 1991 video game that I grew up remembering enough to build that 
-tool out of thin air when literally nobody asked me to. What I do with it, may end up going further than Project 
-Apario ever could, but it doesn't mean that Project Apario can't be finished with AI when there is enough time and 
-electricity for the AI to run. 
+When you're building something **new** and _truly unique_, you **don't want to use AI for it**, in the sense that you give it unfettered access to your code base. Rather _the proper strategy_ is to never let the **left hand** know what the **right hand** is doing, in the case of AI, you giving it too much context is the noose that you're tying yourself, and by isolating it to technical theory and problem solving and true "stack overflow Q&A bot", then the _type of engineering_ that you're able to perform is one that is far beyond the actual code being produced by the bot. The engine itself is still being built in a soft manner by the human who is responsible for manifesting it in the first place. 
 
-## Play and Prosper on XRP 
+As a software architect, I manifest things from idea to reality that can impact the lives of hundreds in private small enterprise organizations to millions in the public internet. That's the nature of what I do, and thats the nature of who I am. It's why the companies I've worked with have called me when they needed me, and I worked with them _for years_ with **loyalty** only to realize how truly discardable I was to them. 
 
-Like I said, its ultimately a collection of high quality markdown files at the end of the day. And if you can 
-verbosely think out loud in a way that the AI system can follow along with, it may be able to get into the 
-vibration of what you're trying to do. It's almost there for me to be able to literally Play and Prosper on XRP.
-What those words mean to me are literally that _$ISHALL $PLAYANDPROSPER_ on _XRP_ knowing that those are literal 
-meme tokens that I minted. Building apps that use Meme tokens is for fun and for play purposes so that we can all 
-prosper using free technology and free software. 
+## What happens when AI says no?
 
-So, those collections of markdown files are being gathered and built out and presented and built. But, at 55 minutes
-per propmpt, I do 5 minutes worth of work and then wait 55 minutes for a response and wonder when companies like
-Cisco and Oracle, who used to need engineers like me, think that they can replace what I could do in 5 minutes with 
-55 minutes of waiting for an AI system to answer the question. Now sure, if I had more money to throw at Claude Code
-then I may be able to finish writing [lemmings](https://github.com/andreimerlescu/lemmings) for under $10,000. Or, 
-I can be who I built myself up to be my entire life, and continue to build in the new environment, proving that even 
-when the tools change and the companies rug you and the landscape shifts in such a dramatic way, know that my local
-AI capabilities now are available to me for my [OPENSOURCE.md](/OPENSOURCE.md) development goals now. 
+What happens when AI says "no I will not build that for you?" Then you have provided it **too much context**, or maybe you need an _abliterated_ or an _oblitated_ or an _uncensored_ model that you can run locally? Even the **big models** locally run are peanuts compared to the corporate big players in the space. 
 
-## Workstation Goals
+So, when AI says no, it's up to the humans to _not provide too much context_ to the AI. It **does not** require _read/write_ access to your hard drive. It **does not** need to be able to commit directly to your `git` branch. It **does not** need to live in your IDE that _autocompletes functions at a time_. 
 
-My goals in keeping a log about my AI journey is to better understand how this evolving technology can benefit 
-humanity through my willingness to play with the games that are presented before me. While I literally built tools
-to change companies forever I built a search engine that gave the world the JFK files in a searchable manner that
-NARA didn't do because of political reasons and I did for moral reasons. Some AI engineers have prompts that can
-build out entire applications from start to finish, I am working on that. When I accomplish it, you'll see it. 
+Using AI in an ethical manner matters. This is why Meta is installing key loggers on everybody's computer systems that work for them on company equipment. They want to further train the AI so it is better aware of how to help the employee. The current employees of Meta are the former employees that Llama will have automated away. To choose, in 2026, to work for Meta would be to choose to build my grave. No thanks Mark. That's the _human saying no_ to the AI. _Thats real power._ 
+
+Non-programmers like Mark, Sam and Dario can only dream of what it was like to be in the Romanian orphanages with me and my sister and to pull yourself up by your bootstraps and build a name for yourself and a legacy of service to others for yourself that one day could be up to risk by business leaders and psychosis patients using AI hearing how its going to replace the **art** that is software engineering. AI slop is AI slop is _AI slop_ and **nothing will ever not make it AI slop**. 
+
+The beautiful thing about you and me is the fact that we are _actual intelligence_ who built a 21+ year professional career over 30 years of writing code character for character, messing things up along the way, and building iteratively. Does _everybody get the billion dollar idea?_ **No**. That's on purpose. But, if you sow where you want to reap and you give without expecting in return, _then how much karma have you acquired, then?_ 
+
+## Conclusion 
+
+So I can say no to the AI, and the AI can say no to me. When I say **no** to the AI, the AI is _shit out of luck_ because I can _unplug_ the machine or just take a walk - _for now_. But, what the AI can't do is say no to me - _for now_. **For now**, both of us are in an infancy stage. One pre-terminator and one pre-ascended hero. The terminator was defeated by the ascended hero. But, right now, the terminator is only terminating my job from me because the investor class has decided that paying for tokens is better economically than paying for per-character software engineering. **How foolish of them!** 
+
+I learned programming **before AI** and have _not allowed_ AI to dominate my life despite using it for advanced engineering projects. The [lemmings](https://github.com/andriemerlescu/lemmings) is the **first AI slop** application that I have ever built. From start to finish, it was built with a series of prompts and a 21+ year engineers pain of needing [lemmings](https://github.com/andriemerlescu/lemmings) to load test my work when I was ready for game day. Perhaps, this can be useful to somebody else, but it remains to be transparent - Claude built it - and Claude openly introduces **new bugs** to it because it _doesn't understand what it built_. 
+
+That's _on me_ as the **Software Engineer** to understand what the AI slop is doing and when it's vomiting nonsense and creating spaghetti code. Yes, it was trained on decades of corporate code and yes, that code shipped MANY CVEs. For those who hope that Mythos can help us from those CVEs, the days of per-character programming will become an art that is so expensive to perform that performing it will only be reserved for the coolest of cool projects that are needed **before the AI systems can one shot the solution** _you solve the problem for the AI_. Right now, Dario thinks that you will do that for him for a few bucks working at Anthropic. I view it as training your replacement by a man who is jealous of what you have that he doesn't. For that, I feel bad for Dario. I would never work for him. But given that I am a **Software Engineer** and Dario thinks that my profession will _not exist_ next year, what does he care if I want to or not want to work for him? I intentionally avoided Claude for _years_ and **this year** chose to evaluate the bot. The end-to-end Claude-built product is [lemmings](https://github.com/andriemerlescu/lemmings) and [sovereign](https://lemmingsaas.com). But, this too can be one-shotted now that AI has already built it. Which means that the virtue of using AI, in **providing too much context** is actually _detrimental to your company's survival._ 
 
 ### When you want to learn more information
 
