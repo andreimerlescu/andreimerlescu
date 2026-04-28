@@ -48,7 +48,7 @@ My work has primarily advanced the organizations I've worked with from the insid
 | [WB Games](https://wbgames.com) | 2021–2024 [3y] | Senior Release Engineer | Go · C++ · C# · Bash |
 | [Beamable](https://beamable.com) | 2025 [6mo] | Senior DevOps Engineer | HCL · Go · Bash · C# |
 | [SurgePays](https://surgepays.com) | 2022-2026 [4y] | Consulting & Infrastructure Architect | Go · C++ · Bash · HCL · Terraform |
-| [Play and Prosper Therapy](https://playandprospertherapy.com) | 2018-Current | Co-Founder | Go · XRP · TypeScript · Bash |
+| [Play and Prosper Therapy](https://playandprospertherapy.com) | 2018-Current | Part-Time & Co-Founder | Go · XRP · TypeScript · Bash |
 
 In 2015, [Barron's Magazine](https://www.barrons.com/articles/trakify-keeps-you-current-on-your-securities-portfolio-1444457064?gaa_at=eafs&gaa_n=AWEtsqdExXelmOtklurLNX3j9Fqwakc8j8R3xsFFD-qZ7xGd_lXqYro00iG6FoeIXFE%3D&gaa_ts=69d1a438&gaa_sig=TkgzA7hWBhVwj6ggpKRLL8t0tG0Tj6gZBUAlLDqGe6VzU7h4y1Ozis7EkkzIycTrlmSihmhvJ9dgWoTw-ARKQw%3D%3D) covered Trakify — a stock-tracking platform I founded and led to market with a team of four. That same entrepreneurial instinct carried into PhoenixVault, a community platform I built and ran with three collaborators that grew to over 800 concurrent daily users. Both projects reflect how I approach engineering: I build things that work, find people who care, and ship. Leadership isn't something I seek out for its own sake — but when a problem is worth solving, I'll own it end to end.
 
