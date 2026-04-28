@@ -34,6 +34,8 @@ Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgeP
 
 Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. It's that simple. 
 
+I am user 91,485 on @GitHub.
+
 ### Skill Table
 
 > `Go`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
