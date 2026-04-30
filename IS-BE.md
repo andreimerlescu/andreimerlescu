@@ -1,3 +1,5 @@
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
+
 # IS-BE
 
 The concept of an _IS-BE_ is an equation of language paired in a fun duality. The _IS_ is a compound of **I**mmortal **S**piritual and the _BE_ is a compound of **B**iological **E**ntity. It was first introduced to me in the book called [The Alien Interview](https://archive.org/stream/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy_djvu.txt). I don't know anything about _aliens_, but I do resonate with the _IS-BE_ concept and I find that framing to be particularly useful. 
@@ -17,3 +19,22 @@ I've understood the idea of the IS-BE to be a fractal of the I AM itself. You se
     (I AM) (AN=THAT) (IS-BE=I AM) ===> I AM THAT I AM ===> I AM AN IS-BE
 
 Now, maybe I am wrong in how I understand that. But, **that** and **an** being _alike_ or _similar_ or _comparable_ or _interchangeable_ truly makes for an interesting idea that we may all be **immortally spiritual** in additional to being _biological entities_? 
+
+
+### When you want to learn more information
+
+To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+
+| Sub-Page | Description | 
+|------|-------|
+| [README.md](/README.md) | My Professional GitHub Profile |
+| [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _multi-region **hosting and load testing** needs_. |
+| [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
+| [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
+| [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
+| [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [IS-BE](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
+| **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
