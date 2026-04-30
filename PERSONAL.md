@@ -12,12 +12,6 @@ In 1990 I was adopted to the United States of America. In 1997 I became a Natura
 
 ---
 
-## `is`/`be` pronouns in my profile
-
-In 2015 while in Tokyo Japan, I was traveling for business for Cisco Systems when I had an epiphany walking the streets of Yokohama. What it _is_ to _be_ in Japan, _is_ not what it _is_ to _be_ in America, and therefore, how would I, a _Romanian born man_ _be_ something that I simply do not understand? Thus, from this experience, the term `is`/`be` became part of my lexicon and I began to see the world through this metaphore. When I break the _i_ and the _s_ down in _is_ I find _**i**mortal **s**piritual_ and when I do the same for _be_ I see _**b**iological **e**ntity_. Whether you see it in yourself or not, I see an `is`/`be` inside of you too. What _is_ you talkin' about? I _be_ talkin' to you. _I AM AN IS-BE._ When I ask myself, _what does **an** mean in that sentence?_ I answer with: _**a** **n**oun_, therefore what an `is`/`be` is is a noun. You can equally swap out `an IS-BE` for `that I AM` to describe when I am speaking in Romanian, English or Japanese. You could also say `an IS-BE` is also `a fractal` because it equally applies to you too.
-
----
-
 ## The "Strangers' Perspective" vs. the "Authentic Context"
 
 ### 1. The Timeline & The "Walter" Factor
