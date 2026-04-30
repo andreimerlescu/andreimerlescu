@@ -36,6 +36,16 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 
 I am user 91,485 on @GitHub.
 
+| Service | Since | Notes |
+|---------|-------|-------|
+| KoFi Project Apario | 2020 | [Give Now &rarr;](https://ko-fi.com/projectapario) |
+| Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
+| YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
+| X | 2026 | [Follow Now &rarr;](https://x.com/projectapario) |
+| GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
+
+> My _deadname account from college_ is user 91,485. My current account is 50M+. 
+
 ### Skill Table
 
 > `Go`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
