@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page _OpenSource_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
+\- \[ [&larr; Previous Page _OpenSource_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _IS-BE_ &rarr;](/IS-BE.md) \] -
 
 # AI 
 
@@ -58,7 +58,8 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
 | **THIS PAGE** [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [IS-BE](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page _Open Source_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
+\- \[ [&larr; Previous Page _Open Source_](/OPENSOURCE.md) \] &middot; \[ **ARTIFICIAL INTELLIGENCE** \] &middot; \[ [Next Page _IS-BE_ &rarr;](/IS-BE.md) \] -
