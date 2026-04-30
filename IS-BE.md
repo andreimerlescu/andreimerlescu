@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
 
 # IS-BE
 
@@ -33,8 +33,8 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
-| [IS-BE](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
-| **THIS PAGE** [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
+| **THIS PAGE** [IS-BE](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
+| [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
-\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Personal_ &rarr;](/PERSONAL.md) \] -
+\- \[ [&larr; Previous Page _AI_](/AI.md) \] &middot; \[ **IS-BE** \] &middot; \[ [Next Page _Full Time_ &rarr;](/FULLTIME.md) \] -
