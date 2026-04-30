@@ -1,4 +1,4 @@
-\- \[ [&larr; Previous Page _IS-BE_](/IS-BE.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ 👀 \] -
+\- \[ [&larr; Previous Page _Full Time_](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ _Last Page_ 👀 \] -
 
 Sometimes, you need somebody who can comprehend complex systems and engineer software solutions that have been built on a 30 year career that started when I was 8 years old on our family MacOS 7 computer, programming AppleScript utilities to help my grandmother's printer reconnect to a faulty cable connection. 
 
@@ -68,10 +68,11 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
 | [AI.md](/AI.md) | I have an advanced AI capable workstation for development. |
+| [IS-BE.md](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | **THIS PAGE** [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 | 👀 [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without feeling sorry for myself. |
 
 > 🫣 I am very high functioning. _Head rocking_ is a **neurological motor disorder** that I developed in <a href="https://ihave.spoken.press/p/MM8wbX-H_CV" target="_blank" alt="The Orphanage">The Orphanage</a>. 
 
-\- \[ [&larr; Previous Page _IS-BE_](/IS-BE.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ _Disability_ 🪄 &rarr;](/DISABILITY.md) \] -
+\- \[ [&larr; Previous Page _Full Time_](/FULLTIME.md) \] &middot; \[ **PERSONAL** \] &middot; \[ [Next Page 🧙🏻‍♂️ _Disability_ 🪄 &rarr;](/DISABILITY.md) \] -
