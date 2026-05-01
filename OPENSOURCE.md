@@ -221,6 +221,8 @@ reliability in what you're asserting.
 
 ## PhoenixVault
 
+> **NEW:** You can follow along in the brand new [README.md](https://github.com/ProjectApario) tutorial that explores how you can launch your own instance of the [reader](https://github.com/ProjectApario/reader) and [writer](https://github.com/ProjectApario/writer). 
+
 The movement in 2020 was originally for the JFK files, and I found the technical challenge of NARA's release of the files
 unsearchable to be a fun challenge to conquer. That I did. I started with a proof of concept and then I delivered on the 
 real deal. The _closed source_ cost $7K/mo to serve 500K JFK files and the **open source** version costs $63/mo to serve 500K JFK files - both for roughly 500 concurrent users. 
