@@ -10,7 +10,7 @@ I provide consulting services for organizations that need my expertise but don't
 
 **After hours:** $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
 
-> _**Note**: This is reasonable because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
+> _**Note**: This is [reasonable](/DISABILITY.md) because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
 
 **Minimum engagement:** 1 month (longest was 17 years) · _No maximum._
 
