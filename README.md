@@ -32,9 +32,7 @@ Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgeP
 
 > majestic **\[at\]** hey **\[dot\]** com
 
-Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. It's that simple. 
-
-I am user 91,485 on @GitHub.
+Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. I am user 91,485 on @GitHub. I've been around for a while. It's that simple and I won't bite. 
 
 | Service | Since | Notes |
 |---------|-------|-------|
