@@ -3,7 +3,7 @@
 <h3>I'm Andrei <small style="color:gray;"> <em>(formerly Michael Trimm)</em> </small></h3>
 
 **Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
-21+ Year Professional · Go · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
+21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Disability Awareness
 
 ![Go, Ruby, Bash, PHP, HCL, Swift, C++, Linux, macOS, Windows, VMWare, AWS, OCI, Docker, Web Design, Backend Systems, CI/CD, Perforce, GitHub Actions, Unreal Engine, TeamCity, Database Admin, MySQL, MongoDB, PostgreSQL, Redis, Helix Core, MariaDB, Disaster Recovery, Release Management, IaC, AI MCP, AI RAG, gollm, summarize, iOS App Developer, Linux System Admin, Big Data Analyst, Site Reliability, Documentation, Communication, Process](/skill_platform.jpeg)
