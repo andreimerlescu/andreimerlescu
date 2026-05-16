@@ -45,8 +45,6 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
 | GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
 
-> My _deadname account from college_ is user 91,485. My current account is 50M+. 
-
 ### Skill Table
 
 > `Go`, `Rust`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
