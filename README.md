@@ -49,6 +49,17 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 
 > `Go`, `Rust`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`, `Linux`, `macOS`, `Windows`, `VMWare`, `AWS`, `OCI`, `Docker`, `Web Design`, `Backend Systems`, `CI/CD`, `Perforce`, `GitHub Actions`, `Unreal Engine`, `TeamCity`, `Database Admin`, `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Helix Core`, `MariaDB`, `Disaster Recovery`, `Release Management`, `IaC`, `AI MCP`, `AI RAG`, `gollm`, `summarize`, `iOS App Developer`, `Linux System Admin`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`
 
+### Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
+
+| Title | Date | Length | &nbsp; |
+|-------|------|--------|--------|
+| Locked In With AI | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
+| AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
+| Humanized Software Engineering In Era Of AI | 4-30-2026 | 9 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i) |
+| I Put Rust To The Test | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
+| Go Concurrency in Rust | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) |
+| Rust Decorators for Go Developers | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
+
 ### When you want to learn more information
 
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
