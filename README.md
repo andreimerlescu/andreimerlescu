@@ -36,6 +36,8 @@ Cisco called me. Oracle called me. BitFry called me. WB Games called me.  SurgeP
 
 > majestic **\[at\]** hey **\[dot\]** com
 
+I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) that is available to read _here for free_ if you are interested. It's about my dog named Klaus.
+
 Introduce yourself, tell me what you're working on, tell me what you need my help with, then tell me how I can get in touch with you. I am user 91,485 on @GitHub. I've been around for a while. It's that simple and I won't bite. 
 
 | Service | Since | Notes |
@@ -59,6 +61,10 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | I Put Rust To The Test | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
 | Go Concurrency in Rust | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) |
 | Rust Decorators for Go Developers | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
+
+### Research Triangle Park
+
+If you're in the Raleigh-Durham | RTP, NC area and want to work on tech together, shoot me a direct message and we can meet up. I'm very familiar with the area including Chapel Hill, Pittsfield, Apex, Snow Camp, Wake Forest, Caborro, Meban, and Fuqay Varina. A little birdie has informed me that the once great tech opportunity of RTP is about to return soon! Watch for it! Big things coming up, and I believe that through hard work you can prosper if you play by the rules! That's why I built **Play and Prosper Therapy, PLLC** with my wife, because I shall play and prosper by my choices. For me, that includes helping children who have disabilities, like me, and who need services from licensed and specialized therapists who know preceisely how to accomplish goal after goal after goal and watch transformations happen before their very eyes. We're bringing that back home and going to start something **new and fresh** that combines the best of both worlds for all of us!
 
 ### When you want to learn more information
 
