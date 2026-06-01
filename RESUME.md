@@ -1,7 +1,7 @@
 # Andrei Merlescu
 **Principal Software Architect | Platform Engineer | Infrastructure Engineer**
 
-andrei@merlescu.net | github.com/andreimerlescu | Remote — Open to Research Triangle Park, NC
+andrei@merlescu.net | github.com/andreimerlescu | Remote
 
 ---
 
@@ -144,4 +144,4 @@ IEEE Student Branch President 2007–2010 | Teaching Assistant
 - **Email:** andrei@merlescu.net
 - **GitHub:** [github.com/andreimerlescu](https://github.com/andreimerlescu)
 - **Available:** Immediately
-- **Location:** Remote — Open to Research Triangle Park, NC
+- **Location:** Remote
