@@ -6,6 +6,8 @@
 21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Neurodivergent
 
+> **Resume**: [2026](/RESUME.md)
+
 ![Go, Ruby, Bash, PHP, HCL, Swift, C++, Linux, macOS, Windows, VMWare, AWS, OCI, Docker, Web Design, Backend Systems, CI/CD, Perforce, GitHub Actions, Unreal Engine, TeamCity, Database Admin, MySQL, MongoDB, PostgreSQL, Redis, Helix Core, MariaDB, Disaster Recovery, Release Management, IaC, AI MCP, AI RAG, gollm, summarize, iOS App Developer, Linux System Admin, Big Data Analyst, Site Reliability, Documentation, Communication, Process](/skill_platform.jpeg)
 
 I design and operate infrastructure that saves money at scale and ships software faster.
