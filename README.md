@@ -63,6 +63,8 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | I Put Rust To The Test | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
 | Go Concurrency in Rust | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) |
 | Rust Decorators for Go Developers | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
+| Basement or Bunker Water Monitor System | 6-3-2026 | 114 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij) |
+| Implementing Go+Gin Style Middleware in Rust | 6-4-2026 | 39 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
 
 ### Research Triangle Park
 
