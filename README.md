@@ -1,12 +1,10 @@
 <h1>Hey There 👋🏻 </h1>
 
-<h3>I'm Andrei <small style="color:gray;"> <em>(formerly Michael Trimm)</em> </small></h3>
+<h3>I'm Andrei!</h3>
 
 **Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
 21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Neurodivergent
-
-> **Resume**: [2026](/RESUME.md)
 
 ![Go, Ruby, Bash, PHP, HCL, Swift, C++, Linux, macOS, Windows, VMWare, AWS, OCI, Docker, Web Design, Backend Systems, CI/CD, Perforce, GitHub Actions, Unreal Engine, TeamCity, Database Admin, MySQL, MongoDB, PostgreSQL, Redis, Helix Core, MariaDB, Disaster Recovery, Release Management, IaC, AI MCP, AI RAG, gollm, summarize, iOS App Developer, Linux System Admin, Big Data Analyst, Site Reliability, Documentation, Communication, Process](/skill_platform.jpeg)
 
@@ -69,6 +67,8 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 ### Research Triangle Park
 
 If you're in the Raleigh-Durham | RTP, NC area and want to work on tech together, shoot me a direct message and we can meet up. I'm very familiar with the area including Chapel Hill, Pittsfield, Apex, Snow Camp, Wake Forest, Caborro, Meban, and Fuqay Varina. A little birdie has informed me that the once great tech opportunity of RTP is about to return soon! Watch for it! Big things coming up, and I believe that through hard work you can prosper if you play by the rules! That's why I built **Play and Prosper Therapy, PLLC** with my wife, because I shall play and prosper by my choices. For me, that includes helping children who have disabilities, like me, and who need services from licensed and specialized therapists who know preceisely how to accomplish goal after goal after goal and watch transformations happen before their very eyes. We're bringing that back home and going to start something **new and fresh** that combines the best of both worlds for all of us!
+
+> **Resume**: [2026](/RESUME.md)
 
 ### When you want to learn more information
 
