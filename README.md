@@ -55,6 +55,7 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 
 | Title | Date | Length | &nbsp; |
 |-------|------|--------|--------|
+| Go To Do Rust | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
 | Five Hours Of Interviewing - Zero Questions About The Job | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
 | Locked In With AI | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
 | AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
