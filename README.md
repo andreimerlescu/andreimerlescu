@@ -55,16 +55,18 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 
 | Title | Date | Length | &nbsp; |
 |-------|------|--------|--------|
-| Go To Do Rust | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
-| Five Hours Of Interviewing - Zero Questions About The Job | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
-| Locked In With AI | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
+| When AI Creates A Closed Source World `5 ❤️‍🔥 2 🦄 2 🤯 2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
+| The Day I Stopped Asking Strangers for My IP `2 ❤️‍🔥` | 7-21-2026 | 11 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og) |
+| Go To Do Rust  `2 ❤️‍🔥` | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
+| Five Hours Of Interviewing - Zero Questions About The Job  `1 ❤️‍🔥` | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
+| Locked In With AI  | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
 | AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
 | Humanized Software Engineering In Era Of AI | 4-30-2026 | 9 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i) |
 | I Put Rust To The Test | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
-| Go Concurrency in Rust | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) |
+| Go Concurrency in Rust  `1 ❤️‍🔥` | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) | 
 | Rust Decorators for Go Developers | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
 | Basement or Bunker Water Monitor System | 6-3-2026 | 114 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij) |
-| Implementing Go+Gin Style Middleware in Rust | 6-4-2026 | 39 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
+| Implementing Go+Gin Style Middleware in Rust  `1 ❤️‍🔥` | 6-4-2026 | 39 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
 
 ### Research Triangle Park
 
