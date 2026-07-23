@@ -43,7 +43,7 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | Locked In With AI  | - | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
 | Humanized Software Engineering In Era Of AI | - | 4-30-2026 | 9 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i) |
 | AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | - | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
-| Go Concurrency in Rust | `1 ❤️‍🔥` | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) | 
+| Go Concurrency in Rust | `2 ❤️‍🔥` | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) | 
 | The Day I Stopped Asking Strangers for My IP | `2 ❤️‍🔥` | 7-21-2026 | 11 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og) |
 | Five Hours Of Interviewing <br>&nbsp;&nbsp;&nbsp;<em>Zero Questions About The Job</em>  | `1 ❤️‍🔥` | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
 | goenv: Taming .env Files in Your DevOps Pipeline | `1 🙌🏻` | 4-30-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/goenv-taming-env-files-in-your-devops-pipeline-15pn) |
