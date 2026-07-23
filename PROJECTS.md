@@ -52,7 +52,8 @@ In 2026 I released one `1` **package** and one `2` **applications** _to date **a
 ---
 
 | Sub-Page | Description | 
-|------|-------
+|------|-------------|
+| [README.md](/README.md) | My Professional GitHub Profile |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
 | **THIS PAGE** [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
