@@ -56,7 +56,8 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
 
 | Sub-Page | Description | 
-|------|-------
+|----------|-------------|
+| [README.md](/README.md) | My Professional GitHub Profile |
 | [CONSULTING.md](/CONSULTING.md) | I offer **consulting services** to companies that need _custom services_. |
 | [PROJECTS.md](/PROJECTS.md) | I offer **free applications** to anybody who have _similar needs_. |
 | [OPENSOURCE.md](/OPENSOURCE.md) | I offer **free and open source** software on my GitHub profile. |
