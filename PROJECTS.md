@@ -17,6 +17,7 @@ I have been blessed with decades of professional employment in the **Big Tech** 
 | [goenv](https://github.com/andreimerlescu/goenv) | August 2025 | `.env` File Manipulation for CI/CD Pipelines | [Download Now &rarr;](https://github.com/andreimerlescu/goenv/releases/tag/v1.0.0) |
 | [trimm](https://github.com/andreimerlescu/trimm) | August 2025 | Split & Join Large Files With `trimm` | [Download Now &rarr;](https://github.com/andreimerlescu/trimm/releases/tag/v1.0.0) |
 | [lemmings](https://github.com/andreimerlescu/lemmings) | April 2026 | Stateful Session Based Load Testing | [Download Now &rarr;](https://github.com/andreimerlescu/lemmings/releases/tag/v0.0.1) |
+| [sovereign](https://github.com/andreimerlescu/sovereign) | July 2026 | Multi-Region Deployment of [lemmings](https://github.com/andreimerlescu/lemmings) | [Download Now &rarr;](https://github.com/andreimerlescu/sovereign/releases/tag/v0.0.1) |
 
 ## Free Packages For Go
 
