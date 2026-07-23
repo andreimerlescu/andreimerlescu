@@ -2,27 +2,33 @@
 
 # Consulting Services
 
-I provide consulting services for organizations that need my expertise but don't need me building full time. 
+The source code is free - the implementation support is a premium. I have **over 55+ open source packages** written in **Go** and **Rust** on [my github](https://github.com/andreimerlescu?tab=repositories). I'm a professional of 17 years in Computer Engineer. Respectively released under **MIT**, **Apache 2.0**, **GPL-3** and **AGPL-3**, the packages that I have written are available free of charge under these terms. Should you find value in what I built, and you're using it, consider [contributing something](https://ko-fi.com/projectapario) to [Project Apario](https://github.com/ProjectApario) if you want show your gratitude for my efforts. If you need **additional help** implementing _anything I have built_, this is why my **consulting services** exist. You can hire me directly to help you for as little or as long of time that you need me. I'm flexible, available in your time zone, and willing to help.
 
-**Retainer:** $3,000/mo · covers up to 20 hours per month (works out to 5 hours per week)
+**Minimum Engagement:** $1,000/mo · covers up to 8 hours per month (up to 2 hours per week)
 
-**Additional hours:** $200/hr · billed $40 per 12-minute units
+**Consulting rate:** $200/hr · billed $40 per 12-minute units between 6AM - 9PM EST
 
-**After hours:** $400/hr · billed $800 for the first 12-minute units, then $80 per 12-minute units between 11PM-6AM EST 
+**After-hours rate:** $400/hr · billed $80 per 12-minute units between 9PM - 6AM EST + $120 after-hours charge
 
-> _**Note**: This is [reasonable](/DISABILITY.md) because of the impact that my neurological disorder has to reconcile with since the orphanage. It's never stopped me from building, but I've let my boundaries be crossed. Frivolous alarms can impact my disability, and this rate establishes clear boundaries within reason._
+**Availability:** 24/7
 
-**Minimum engagement:** 1 month (longest was 17 years) · _No maximum._
+**What I work on:** zero-day randomsware recovery events · web application development with AI · cloud infrastructure engineering · ai integration services (mcp, rag, or local llm) · strategic opportunities for growth, cost savings, and applied technology · multi-region cloud hosting solutions · CI/CD pipelines including rebuilds · perforce (p4) at scale · systems analysis · big data processing · cryptocurrency development · distributed systems · brand protection · cyber security posture  · disaster preparedness preparation · release management optimization · cost savings as a service 
 
-**What I work on:** web application development with AI · cloud infrastructure engineering · ai integration services (mcp, rag, or local llm) · strategic opportunities for growth, cost savings, and applied technology · multi-region cloud hosting solutions · CI/CD pipelines including rebuilds · perforce (p4) at scale · systems analysis · big data processing
+**Expectation of Reasonability:** I reserve all rights under any circumstances to deny services with or without reason, justification or probable cause.
 
-### Reasonable expectations
+**Example Statement Of Work:** 
 
-Professionally, I've provided consulting services even while employed full time for the 21+ year professional tenure of my career. I respect all IP of each client and am able to appropriately compartmentalize responsibilities, follow-ups, and sub-projects. In full time engagements in the past, I've openly communicated with leadership about this service offering. 
+For 8 base hours + 10 additional hours of time with 1 hour after-hours for an incident response, you're looking at a base cost of $3,400 for the month. 
 
-Each retainer covers 5 hours per week with extensions of up to 4 additional hours per week and are capped at 9 hours per day, therefore all consulting services range between $3,000-$7,000 per month.
+| Item | Units | Rate | SubTotal | Note |
+|:-----|:-----:|-----:|---------:|-----:|
+| 8hr Minimum Engagement | 1 | $1,000 | $1,000 | Included 8 hours base... |
+| Extra Consulting Services | 50 | $40 | $2,000 | ...extra 10 hours of labor... |
+| After-hours Services | 5 | $80 | $400 | ...plus the incident from Thursday night... |
+| &nbsp; | &nbsp; | **Total** | **$3,400** | ... once sent _Services Paused Until Paid_ |
 
-Consulting services are provided Monday-Friday at either 8AM-9AM or 12PM-1PM or between 6PM-10PM EST. Weekends can be requested if services are needed. 
+> **FYI:** 12-min = 1 unit ; 5 units = 1 hour
+
 
 --- 
 
