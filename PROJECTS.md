@@ -51,12 +51,6 @@ In 2026 I released one `1` **package** and one `2` **applications** _to date **a
 
 ---
 
-## Commercial
-
-I have two packages that I sell which include **topobuilder** which deploys a container to a multi-region load balanced managed stateful cluster. The second is called **sovereign** which uses _topobuilder_ to deploy [lemmings](https://github.com/andreimerlescu/lemmings) in a _multi-region load testing session_ that simulates **real world load**. My commercial software is built on the backs of my free software.
-
----
-
 | Sub-Page | Description | 
 |------|-------
 | [COMMERCIAL.md](/COMMERCIAL.md) | I offer **commercial services** to companies that have _multi-region **hosting and load testing** needs_. |
