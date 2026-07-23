@@ -35,16 +35,6 @@ I learned Go and built a handful of commercial and enterprise scale applications
 - [verbose](https://github.com/andreimerlescu/verbose) — logging package that censors secrets in stdout while writing them to disk
 - [igo](https://github.com/andreimerlescu/igo) — install and manage multiple Go versions without sudo
 
-Read my statement on [OPENSOURCE.md](/OPENSOURCE.md)
-
-### Project Apario ([@ProjectApario](https://github.com/ProjectApario))
-A decentralized OSINT document platform built on a custom reader / writer / search trio,
-all in Go. Indexed with full-text search via
-[textee](https://github.com/andreimerlescu/textee) and integrity-verified with a
-[Merkle tree](https://github.com/ProjectApario/merkel) package. GPL-3 / AGPL-3.
-Originally built to make the JFK files searchable; deployable for any document collection
-via a single CSV and a single binary.
-
 ## My Open Source Story
 
 After the pandemic, I decided to change fundamentally what was more than a decade of professional 
