@@ -4,7 +4,7 @@
 
 I'm open to a full time opportunity that provides benefits, restricted stock units, an annual bonus and a culture that thrives behind the mantras of **engineering excellency** and **own without ego**. My [resume](RESUME.md) is available for reviewing. If you want to schedule an interview with me, please send me an email and [do not waste my time](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k). You can find my email address on my profile or on my [dev.to blog](https://dev.to/andreimerlescu).
 
-I'm comfortably at a `Staff | Principal` level of **Computer Engineering** and bill consultants $200/hr for regular business hours. If you want to take me off doing consulting work - and exclusively working for you - I can be had for a pretty penny if the company is aligned with my values and skills. I pivoted from full time to consulting after the pandemic due to toxic corporate workplace environments causing serious burn-out grinding me like I am McDonald's hamburger meat. 
+I'm comfortably at a `Staff | Principal` level of **Computer Engineering** and bill consultants $200/hr for regular business hours. Do the math on what that looks like on an annual basis. If you want to take me off doing consulting work - and exclusively working for you - I can be had for a pretty penny if the company is aligned with my values and skills. I pivoted from full time to consulting after the pandemic due to toxic corporate workplace environments causing serious burn-out grinding me like I am McDonald's hamburger meat. 
 
 ### When you want to learn more information
 
