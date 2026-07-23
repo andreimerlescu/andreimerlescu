@@ -56,7 +56,7 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | Title | Reaction | Date | Length | &nbsp; |
 |-------|----------|------|--------|--------|
 | Sovereign Lemmings Released | - | 7-22-2026 | 2 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l) | 
-| When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯 2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
+| When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
 | I Put Rust To The Test | - | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
 | Locked In With AI  | - | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
 | Humanized Software Engineering In Era Of AI | - | 4-30-2026 | 9 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i) |
