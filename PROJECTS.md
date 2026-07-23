@@ -47,7 +47,7 @@ In 2024 I released five `5` **packages** and one `1` **application**.
 
 In 2025 I released one `1` **package** and nine `9` **applications**.
 
-In 2026 I released one `1` **package** and one `1` **application** _to date **and counting**_. 
+In 2026 I released one `1` **package** and one `2` **applications** _to date **and counting**_. 
 
 ---
 
