@@ -1,12 +1,10 @@
-An interviewer recently spent five hours with me without asking a single question about the job, pausing along the way to wonder aloud whether I know how to write code — what a `defer` statement does. This is the answer I wanted a link for.
-
-In 2024, I built a piece of software called `topobuilder` in Go. Below is what it is and how I built it, told through fragments of a closed-source codebase.
+In 2024, I built a piece of software called `topobuilder` in Go. I've referenced it in interviews often enough that it deserves a public page to point at — so here's what it is and how I built it, told through fragments of a closed-source codebase.
 
 **What Is Topobuilder?**
 
 `topobuilder` is a **go binary** that runs off a single **YAML** configuration file that defines an existing PHP website hosted on a cPanel server. The defaults assume that any database connectivity is going to be performed over **RDS** or _another remote connection_. What you're doing is going from a _single region_ into a **multi-region load balanced** containerized application. It takes about 12-36 minutes to deploy a 3-6-9 region cluster with an HAProxy load balancer. 3 regions is 12 minutes; 9 regions defaults to 36 minutes but can also be 12 minutes by adjusting the configuration — though this increases concurrency load and may result in rate limiting from the API utility.
 
-One clarification worth making up front, because it's the kind of thing that gets misread: the binary is portable and I've run it from DigitalOcean droplets and OVH boxes, but the resources it _provisions_ are AWS. Where `topobuilder` runs and what `topobuilder` builds are two different questions, and only the first one is cloud-agnostic.
+The binary itself is portable — I've run it from DigitalOcean droplets and OVH boxes as easily as from a laptop. What it _provisions_ is AWS. Where `topobuilder` runs and what `topobuilder` builds are two separate questions, and the first one is wide open.
 
 ## Go Application Design
 
@@ -76,7 +74,7 @@ func main() {
 }
 ```
 
-That's `topobuilder`! 😏🤫 Well, let's actually digest it. Given that I've built [configurable](https://github.com/andreimerlescu/configurable) that became [figtree](https://github.com/andreimerlescu/figtree), why would I use the stdlib `flag` package for `topobuilder`? Because this application doesn't need to dynamically interact with the configuration runtime the way a web server needs to reload its SSL certificates across rotations without forcing the binary to be restarted. In `topobuilder`, we read our configs and then begin processing the application.
+That's `topobuilder`! 😏🤫 Well, let's actually digest it. Given that I've built [configurable](https://github.com/andreimerlescu/configurable) that became [figtree](https://github.com/andreimerlescu/figtree), why would I use the stdlib `flag` package for `topobuilder`? Because this application doesn't need to dynamically interact with the configuration runtime the way a web server needs to reload its SSL certificates across rotations without forcing the binary to be restarted. In `topobuilder`, we read our configs and then begin processing the application. Right tool, right job.
 
 We'll break each of these down further, but I use the `models` package to return a new `app` that I can use. This is the primary entrypoint for `topobuilder`.
 
@@ -184,9 +182,7 @@ func (app *Application) LoadConfigs(configFile string) (err error) {
 }
 ```
 
-Worth naming before someone else does: this method has a named `error` return that it never actually gets to use, because every failure path calls `log.Fatal`. For a one-shot CLI that has provisioned nothing yet, failing loudly at the config gate is the behavior I wanted — there's nothing to unwind at that stage and a half-validated config should never reach `Run()`. But the signature promises a choice the body doesn't offer, and that's a fair thing to call me on.
-
-This method is small despite doing so much. First the `-config` path is read into `topobuilder`. This points to a **YAML** file that contains your runtime configurations.
+This method is small despite doing so much. The `-config` path is read into `topobuilder`, pointing at a **YAML** file containing your runtime configurations. Every failure here is fatal by design — this is the gate, nothing has been provisioned yet, and a half-validated config should never reach `Run()`. Failing loudly at the door is cheaper than failing quietly in region seven.
 
 You'll also see another method from the `verbose` package here — `.Asis(any)` does _as it says_, printing the value _as it is_, meaning no filtering takes place. Static strings like _VERIFYING APPLICATION RUNTIME_ are informational notices that contain _no secrets_ and therefore shouldn't use `verbose.Printf` — otherwise you're spending cycles filtering nothing.
 
@@ -196,7 +192,7 @@ The true magic is happening here:
 app.config.Validate(app)
 ```
 
-In order to understand what this line is doing — and why it can take up to 6 minutes to complete depending on topology size — let's look under the hood.
+In order to understand what this line is doing — and why it can take up to 6 minutes to complete depending on topology size — let's look under the hood. Shall we?
 
 Let's begin with what `Application` is, so we can see what `app.config` is talking about.
 
@@ -274,7 +270,7 @@ Secrets: # properties defined in the SecretsConfigs struct
 Times: # properties defined in the TimesConfigs struct
 ```
 
-The pattern is that a `<Property>:` at the _root level_ of the **YAML Configuration File** is defined as `type <Property>Configs struct {}` in the Go program. So adding `Something:` means writing a `type SomethingConfigs struct {}` attached to it, defined as YAML using camel-case and JSON using underline_connected_words.
+The pattern is that a `<Property>:` at the _root level_ of the **YAML Configuration File** is defined as `type <Property>Configs struct {}` in the Go program — as you see above. So when adding `Something:` it would have a `type SomethingConfigs struct {}` attached to it, defined as YAML using camel-case and JSON using underline_connected_words.
 
 Lines 48-219 of the `config.go` file are dedicated just to the implementation of `app.config.Validate(app)`, expecting back an `error` or `nil`.
 
@@ -292,9 +288,9 @@ errs = data.AppendError(errs, cfg.Name.Validate(app))
 func (n ProjNameKey) Validate(app *Application) error {}
 ```
 
-This pattern is used on every property defined in the `Config` struct — both _optional_ and _required_. What `Validate(*Application)` is doing behind the scenes is calling `.Validate(*Application)` on each element in the `Config{}` itself. That means `WazuhConfigs.Validate(*Application)` is defined and returns an error type, and so does everything else.
+In fact — this pattern is used on every property defined in the `Config` struct, both _optional_ and _required_. What `Validate(*Application)` is doing behind the scenes is calling `.Validate(*Application)` on each element in the `Config{}` itself. That means `WazuhConfigs.Validate(*Application)` is defined and returns an error type, and so does everything else in there.
 
-The next part of the configuration loading is done concurrently where possible, on the assumption that some tasks take longer than others. This is why I use conditional mutexes as coordinators:
+The next part of the configuration loading is done in a concurrent-where-possible manner that assumes and understands that some tasks take longer than others. This is why I use conditional mutexes as coordinators:
 
 ```go
 awsCoordinator := sync.NewCond(&sync.Mutex{})
@@ -322,9 +318,9 @@ go func(wg *sync.WaitGroup, errCh chan<- error) {
 }(&wg, errCh)
 ```
 
-What these coordinators encode is a dependency graph, not just parallelism. Every validation goroutine waits on the coordinator that gates it and broadcasts the next one on its way out via `defer`. An earlier goroutine broadcasts `awsCoordinator` when its own work completes, which releases this one; when AWS validation finishes, its `defer` broadcasts `dockerCoordinator`, which releases Docker validation, which eventually reaches `deploymentCoordinator`. Notice that I pass a pointer to `*Application` into the `Validate(*Application)` method attached to the `AWSConfigs` struct, and that the response from that validation goes straight into `errCh`, a buffered channel of errors.
+What these coordinators encode is a **dependency graph**, not just raw parallelism. Each validation goroutine waits on the coordinator that gates it, does its work, and broadcasts the next coordinator on the way out via `defer`. An earlier goroutine broadcasts `awsCoordinator` when its own prerequisites are satisfied, which releases this one; when AWS validation finishes, its `defer` broadcasts `dockerCoordinator`, releasing Docker validation, which eventually chains into `deploymentCoordinator`. The graph is what makes the ordering real — you can't validate a Docker registry against credentials you haven't resolved yet, and you can't resolve those credentials before 1Password has been reached.
 
-Here's the sharp edge, and I'd rather name it than have it named for me in the comments: `Wait()` is not wrapped in a predicate loop. `sync.Cond` has no memory — if a broadcast lands before this goroutine has reached `Wait()`, that wakeup is gone and the goroutine blocks forever. In `topobuilder` the ordering holds in practice, but it holds because of timing, not because the code enforces it. If you're copying this pattern, wrap it — `for !ready { c.Wait() }` with a mutex-guarded flag — or reach for `errgroup` with channels, which gives you ordering and cancellation for free. I'd write it the second way today.
+Notice that I am passing a pointer to `*Application` into the `Validate(*Application)` method attached to the `AWSConfigs` struct. Also notice how I'm passing the response from that validation directly into `errCh`, which is a buffered channel of errors. Everything that _can_ run wide runs wide; everything with a real prerequisite waits its turn.
 
 For each of the optional configurations, the coordinators balance the order of validation operations needed to properly validate the runtime of `topobuilder` before it deploys anything into the wild.
 
@@ -365,7 +361,7 @@ if strings.HasPrefix(aws.AccessSecretKey, `op://`) {
 }
 ```
 
-This allows the **YAML** to reference **1Password** secrets via the `op://<Vault>/<Item>/<Field>` lookup syntax. If you've defined the `OnePassword:` properties in the config file, you can use `op://` values and `topobuilder` will look them up and automatically register the retrieved secrets with the [verbose](https://github.com/andreimerlescu/verbose) package — so a secret becomes redactable the instant it exists in memory. Throughout many parts of the application we pass the `*Application` pointer directly into struct methods, including `NewOPParse`, which returns a 1Password structure with methods attached including `.GetValue()`.
+This magical little block allows the **YAML** to reference **1Password** secrets via the `op://<Vault>/<Item>/<Field>` lookup syntax. If you've also defined the `OnePassword:` properties in the config file, you can use `op://` values and `topobuilder` will look them up and automatically register the retrieved secrets with the [verbose](https://github.com/andreimerlescu/verbose) package — meaning a secret becomes redactable the instant it exists in memory, and your config file on disk never held it in the first place. Throughout many parts of the application we pass the `*Application` pointer directly into struct methods, including `NewOPParse`, which returns a 1Password structure with a bunch of methods attached including `.GetValue()`.
 
 Lines 69-93 in the same file look like:
 
@@ -407,17 +403,17 @@ go func() {
 <-doneCh
 ```
 
-First we set up the concurrency channels, slices, and wait group; then we spawn two **goroutines**. The first handles _zone processing_ and the second handles _error collecting_. Each zone defined is spawned into its own goroutine.
+First we set up the concurrency channels, slices, and wait group; then we proceed to spawning two **goroutines**. The first is for the _zones processing_ and the second is for the _error collecting_. Each zone defined is spawned into its own goroutine.
 
-Without the `<-doneCh` at the end of the block, the zones would never validate. If the configuration calls for three zones, there will be three spawned goroutines — one per zone. If a zone yields an error, that value is passed into `errCh` and picked up by the error collector via `range errCh`.
+Without the `<-doneCh` at the end of the block, the zones would never validate. If the configuration calls for three zones, then there will be three spawned goroutines — one for each zone. If a zone yields an error, that value is passed into `errCh` and then picked up by the error collector via `range errCh`.
 
-After each of these extensive checks is performed on each of the components used throughout `topobuilder`, `app.config.Validate(app)` finally completes:
+After each of these extensive checks is performed on each of the components used throughout `topobuilder`, `app.config.Validate(app)` finally completes!
 
 ```go
 verbose.Asis("SUCCESSFULLY VALIDATED APPLICATION RUNTIME ENVIRONMENT!")
 ```
 
-That brings us back to `main()`, where we hand off to `app.Run()`. Lines 131-194 in `application.go`:
+That brings us back up to `main()` where we hand off to `app.Run()` next. Lines 131-194 in `application.go`, the `Run()` method is defined as:
 
 ```go
 
@@ -487,13 +483,13 @@ func (app *Application) Run() {
 }
 ```
 
-This is where the meat and potatoes are. First, I establish a rollback plan. Currently unimplemented, the rollback plan is threaded through each step, so that when a rollback is triggered it invokes the block of code in the comment.
+This is where the actual meat and potatoes, so to speak, are contained for the binary. First, I establish a rollback plan. Currently unimplemented, the rollback plan is passed through each of the steps since in the event of a rollback being triggered, that would invoke the block of code in the comment. The scaffolding is threaded everywhere it needs to be — the execution is the next chapter.
 
-When the load balancer is created, a set of `.tf` files are rendered by `topobuilder` in the `DirectoriesConfigs.TerraformDir` property. Then `terraform apply` is executed in that path until the **HAProxy** instance is up. `topobuilder` reads the output of `terraform`, but it requires further capability verification before it continues — Terraform reporting success and the host being able to do its job are not the same claim.
+When the load balancer is created, a set of `.tf` files are rendered by `topobuilder` in the `DirectoriesConfigs.TerraformDir` property. Then `terraform apply` is executed in that path until the **HAProxy** instance is up and running. `topobuilder` looks at the output of `terraform`, but it requires further capability verification before it continues — Terraform reporting success and the host being ready to do its job are two different claims, and I only trust the second one.
 
-Next, `app.BuildImage(rollback)` connects to **cPanel** and compiles a **Docker Image** from the PHP website. The binary uses the `DirectoriesConfigs` struct to define where the `Dockerfile` is written and where various `docker` commands execute. This can take a long time depending on the size of the application and network conditions. What comes out is a `.tar.gz` inside the docker workspace directory — the container image that gets deployed to every endpoint.
+Next we see that `app.BuildImage(rollback)` is called. This connects to **cPanel** and compiles a **Docker Image** based on the PHP website. The `topobuilder` binary uses the `DirectoriesConfigs` struct to define where the `Dockerfile` is going to be written and the path where various `docker` commands will be executed. This method can take a long time depending on the size of the application and network conditions. The file produced is a `.tar.gz` inside the docker workspace directory. It's the image of the container that is going to be deployed on the various endpoints.
 
-During deployment, `Provisioner` is a struct used throughout `BuildTopology(rollback)`. The pattern is `<Utility>Provisioner` for the interface. If the utility is `DockerImage`, the interface is `DockerImageProvisioner`.
+During the deployment of the application, `Provisioner` is a struct used throughout the `BuildTopology(rollback)` function. The pattern was `<Utility>Provisioner` for the interface. If the utility was `DockerImage`, then the provisioner was `DockerImageProvisioner`.
 
 ```go
 type DockerProvisioner interface {
@@ -544,7 +540,7 @@ func (docker *ProvisionerDocker) Install() error {}
 func (docker *ProvisionerDocker) Prune() error {}
 ```
 
-I define provisioner capabilities using interfaces:
+I define provisioner capabilities using the interfaces as:
 
 ```go
 type Installable interface {
@@ -576,9 +572,9 @@ type Stateful interface {
 }
 ```
 
-This means I can have n-provisioners with capabilities like `Stateful`, `Runnable`, `Recoverable`, `Pingable`, `Populatable`, and `Installable`, with predictable behavior across packages like [igo](https://github.com/andreimerlescu/igo) and [counter](https://github.com/andreimerlescu/counter), including `docker` and the **Wazuh Agent** — DevSecOps monitoring supported by `topobuilder`. As each provisioner is consumed, output is written via the [verbose](https://github.com/andreimerlescu/verbose) package, with raw values landing in the log file itself. The operator gets to watch what each instance is doing as it happens.
+This means that I can have n-Provisioners with capabilities like being `Stateful`, `Runnable`, `Recoverable`, `Pingable`, `Populatable`, `Installable` — and have predictable behavior across packages like [igo](https://github.com/andreimerlescu/igo) and [counter](https://github.com/andreimerlescu/counter), including `docker` and the **Wazuh Agent**, a DevSecOps monitoring capability supported by `topobuilder`. As each of these provisioners is consumed and used, the output is written via the [verbose](https://github.com/andreimerlescu/verbose) package where the raw values are written to the log file itself. This provides the operator access to see what each instance is doing as it's happening.
 
-The `<Utility>Provisioner` interface composes those capabilities:
+The `<Utility>Provisioner` interface is defined to consume the capabilities above like:
 
 ```go
 type DockerContainerProvisioner interface {
@@ -589,7 +585,9 @@ type DockerContainerProvisioner interface {
 }
 ```
 
-And the implementation methods are defined against the mirrored struct name:
+So you can see that the `<Utility>Provisioner` interfaces contain contracts for various capabilities like being `Recoverable`, `Installable`, `Runnable` and/or `Pingable`.
+
+Then the various Provisioner implementation methods are defined against the following struct:
 
 ```go
 type ProvisionerDockerContainer struct {
@@ -597,47 +595,38 @@ type ProvisionerDockerContainer struct {
 }
 ```
 
-The pattern is `<Utility>Provisioner` for the contract, `Provisioner<Utility>` for the implementation. Once you've read one, you can predict all of them — which is the entire point.
+This pattern is similar — it's `Provisioner<Utility>` in the struct name, and it has its own methods as the `<Utility>Provisioner` interface requires. Read one of these and you can predict all of them, which is the whole point of building it this way.
 
-Next, `app.BuildTopology(rollback)` executes the AWS calls needed to create EC2 instances and consumes the `EBSConfigs` struct from the main config. Disk options are cluster-wide and defined in one location.
+Next, we see `app.BuildTopology(rollback)` — which executes many of the AWS commands needed to create an EC2 instance and consumes the `EBSConfigs` struct out of the main config. The disk options on the cluster are cluster-wide and defined in one location.
 
-As the topology is created, each zone runs concurrently (3 at a time by default, configurable) creating EC2 instances, uploading the `.tar.gz` image, and installing the provisioned software each host needs. Once the load balancer can listen on the configured `Ports:` settings, the AWS networking is secured.
+As the topology is created, each zone runs concurrently (though 3 at a time is a configurable limit) as it creates the EC2 instances, uploads the `.tar.gz` image file, and installs the necessary provisioned software for the hosts. Once the load balancer can listen on the configured `Ports:` settings, the AWS networking is secured.
 
-Then `app.ConfigureNetwork(rollback, clusters)` configures security groups, the firewalld process, and connectivity checks. This governs port access to and from the instances and the load balancer, and ultimately secures the network. A properly configured VPC is required before `topobuilder` runs.
+Then we see `app.ConfigureNetwork(rollback, clusters)`. This is where the security groups are configured, the firewalld process, and the connectivity checks take place. This configures port access to and from the instance and the load balancer. This stage ultimately secures the network. A properly configured VPC is required before `topobuilder` can run.
 
-Depending on whether **Cloudflare** or **HAProxy** is the load balancer of choice, `app.ConfigureLoadBalancer(rollback, clusters)` either runs the necessary Cloudflare API calls or compiles an `haproxy.cfg` that gets loaded into a dedicated EC2 instance designated as the load balancer entrypoint. `topobuilder` establishes secure connectivity between each endpoint and uses encrypted traffic for all data transmissions.
+Then, depending on whether **Cloudflare** is being used or if **HAProxy** is being used as the load balancer of choice, the `app.ConfigureLoadBalancer(rollback, clusters)` block is responsible for either running the necessary Cloudflare API calls, or compiling an `haproxy.cfg` file that gets loaded into a new EC2 instance created and designated as the load balancer entrypoint. `topobuilder` establishes secure connectivity between each endpoint and uses encrypted traffic for all data transmissions.
 
-Once the **HAProxy** load balancer is **healthy**, `app.PublishLoadBalancer(rollback)` issues a DNS record update to the **Cloudflare API**, setting the `Domain: <string>` value from the **YAML Configuration** file. That A record now points at the HAProxy instance.
+Once the **HAProxy** load balancer is **healthy**, then we can run `app.PublishLoadBalancer(rollback)`, which issues a DNS record update to the **Cloudflare API** to set the `Domain: <string>` value from the **YAML Configuration** file defining the website you're deploying the cluster out to. This A record gets updated to the **HAProxy** instance.
 
-Once the cluster exists, the image is deployed and running healthy, and the load balancer is serving verified traffic across all endpoints, `NewTBState(app, rollback, clusters)` is invoked. This writes a `.tbstate` JSON file recording the state of the entire deployment step by step, including timestamps. This _log of record_ is maintained during the runtime of `topobuilder` and is part of the `rollback` functionality. The state is then saved via `state.SaveTo(app.stateFile)` before `app.DeploymentSummary(startedAt, clusters)` renders a summary to STDOUT.
+Once the cluster has been created, the docker image deployed and launched, running and healthy, and the load balancer up and serving traffic on all endpoints in a health-check-verified manner, `NewTBState(app, rollback, clusters)` is invoked next. This writes a new `.tbstate` JSON structured text file that records the state of the output of the entire deployment step by step, including timestamps of when things were executed. This _log of record_ is maintained during the runtime of `topobuilder` and is part of the `rollback` functionality. Once the state of the cluster is compiled, it's saved via `state.SaveTo(app.stateFile)` before `app.DeploymentSummary(startedAt, clusters)` is called to render a summary of the deployment to STDOUT.
 
 ## Why I Built This
 
-A front-end landing page — a basic PHP website with an **RDS**-connected database — is the perfect contender for `topobuilder`. It allows **spot instances** to be selected in the configuration so a campaign can run for a fraction of the cost. If you're serving thousands of clients across a large cluster, you can fly first class for a premium; you might call that Kubernetes or ECS. I built the budget Spirit Airlines alternative. Yes, `topobuilder` truly is _Spirit Airlines_ 🤫. No seat recline, gets you there, costs a quarter as much.
+Front end landing pages like a basic PHP website that uses an **RDS** connected database are the perfect contender for `topobuilder`. It allows for **spot instances** to be selected in the configuration, and a campaign to be executed for a FRACTION OF THE COST. Ultimately — if you have a large cluster of instances serving thousands of clients, you can do it in the first class cabin for a premium. You might call that Kubernetes or Elastic Container Service (ECS). I built the budget Spirit Airlines alternative. Yes, `topobuilder` truly is like _Spirit Airlines_ 🤫 — no seat recline, gets you there, costs a quarter as much.
 
-That's also the honest answer when someone asks _what do you know about Kubernetes_. I know enough to understand the _tax_ associated with its operations, and enough to explain to EVPs and CTOs what each option actually costs them. `topobuilder` was built in a single month and delivered for a major launch, and OPEX dropped dramatically because of it. When I interview with your company, I am interviewing _you_ just as much as _you are interviewing me_ — and this is the kind of tradeoff I want to be talking about in that room.
+That's also my honest answer when someone asks _what do you know about Kubernetes_. I know enough to understand the _tax_ associated with its operations, and enough to explain to EVPs and CTOs what each option actually gives them and what it costs. `topobuilder` was built in a single month and delivered for a major launch. OPEX dropped dramatically because of it. When I interview with your company, I am interviewing _you_ just as much as _you are interviewing me_ — it goes both ways — and this is exactly the kind of tradeoff I want to be talking about in that room.
 
-## What I Skipped
+I'm talking about it now because it was super cool to build. The source stays closed — the use case is narrow enough that releasing it wouldn't serve anyone, and it was built two years ago and _has not been updated since_. It hasn't needed updating. ❤️‍🔥 For now 😏🤫. But how I built the configuration and the provisioners themselves are the meat and potatoes I'm offering for your reading time this Wednesday in July.
 
-This piece is deliberately partial. Here's the map of what's missing, so the gaps are visible rather than accidental:
-
-- **How `BuildImage` actually pulls a live cPanel site into a reproducible image.** The hardest part of the whole binary, and the most site-specific.
-- **The rollback design.** The scaffolding is threaded through every step in `Run()`; the execution is the `TODO` you can see in the code. I'd rather discuss why it's unimplemented than pretend it isn't.
-- **The Wazuh provisioner** and what DevSecOps monitoring costs you at provisioning time.
-- **How 9 regions collapses from 36 minutes to 12**, and where the API rate limits bite when you turn that dial.
-- **The full `Validate` chain** — roughly 170 lines of `config.go` coordinating a dependency graph across a dozen config structs.
-- **The rough edges I already know about**: `ConfigureNetwork` is the only step in `Run()` that warns instead of fatals, `LoadConfigs` promises an error return it never delivers, and the `sync.Cond` waits want predicate loops.
-
-Those are the conversations I'd rather have in person than pad this article with.
+Alongside that, [The Library](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) still needs contributions despite being [Locked In With AI](https://dev.to/andreimerlescu/locked-in-with-ai-5g60), and Applicant Tracking Systems continue to do what they've done to the [interviewing market](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k). A single `topobuilder` config file can run a few hundred lines, and its syntax is legible directly from the structs above — which is also why AI-powered documentation systems digest this application so effectively.
 
 ## Conclusion
 
-I've been writing software for 17 years, since graduating as a **Computer Engineer** and running the IEEE Student Branch I joined as a widdle freshman. At Cisco and Oracle, much of my career was closed source and off limits. After the pandemic I wanted to give selflessly without expecting anything back — that's why I wrote [Project Apario](https://github.com/ProjectApario) as a three-binary trinity: [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer), and [search](https://github.com/ProjectApario/search).
+I've been writing software for 17 years, since graduating college as a **Computer Engineer** and running the IEEE Student Branch I joined as a widdle freshman. At Cisco and Oracle, much of my career was closed source and off limits. After the pandemic, I wanted to give selflessly without expecting anything in return. That's why I wrote [Project Apario](https://github.com/ProjectApario) into a three binary trinity called [reader](https://github.com/ProjectApario/reader), [writer](https://github.com/ProjectApario/writer) and [search](https://github.com/ProjectApario/search).
 
-When the client brought me the problem statement that became `topobuilder`, I told them I had built complex software in Go from start to finish that shipped into production and stayed stable for months with minimal maintenance. They extended trust, and I spent a month building it. It combined years of deploying multi-region architectures by hand — all the manual work that automation has to reproduce before anyone will believe it.
+When the problem statement was made by the client that requested `topobuilder`, I assured them that **I have built complex software in Go from start to finish that is stable and shipped into production for months with minimal updates needed for maintenance** — and then, with their _trust_, I built `topobuilder` over a single month. It combined many years of experience deploying multi-region architectures and all the manual work involved in getting any of those automated systems to actually work. I wanted to build something that could go from start to finish in a way I understood top to bottom. `topobuilder` was the result.
 
-One number surprised me. Text analysis of the repository turned up roughly 72,000 words of source resolving to about 4,800 unique ones — an average of 15 repetitions each. That isn't mysticism, it's what a small pattern language looks like from the outside: `Validate(*Application)` on every config type, `<Utility>Provisioner` for every contract, `Provisioner<Utility>` for every implementation, the same capability verbs on every host. It's also exactly why AI documentation tooling digests this codebase so easily — once you've seen a pattern three times, you've seen all fifteen instances of it. A single config file runs a few hundred lines, and its syntax is legible directly from the structs.
+One number surprised me. When I ran text analysis against the repository, out of roughly 72,000 words of source there were only about 4,800 unique ones — an average of 15 repetitions each. That's not mystery, it's what a small pattern language looks like from the outside: `Validate(*Application)` on every config type, `<Utility>Provisioner` for every contract, `Provisioner<Utility>` for every implementation, the same capability verbs on every host. Once you've seen the pattern three times, you've seen all fifteen instances of it. 🤣
 
-The source stays closed. The ideas don't have to be. It was built two years ago and hasn't needed an update since, which is its own kind of argument — and the parts worth stealing are the config validation pattern and the provisioner capability interfaces, both of which are above in full.
+There's plenty I've left out here — how `BuildImage` turns a live cPanel site into a reproducible image, where the rollback design is headed, how nine regions collapse from 36 minutes to 12. Those are better conversations than paragraphs, and I'm always glad to have them.
 
-If you've read this far and want to argue about the `sync.Cond` block, or ask what a `defer` statement does, I'm around.
+The source stays closed. The ideas don't have to be — the config validation pattern and the provisioner capability interfaces are above in full, and they're yours to take. Twelve minutes, one YAML file, three regions, one binary I understand top to bottom.
