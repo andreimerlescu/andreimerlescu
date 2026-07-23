@@ -24,7 +24,7 @@ For 8 base hours + 10 additional hours of time with 1 hour after-hours for an in
 |:-----|:-----:|-----:|---------:|-----:|
 | 8hr Minimum Engagement | 1 | $1,000 | $1,000 | Included 8 hours base... |
 | Extra Consulting Services | 50 | $40 | $2,000 | ...extra 10 hours of labor... |
-| After-hours fee | 1 | $120 | $120 | ...the initial wake up... |
+| After-hours fee | 1 | $120 | $120 | ...the initial wake up call... |
 | After-hours Services | 5 | $80 | $400 | ...plus the incident from Thursday night... |
 | &nbsp; | &nbsp; | **Total** | **$3,520** | ... once sent _Services Paused Until Paid_ |
 
