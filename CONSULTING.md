@@ -29,23 +29,6 @@ For 8 base hours + 10 additional hours of time with 1 hour after-hours for an in
 
 > **FYI:** 12-min = 1 unit ; 5 units = 1 hour
 
-
---- 
-
-## Incident Response
-
-| Company | Incident | Response | Solution |
-|---------|----------|----------|----------|
-| [Cisco Systems](https://cisco.com) | SVN Repo Corruption | Restoration of SVN Repo &amp; Migration to Git | Organizational Stability for Decades in Source Control Version Management |
-| [Oracle](https://oracle.com) | 80% Release Success = 1 in 5 fail in 🔴🔵 deployments | Post Mortem Analysis &amp; _Own Without Ego_ meant understanding the 5 W's to WIN | 99.9%+ Success Rate In OCI Deployments | 
-| [WB Games](https://wbgames.com) | P4 Cluster Corruption In AWS | Restored Cluster &amp; Built Automation Tooling Protecting Infrastructure | Long Term Perforce Stability |
-
----
-
-## Crisis Responses
-
-In several engagements I've served as the sole responder and then team leader for ransomware attacks and zero-day recovery incidents under confidentiality. As recently as late 2025 I provided this service. Response time and discretion are non-negotiable. Services are $80 per 12 minutes for emergency response services performed between 11PM-6AM EST. Services rendered from 6AM to 11PM that are emergency / crisis responses are billed $60 per 12 minutes.
-
 ### When you want to learn more information
 
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
