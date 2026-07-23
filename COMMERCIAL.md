@@ -2,15 +2,7 @@
 
 # Commercial Services
 
-My primary service is business to business consulting, but I do have [sovereign](https://lemmingsaas.com) for sale that is provided on a commercial basis. It's built on top of [lemmings](https://github.com/andreimerlescu/lemmings) and runs in a private **SaaS**. 
-
-## Sovereign As A Service
-
-[LemmingSaaS.com](https://lemmingsaas.com) provides a subscription service to developers priced at $99/year/developer (team discounts of 10+ at $70/year/developer ; 100+ at $50/year/developer ; 101+ $36/year/developer) **plus usage**. The service allows you to launch a private source project called [sovereign](https://lemmingsaas.com) that will run [lemmings](https://github.com/andreimerlescu/lemmings) in multiple cloud environments including **OpenStack | OVH**, **DigitalOcean | DO** and **Amazon Web Services | AWS** in multi-region deployments that include top to bottom networking in-and-out of the runtime environment of the test. Each _host_ is known as a **planet** and each planet has `-terrain` (i.e. unnamed landmasses aka _continents_) that has _lemmings_ inside of them. That binary gets executed, tests get collected and then [Sovereign](https://lemmingsaas.com) aggregates the results into a dashboard that runs during the test on `https://localhost:4000/dashboard`. 
-
-Before you spend $50,000 on a commercial where you're going to send traffic to your bare metal service or even your cloud service, give it a legitimate go through [LemmingSaaS.com](https://lemmingsaas.com) and see what _you can load test_. 
-
-If you want to use [Sovereign](https://lemmingsaas.com) then go to [LemmingSaaS.com](https://lemmingsaas.com) and sign up for a developer account. The sign up process is easy. 
+I do not offer commercial services in the classic sense. I am available for hire in a [consulting](CONSULTING.md) capacity if you're interested.  
 
 ### When you want to learn more information
 
