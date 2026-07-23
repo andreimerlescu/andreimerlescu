@@ -1,6 +1,6 @@
 <h1>Hey There 👋🏻 </h1>
 
-<h3>I'm Andrei!</h3>
+<h3>I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)</h3>
 
 **Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
 21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
