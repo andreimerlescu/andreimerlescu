@@ -18,7 +18,7 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [IS-BE.md](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
-| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage and built a legacy for myself without asking _you_ to feel sorry for me. |
+| **THIS PAGE** [DISABILITY.md](/DISABILITY.md) | I survived a Romanain Orphanage. |
 
 \- \[ [&larr; Previous Page](/PERSONAL.md) \] &middot; \[ **DISABILITY** \] &middot; \[ _Last Page_ \] -
 
