@@ -1,6 +1,6 @@
 \- \[ [&larr; Previous Page _Consulting_](/CONSULTING.md) \] &middot; \[ **PROJECTS** \] &middot; \[ [Next Page _Open Source_ &rarr;](/OPENSOURCE.md) \] -
 
-# Free Applications
+# Projects
 
 I have been blessed with decades of professional employment in the **Big Tech** industry and have since decided that while most of my professional contributions can never have their source code see the light of day, here is a _suite_ of applications that _I built for you_. That's why they are free. Literally, sow where you want to reap. By using these tools, you reap the rewards and benefits that I learned over decades of professional experience. Many of them look like _why this idea?_ and others are _oh i see how this could be used in continous integration pipelines_ and then it **all clicks**. 
 
