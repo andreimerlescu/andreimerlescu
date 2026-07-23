@@ -1,5 +1,7 @@
 In 2024, I built a piece of software called `topobuilder` in Go. I've referenced it in interviews often enough that it deserves a public page to point at — so here's what it is and how I built it, told through fragments of a closed-source codebase.
 
+![Topobuilder](IMG_4239.jpeg)
+
 **What Is Topobuilder?**
 
 `topobuilder` is a **go binary** that runs off a single **YAML** configuration file that defines an existing PHP website hosted on a cPanel server. The defaults assume that any database connectivity is going to be performed over **RDS** or _another remote connection_. What you're doing is going from a _single region_ into a **multi-region load balanced** containerized application. It takes about 12-36 minutes to deploy a 3-6-9 region cluster with an HAProxy load balancer. 3 regions is 12 minutes; 9 regions defaults to 36 minutes but can also be 12 minutes by adjusting the configuration — though this increases concurrency load and may result in rate limiting from the API utility.
