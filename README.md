@@ -34,7 +34,7 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 ### Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
 | Title | Reaction | Date | Length | &nbsp; |
-|-------|----------|------|--------|--------|
+|:------|:--------:|:----:|:------:|-------:|
 | Sovereign Lemmings Released | `1 ❤️‍🔥` | 7-22-2026 | 2 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l) | 
 | When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
 | I Put Rust To The Test | - | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
