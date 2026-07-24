@@ -6,27 +6,6 @@
 21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
 Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Neurodivergent
 
-I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow. 
-
-I am a **Computer Engineer** which means that I spent my college years building electric circuits and programming hardware microcontrollers for embedded technologies and robotics.  I'm not a _computer science_ engineer and nor was I trained in that profession. I always viewed **Computer _Engineering_** to be _harder than **Computer Science**_. In 2026, the profession of _software engineering_ has been supplemented with AI powered **Computer Engineering**!
-
-I project myself professionally, love teaching others and especially building systems that solve complex problems. I support **women in tech** and volunteered as an instructor for RailsGirlsRDU 2014. I helped coach a grou of ambitious women who wanted to learn programming by building `rails new twitter` clone and making it their own. I have demonstrated a talent for teaching since childhood including a _teaching assistant_ in college. 
-
-Diversity is important. Diversity of thought. Diversity of culture. Diversity of backgrounds. I survived Ceaușescu's orphanages in Romania and have spent my entire career collaborating with people from around the world on various technical challenges. I reject _monoculture_ and _egotism_. 
-
-Every company that I have professionally worked with has **called me**. _They sought me out and I chose them._ I am forward thinking, business oriented, and conscious of time and money being spent. I **own without ego** and I aspire for **engineering excellency** in everything that I work on - whether its process oriented or technical in nature. _Just because you may get to interview me, does not mean that you may get to work with me. I need to interview **your company too**._
-
-I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) that is available to read _here for free_ if you are interested. It's about my dog named Klaus. I enjoy writing and have a speciality in effective documentation communication. Some recommended reading from me includes: [When AI Creates A Closed Source World](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin), [Five Hours Interviewing, Zero Questions About The Job](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) and [Topobuilder brings a cPanel website into an AWS multi-region containerized application with an HAProxy load balancer](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa).
-
-I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that simple and I won't bite. 
-
-| Service | Since | Notes |
-|---------|-------|-------|
-| KoFi Project Apario | 2020 | [Give Now &rarr;](https://ko-fi.com/projectapario) |
-| Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
-| YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
-| GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
-
 ### Skill Table
 
 > **Programming Capabilities:** `Go`, `Rust`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`
@@ -47,6 +26,26 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 > | 🥉 | German | Beginner Conversationalist since 2009 |
 > | 4th | French | Non-functional from 7 Years from Public School |
 
+I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow. 
+
+I am a **Computer Engineer** which means that I spent my college years building electric circuits and programming hardware microcontrollers for embedded technologies and robotics.  I'm not a _computer science_ engineer and nor was I trained in that profession. I always viewed **Computer _Engineering_** to be _harder than **Computer Science**_. In 2026, the profession of _software engineering_ has been supplemented with AI powered **Computer Engineering**!
+
+I project myself professionally, love teaching others and especially building systems that solve complex problems. I support **women in tech** and volunteered as an instructor for RailsGirlsRDU 2014. I helped coach a grou of ambitious women who wanted to learn programming by building `rails new twitter` clone and making it their own. I have demonstrated a talent for teaching since childhood including a _teaching assistant_ in college. 
+
+Diversity is important. Diversity of thought. Diversity of culture. Diversity of backgrounds. I survived Ceaușescu's orphanages in Romania and have spent my entire career collaborating with people from around the world on various technical challenges. I reject _monoculture_ and _egotism_. 
+
+Every company that I have professionally worked with has **called me**. _They sought me out and I chose them._ I am forward thinking, business oriented, and conscious of time and money being spent. I **own without ego** and I aspire for **engineering excellency** in everything that I work on - whether its process oriented or technical in nature. _Just because you may get to interview me, does not mean that you may get to work with me. I need to interview **your company too**._
+
+I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) that is available to read _here for free_ if you are interested. It's about my dog named Klaus. I enjoy writing and have a speciality in effective documentation communication. Some recommended reading from me includes: [When AI Creates A Closed Source World](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin), [Five Hours Interviewing, Zero Questions About The Job](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) and [Topobuilder brings a cPanel website into an AWS multi-region containerized application with an HAProxy load balancer](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa).
+
+I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that simple and I won't bite. 
+
+| Service | Since | Notes |
+|---------|-------|-------|
+| KoFi Project Apario | 2020 | [Give Now &rarr;](https://ko-fi.com/projectapario) |
+| Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
+| YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
+| GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
 
 ### Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
