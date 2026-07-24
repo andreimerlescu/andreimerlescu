@@ -40,10 +40,13 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 > **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`
 >
 > **Speech Capabilities:**
-> -       `Born into Romanian Orphanage = First Language`
-> -              `Native Fluent English = Second Language`
-> - `Intermediate Conversational German = Third Language`
-> -          `Studied 7 Years of French = Fourth Language`
+> | Rank | Language | Level |
+> |------|:--------:|------:|
+> | 🥇 | Romanian | No Speech Development Access In Orphanage for first 843 days |
+> | 🥈 | English | Native Fluent after 843 days to today |
+> | 🥉 | German | Beginner Conversationalist since 2009 |
+> | 4th | French | Non-functional from 7 Years from Public School |
+
 
 ### Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
