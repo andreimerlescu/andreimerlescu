@@ -22,7 +22,7 @@
 >
 > **Database Technologies:**
 > - 🥇 `MongoDB`
-> - 🥈 `PostgreSQL
+> - 🥈 `PostgreSQL`
 > - 🥉 `MariaDB | MySQL`
 > - `Redis`
 >
