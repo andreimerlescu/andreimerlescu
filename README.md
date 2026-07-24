@@ -25,8 +25,17 @@
 > - 🥉 `MariaDB | MySQL`
 > - `Redis`
 >
+> **Automation Technologies:**
+> - `Terraform`
+> - `Ansible`
+> - `Chef`
+> - `Puppet`
+> - `AWS Cloud Formation`
+> - `Shell Scripting`
+> - [Topobuilder](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa)
+> 
 > **Cloud Platforms:**
-> - 🥇 `AWS`
+> - 🥇 `AWS` 
 > - 🥈 `VMWare ESXi | vCenter | vSphere`
 > - 🥉 `OpenStack`
 > - **Strong:** `OCI`, `DigitalOcean`, `Vultr`, `OVH`
