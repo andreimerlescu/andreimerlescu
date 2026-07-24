@@ -6,11 +6,11 @@
 
 **STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
 
-> **Programming Capabilities:** `Go`, `Rust`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`
+> **Programming Capabilities:** 🥇 `Go`, 🥈 `Ruby`, 🥉 `Bash`, `PHP`, `Rust`, `HCL`, `Swift`, `Objective-C`, `C++`, `C#`, `Python`, `Perl`, `JavaScript`, `TypeScript`
 >
-> **Operating Systems:** `Linux`, `macOS`, `Windows`
+> **Operating Systems:** 🥇 `Linux`, 🥈 `macOS`, 🥉 `Windows`
 >
-> **Database Technologies:** `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `MariaDB`
+> **Database Technologies:** 🥇 `MongoDB`, 🥈 `PostgreSQL`, 🥉 `MariaDB | MySQL`, `Redis`
 >
 > **Cloud Platforms:** `AWS`, `OCI`, `GCP`, `OpenStack`, `VMWare ESXi | vCenter | vSphere`
 >
@@ -40,7 +40,6 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 
 | Service | Since | Notes |
 |---------|-------|-------|
-| KoFi Project Apario | 2020 | [Give Now &rarr;](https://ko-fi.com/projectapario) |
 | Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
 | YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
 | GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
