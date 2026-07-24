@@ -10,35 +10,44 @@
 > - 🥇 **First:** `Go` 👉🏻 `Ruby on Rails` 👉🏻 `PHP`
 > - 🥈 **Second:** `Bash` 👉🏻 `JavaScript` 👉🏻 `Markdown`
 > - 🥉 **Third:** `TypeScript` 👉🏻 `Rust` 👉🏻 `Python`
-> - **Intermediate:** `C++` 👉🏻 `C#` 👉🏻 `Perl`
+> - **Intermediate:** `C++` 👉🏻 `C#` 👉🏻 `Perl` 👉🏻 `Groovy on Grails`
+> - **Honorary:** `CSS` 👉🏻 `HTML` 👉🏻 `ActionScript` 👉🏻 `AppleScript`
 > - **Exploratory:** `Swift` 👉🏻 `Objective-C` 👉🏻 `C`
 > - _+ any other language with the participation of AI_
 >
 > **Operating Systems:**
-> - 🥇 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora_)
-> - 🥈 `macOS` (_MacOS 7 through macOS 26_)
-> - 🥉 `Windows` (_Windows XP through Windows 11_)
+> - 🥇 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_)
+> - 🥈 `macOS` (_MacOS 7 through macOS 26 - Since 1995_)
+> - 🥉 `Windows` (_Windows XP through Windows 11 - Since 2005_)
 >
 > **Database Technologies:**
-> - 🥇 `MongoDB`
-> - 🥈 `PostgreSQL`
-> - 🥉 `MariaDB | MySQL`
-> - `Redis`
+> - 🥇 `MongoDB` (_Since 2011_)
+> - 🥈 `PostgreSQL` (_Since 2022_)
+> - 🥉 `MariaDB | MySQL` (_Since 2004_)
+> - `Redis` (_Since 2007_)
+> - `Hashicorp Vault` (_Since 2020_)
 >
 > **Automation Technologies:**
-> - `Terraform`
-> - `Ansible`
-> - `Chef`
-> - `Puppet`
-> - `AWS Cloud Formation`
-> - `Shell Scripting`
-> - <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a>
+> - `Terraform` (_Since 2017_)
+> - `Ansible` (_Since 2012_)
+> - `Chef` (_Since 2016_)
+> - `Puppet` (_Since 2012_)
+> - `AWS Cloud Formation` (_Since 2021_)
+> - `Shell Scripting` (_Since 2009_)
+> - <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a> (_Since 2024_)
 >
 > **Security Technologies:**
 > - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
-> - `Networking` 👉🏻 `Cisco`, `Fortinet`
+> - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`
 > - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`
 > - `Monitoring` 👉🏻 `Wuzah`, `DataDog`, `Sentry`, `Rollbar`
+> - `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
+> - `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
+> 
+> **Business Processes:**
+> - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001, 270001, 14001` (2009-2013)
+> - `Certifications` 👉🏻 `Magento Certified Developer`, `Mirantis OpenStack Administrator`
+> - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
 > 
 > **Cloud Platforms:**
 > - 🥇 `VMWare ESXi | vCenter | vSphere`
