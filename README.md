@@ -32,13 +32,19 @@
 > - `Puppet`
 > - `AWS Cloud Formation`
 > - `Shell Scripting`
-> - [Topobuilder](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa)
+> - <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a>
+>
+> **Security Technologies:**
+> - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
+> - `Networking` 👉🏻 `Cisco`, `Fortinet`
+> - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`
+> - `Monitoring` 👉🏻 `Wuzah`, `DataDog`, `Sentry`, `Rollbar`
 > 
 > **Cloud Platforms:**
-> - 🥇 `AWS` 
-> - 🥈 `VMWare ESXi | vCenter | vSphere`
-> - 🥉 `OpenStack`
-> - **Strong:** `OCI`, `DigitalOcean`, `Vultr`, `OVH`
+> - 🥇 `VMWare ESXi | vCenter | vSphere`
+> - 🥈 `OCI` | `AWS`
+> - 🥉 `OpenStack` | `OVH`
+> - **Strong:** `Bare Metal`, `DigitalOcean`, `Vultr`, `Azure`, `ECS`
 > - **Intermediate:** `GCP`, `Kubernetes`, `Docker Swarm`
 > - **Novice:** `Rancher`, `Firecracker`
 >
@@ -50,7 +56,7 @@
 > | 🥉 | German | Beginner Conversationalist since 2009 |
 > | 4th | French | Non-functional from 7 Years from Public School |
 >
-> **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`
+> **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`
 
 ## PROFESSIONAL SUMMARY
 
