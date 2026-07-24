@@ -6,9 +6,19 @@
 
 **STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
 
-> **Programming Capabilities:** 🥇 `Go`, 🥈 `Ruby`, 🥉 `Bash`, `PHP`, `Rust`, `HCL`, `Swift`, `Objective-C`, `C++`, `C#`, `Python`, `Perl`, `JavaScript`, `TypeScript`
+> **Programming Capabilities:**
+> - 🥇 `Go`
+> - 🥈 `Ruby`
+> - 🥉 `Bash`
+> - **Strong:** `PHP`, `JavaScript`, `TypeScript`
+> - **Intermediate:** `Rust`,`C++`, `C#`,`Python`, `Perl`
+> - **Novice:** `HCL`, `Swift`, `Objective-C`,
+> - _+ any other language with the participation of AI_
 >
-> **Operating Systems:** 🥇 `Linux`, 🥈 `macOS`, 🥉 `Windows`
+> **Operating Systems:**
+> - 🥇 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora_)
+> - 🥈 `macOS` (_MacOS 7 through macOS 26_)
+> - 🥉 `Windows` (_Windows XP through Windows 11_)
 >
 > **Database Technologies:** 🥇 `MongoDB`, 🥈 `PostgreSQL`, 🥉 `MariaDB | MySQL`, `Redis`
 >
