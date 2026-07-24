@@ -35,7 +35,7 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 
 | Title | Reaction | Date | Length | &nbsp; |
 |-------|----------|------|--------|--------|
-| Sovereign Lemmings Released | - | 7-22-2026 | 2 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l) | 
+| Sovereign Lemmings Released | `1 ❤️‍🔥` | 7-22-2026 | 2 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l) | 
 | When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
 | I Put Rust To The Test | - | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
 | Locked In With AI  | - | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
@@ -43,12 +43,12 @@ Introduce yourself, tell me what you're working on, tell me what you need my hel
 | AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | - | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
 | Go Concurrency in Rust | `2 ❤️‍🔥` | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) | 
 | The Day I Stopped Asking Strangers for My IP | `2 ❤️‍🔥` | 7-21-2026 | 11 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og) |
-| Five Hours Of Interviewing <br>&nbsp;&nbsp;&nbsp;<em>Zero Questions About The Job</em>  | `1 ❤️‍🔥` | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
+| Five Hours Of Interviewing <br>&nbsp;&nbsp;&nbsp;<em>Zero Questions About The Job</em>  | `2 ❤️‍🔥` | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
 | goenv: Taming .env Files in Your DevOps Pipeline | `1 🙌🏻` | 4-30-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/goenv-taming-env-files-in-your-devops-pipeline-15pn) |
 | Rust Decorators for Go Developers | - | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
-| Topobuilder brings a cPanel website into an<br>&nbsp;&nbsp;&nbsp;AWS multi-region containerized application<br>&nbsp;&nbsp;&nbsp;with an HAProxy load balancer | `1 ❤️‍🔥` | 7-22-2026 | 18 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa) |
-| Go To Do Rust  | `2 ❤️‍🔥` | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
-| Implementing Go+Gin Style Middleware in Rust | `1 ❤️‍🔥` | 6-4-2026 | 39 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
+| Topobuilder brings a cPanel website into an<br>&nbsp;&nbsp;&nbsp;AWS multi-region containerized application<br>&nbsp;&nbsp;&nbsp;with an HAProxy load balancer | `2 ❤️‍🔥` | 7-22-2026 | 18 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa) |
+| Go To Do Rust  | `3 ❤️‍🔥` | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
+| Implementing Go+Gin Style Middleware in Rust | `2 ❤️‍🔥` | 6-4-2026 | 42 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
 | Basement or Bunker Water Monitor System | - | 6-3-2026 | 114 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij) |
 
 ### When you want to learn more information
