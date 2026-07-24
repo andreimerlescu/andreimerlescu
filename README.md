@@ -16,8 +16,8 @@
 > - _+ any other language with the participation of AI_
 >
 > **Operating Systems:**
-> - 🥇 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_)
-> - 🥈 `macOS` (_MacOS 7 through macOS 26 - Since 1995_)
+> - 🥇 `macOS` (_MacOS 7 through macOS 26 - Since 1995_) 
+> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_)
 > - 🥉 `Windows` (_Windows XP through Windows 11 - Since 2005_)
 >
 > **Database Technologies:**
