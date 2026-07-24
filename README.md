@@ -1,12 +1,10 @@
-<h1>Hey There 👋🏻 </h1>
+## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)
 
-<h3>I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)</h3>
+**I'm a:** 21+ Year Professional · Entrepreneur · Neurodivergent · Polyglot
 
-**Platform Engineer · Infrastructure Architect · Application Engineer · Software Developer** <br/>
-21+ Year Professional · Go | Rust · Terraform · OCI|AWS · Release Management · CI/CD · DevOps<br/>
-Entrepreneurship · Engineering Excellency · _Own Without Ego_ · Women In Tech · Neurodivergent
+## Skill Table
 
-### Skill Table
+**STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
 
 > **Programming Capabilities:** `Go`, `Rust`, `Ruby`, `Bash`, `PHP`, `HCL`, `Swift`, `C++`
 >
