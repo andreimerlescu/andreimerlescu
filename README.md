@@ -7,12 +7,11 @@
 **STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
 
 > **Programming Capabilities:**
-> - 🥇 `Go`
-> - 🥈 `Ruby`
-> - 🥉 `Bash`
-> - **Strong:** `PHP`, `JavaScript`, `TypeScript`
-> - **Intermediate:** `Rust`,`C++`, `C#`,`Python`, `Perl`
-> - **Novice:** `HCL`, `Swift`, `Objective-C`,
+> - 🥇 **First:** `Go` 👉🏻 `Ruby on Rails` 👉🏻 `PHP`
+> - 🥈 **Second:** `Bash` 👉🏻 `JavaScript` 👉🏻 `Markdown`
+> - 🥉 **Third:** `TypeScript` 👉🏻 `Rust` 👉🏻 `Python`
+> - **Intermediate:** `C++` 👉🏻 `C#` 👉🏻 `Perl`
+> - **Exploratory:** `Swift` 👉🏻 `Objective-C` 👉🏻 `C`
 > - _+ any other language with the participation of AI_
 >
 > **Operating Systems:**
