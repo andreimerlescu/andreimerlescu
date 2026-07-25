@@ -1,7 +1,7 @@
 # Andrei Merlescu
 **Principal Software Architect | Platform Engineer | Infrastructure Engineer**
 
-andrei@merlescu.net | github.com/andreimerlescu | Remote
+andrei@merlescu.net | github.com/andreimerlescu | [dev.to/andreimerlescu](https://dev.to/andreimerlescu) | Remote
 
 ---
 
