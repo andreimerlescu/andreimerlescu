@@ -38,11 +38,13 @@
 >
 > **Security Technologies:**
 > - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
-> - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`
-> - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`
+> - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN` 
+> - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
+> - `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
 > - `Monitoring` 👉🏻 `Wuzah`, `DataDog`, `Sentry`, `Rollbar`
 > - `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
 > - `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
+> - `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
 > 
 > **Business Processes:**
 > - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001, 270001, 14001` (2009-2013)
@@ -50,12 +52,20 @@
 > - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
 > 
 > **Cloud Platforms:**
-> - 🥇 `VMWare ESXi | vCenter | vSphere`
-> - 🥈 `OCI` | `AWS`
-> - 🥉 `OpenStack` | `OVH`
-> - **Strong:** `Bare Metal`, `DigitalOcean`, `Vultr`, `Azure`, `ECS`
-> - **Intermediate:** `GCP`, `Kubernetes`, `Docker Swarm`
-> - **Novice:** `Rancher`, `Firecracker`
+> - 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_)
+> - 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_)
+> - 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_)
+> - **Strong:** `Bare Metal` (_Since 2005_), `DigitalOcean` (_Since 2017_), `Vultr` (_Since 2020_), `Azure` (_Since 2022_)
+> - **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
+> - **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
+>
+> **Cloud Technologies:**
+> - `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS`
+> - `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog`
+> - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
+> - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
+> - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Tagia`, `Gerrit`
+> - **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
 >
 > **Speech Capabilities:**
 > | Rank | Language | Level |
@@ -65,7 +75,7 @@
 > | 🥉 | German | Beginner Conversationalist since 2009 |
 > | 4th | French | Non-functional from 7 Years from Public School |
 >
-> **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`
+> **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`, `Data Warehouse`, `OSINT`, `Open Source Intelligence`, `Internet Intelligence`, `Email Delivery`, `DNS`, `BGP`, `DHCP`, `WAN`, `LAN`, `TCP/IP`
 
 ## PROFESSIONAL SUMMARY
 
