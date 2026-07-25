@@ -25,6 +25,7 @@
 > - 🥈 `PostgreSQL` (_Since 2022_)
 > - 🥉 `MariaDB | MySQL` (_Since 2004_)
 > - `Redis` (_Since 2007_)
+> - `SQLite` (_Since 2008_)
 > - `Hashicorp Vault` (_Since 2020_)
 >
 > **Automation Technologies:**
