@@ -47,7 +47,7 @@
 > - `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
 > 
 > **Business Processes:**
-> - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001, 270001, 14001` (2009-2013)
+> - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001` (2009-2013)
 > - `Certifications` 👉🏻 `Magento Certified Developer`, `Mirantis OpenStack Administrator`
 > - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
 > 
