@@ -102,7 +102,7 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
-I enjoy writing and have earned recongition for having a speciality in effective documentation communication. 
+I enjoy writing and have [earned recongition](IMG_1575.jpeg) for having a speciality in effective documentation communication. 
 
 | Title | Reaction | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
