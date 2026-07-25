@@ -42,7 +42,7 @@
 > - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN` 
 > - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
 > - `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
-> - `Monitoring` 👉🏻 `Wuzah`, `DataDog`, `Sentry`, `Rollbar`
+> - `Monitoring` 👉🏻 `Wazuh`, `DataDog`, `Sentry`, `Rollbar`
 > - `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
 > - `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
 > - `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
@@ -65,7 +65,7 @@
 > - `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog`
 > - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
 > - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
-> - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Tagia`, `Gerrit`
+> - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
 > - **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
 >
 > **Speech Capabilities:**
