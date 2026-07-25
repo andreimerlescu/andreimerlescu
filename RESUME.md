@@ -7,31 +7,33 @@ andrei@merlescu.net | github.com/andreimerlescu | [dev.to/andreimerlescu](https:
 
 ## Professional Summary
 
-Principal-level software architect and infrastructure engineer with 17+ years of experience designing and operating enterprise-grade systems at scale. Proven record of delivering measurable cost savings, reliability improvements, and architectural transformations at Cisco Systems, Oracle Cloud Infrastructure, and multiple technology organizations. Deep expertise in Go, Rust, and infrastructure as code. Specialized experience in multi-cloud architecture, CI/CD pipeline engineering, Perforce at enterprise scale, and AI-integrated development workflows. Experienced leading senior engineering teams and advising VP and C-suite leadership in advanced services environments.
+Principal-level computer engineer, software architect, and infrastructure engineer with 21+ years of professional experience designing and operating enterprise-grade systems at scale. Proven record of delivering measurable cost savings, reliability improvements, and architectural transformations at Cisco Systems, Oracle Cloud Infrastructure, Warner Bros. Games, and multiple technology organizations. Deep expertise in Go, Rust, Ruby, and Infrastructure as Code. Specialized experience in multi-cloud architecture, bare-metal and containerized environments, CI/CD pipeline engineering, enterprise Perforce setups, zero-day incident response, and AI-integrated development workflows. Experienced leading senior engineering teams and advising VP and C-suite leadership in advanced services environments.
 
 ---
 
 ## Core Competencies
 
-**Languages:** Go · Rust · Ruby · Bash · HCL · PHP · C++ · Swift · TypeScript
+**Languages:** Go · Rust · Ruby on Rails · PHP · Bash · TypeScript · Python · C++ · C# · Perl · Swift · C · Shell Scripting
 
-**Cloud & Infrastructure:** AWS · OCI · OpenStack · DigitalOcean · Multi-Cloud Architecture · Multi-Region Deployment
+**Cloud Platforms & Infrastructure:** AWS · OCI · VMware (vSphere / ESXi / vCenter) · OpenStack · Azure · GCP · DigitalOcean · OVH · Vultr · Bare Metal
 
-**Infrastructure as Code:** Terraform · Ansible · Chef · VMware vSphere
+**Containers & Orchestration:** Kubernetes · Docker & Docker Swarm · Podman · Rancher · Firecracker
 
-**CI/CD & Build Systems:** GitHub Actions · TeamCity · Jenkins · Artifactory · Unreal Engine Pipelines
+**Infrastructure as Code & Automation:** Terraform · Ansible · Chef · Puppet · AWS CloudFormation · Topobuilder
 
-**Source Control:** Git · GitHub · GitLab · Gitea · Perforce · Helix Core · P4Transfer
+**Databases, Storage & Assets:** PostgreSQL · MongoDB · Redis · MySQL / MariaDB · SQLite · ClickHouse · HashiCorp Vault · MinIO · QNAP / NAS · Git LFS
 
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis · MariaDB · SQLite
+**CI/CD & Developer Tools:** GitHub Actions · TeamCity · Jenkins · Artifactory · Perforce Helix Core · P4Transfer · GitLab · Gitea · SonarQube · Unreal Engine Pipelines
 
-**Observability:** Grafana · Prometheus · Datadog · Sentry · Ghidra
+**Observability, Telemetry & Debugging:** Grafana · Prometheus · Datadog (APM) · Wazuh · Sentry · Rollbar · Graylog · OpenTelemetry (OTEL) · VictoriaMetrics
 
-**Security & Compliance:** HIPAA · PCI · FedRAMP · SOC · ADA · WAF · Meraki · OpenSSH · SSL · VPN · GPG
+**Security, Networking & Cryptography:** SELinux · Cisco · Fortinet · Meraki · OpenVPN · Firewalls (ufw, firewalld, ModSecurity, ASA) · Secrets Management (AWS Secrets Manager, 1Password API, Keeper API) · Encryption (AES, GnuPG/PGP, ED25519) · TCP/IP · BGP · DNS · DHCP
 
-**AI Integration:** MCP · RAG · Ollama · LMStudio · Local LLM · gollm
+**Compliance & Standards:** PCI-DSS · SOC2 · FedRAMP · ISO 9001 · HIPAA · ADA
 
-**Leadership:** Engineering Team Leadership · VP/CTO Advisory · Disaster Recovery · Release Management · Zero-Day Incident Response
+**AI & Hardware Engineering:** Model Context Protocol (MCP) · Retrieval-Augmented Generation (RAG) · Local LLMs (Ollama, LM Studio) · gollm · Embedded Hardware & Microcontrollers · OSINT
+
+**Leadership & Business Operations:** Engineering Team Leadership · VP/CTO Advisory · Zero-Day Incident Response · Release Management · Disaster Recovery · Entity Structures (LLC, PLLC, S-Corp, 501(c)3, Trust)
 
 ---
 
@@ -134,7 +136,7 @@ IEEE Student Branch President 2007–2010 | Teaching Assistant
 
 ## Certifications
 
-- OpenStack Administrator
+- Mirantis OpenStack Administrator
 - Magento Developer (Certified)
 
 ---
@@ -143,5 +145,6 @@ IEEE Student Branch President 2007–2010 | Teaching Assistant
 
 - **Email:** andrei@merlescu.net
 - **GitHub:** [github.com/andreimerlescu](https://github.com/andreimerlescu)
+- **Dev.to:** [dev.to/andreimerlescu](https://dev.to/andreimerlescu)
 - **Available:** Immediately
 - **Location:** Remote
