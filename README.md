@@ -102,7 +102,7 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
-I enjoy writing and have a speciality in effective documentation communication. Some recommended reading from me includes: [When AI Creates A Closed Source World](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin), [Five Hours Interviewing, Zero Questions About The Job](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) and [Topobuilder brings a cPanel website into an AWS multi-region containerized application with an HAProxy load balancer](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa).
+I enjoy writing and have earned recongition for having a speciality in effective documentation communication. 
 
 | Title | Reaction | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
