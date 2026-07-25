@@ -97,7 +97,6 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 | Service | Since | Notes |
 |---------|-------|-------|
 | Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
-| YouTube | 2016 | [Watch Now &rarr;](https://www.youtube.com/@michaeltrimmshow) | 
 | GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
