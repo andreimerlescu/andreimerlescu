@@ -105,22 +105,22 @@ I enjoy writing and have [earned recongition](IMG_1575.jpeg) for having a specia
 
 | Title | Reaction | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
-| Sovereign Lemmings Released | `2 ❤️‍🔥` | 7-22-2026 | 2 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l) | 
-| When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin) |
-| I Put Rust To The Test | - | 5-21-2026 | 6 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36) | 
-| Locked In With AI  | - | 4-22-2026 | 7 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/locked-in-with-ai-5g60) |
-| Humanized Software Engineering In Era Of AI | - | 4-30-2026 | 9 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i) |
-| AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | - | 4-22-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/updated-last-week-24gc) | 
-| Go Concurrency in Rust | `2 ❤️‍🔥` | 5-21-2026 | 10 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba) | 
-| The Day I Stopped Asking Strangers for My IP | `2 ❤️‍🔥` | 7-21-2026 | 11 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og) |
-| Five Hours Of Interviewing <br>&nbsp;&nbsp;&nbsp;<em>Zero Questions About The Job</em>  | `2 ❤️‍🔥` | 7-17-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k) |
-| goenv: Taming .env Files in Your DevOps Pipeline | `1 🙌🏻` | 4-30-2026 | 13 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/goenv-taming-env-files-in-your-devops-pipeline-15pn) |
-| Rust Decorators for Go Developers | - | 5-22-2026 | 17 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7) | 
-| Topobuilder brings a cPanel website into an<br>&nbsp;&nbsp;&nbsp;AWS multi-region containerized application<br>&nbsp;&nbsp;&nbsp;with an HAProxy load balancer | `3 ❤️‍🔥` | 7-22-2026 | 18 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa) |
-| How I Processed 666K Pages of Flattened<br>&nbsp;&nbsp;&nbsp;PDFs into a Full Text Search Engine | `2 ❤️‍🔥` | 7-24-2026 | 28 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-engine-4db3) |
-| Go To Do Rust  | `3 ❤️‍🔥` | 7-9-2026 | 30 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-to-do-rust-1m7c) | 
-| Implementing Go+Gin Style Middleware in Rust | `2 ❤️‍🔥` | 6-4-2026 | 42 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348) |
-| Basement or Bunker Water Monitor System | - | 6-3-2026 | 114 min read | [Read Now &rarr;](https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij) |
+| Sovereign Lemmings Released | `2 ❤️‍🔥` | 7-22-2026 | 2 min read | <a href="https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | <a href="https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| I Put Rust To The Test | - | 5-21-2026 | 6 min read | <a href="https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| Locked In With AI  | - | 4-22-2026 | 7 min read | <a href="https://dev.to/andreimerlescu/locked-in-with-ai-5g60" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| Humanized Software Engineering In Era Of AI | - | 4-30-2026 | 9 min read | <a href="https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | - | 4-22-2026 | 10 min read | <a href="https://dev.to/andreimerlescu/updated-last-week-24gc" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| Go Concurrency in Rust | `2 ❤️‍🔥` | 5-21-2026 | 10 min read | <a href="https://dev.to/andreimerlescu/go-concurrency-in-rust-45ba" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| The Day I Stopped Asking Strangers for My IP | `2 ❤️‍🔥` | 7-21-2026 | 11 min read | <a href="https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| Five Hours Of Interviewing <br>&nbsp;&nbsp;&nbsp;<em>Zero Questions About The Job</em>  | `2 ❤️‍🔥` | 7-17-2026 | 13 min read | <a href="https://dev.to/andreimerlescu/five-hours-of-interviewing-zero-questions-about-the-job-378k" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| goenv: Taming .env Files in Your DevOps Pipeline | `1 🙌🏻` | 4-30-2026 | 13 min read | <a href="https://dev.to/andreimerlescu/goenv-taming-env-files-in-your-devops-pipeline-15pn" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| Rust Decorators for Go Developers | - | 5-22-2026 | 17 min read | <a href="https://dev.to/andreimerlescu/rust-decorators-for-go-developers-4k7" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| Topobuilder brings a cPanel website into an<br>&nbsp;&nbsp;&nbsp;AWS multi-region containerized application<br>&nbsp;&nbsp;&nbsp;with an HAProxy load balancer | `3 ❤️‍🔥` | 7-22-2026 | 18 min read | <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| How I Processed 666K Pages of Flattened<br>&nbsp;&nbsp;&nbsp;PDFs into a Full Text Search Engine | `2 ❤️‍🔥` | 7-24-2026 | 28 min read | <a href="https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-engine-4db3" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| Go To Do Rust  | `3 ❤️‍🔥` | 7-9-2026 | 30 min read | <a href="https://dev.to/andreimerlescu/go-to-do-rust-1m7c" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> | 
+| Implementing Go+Gin Style Middleware in Rust | `2 ❤️‍🔥` | 6-4-2026 | 42 min read | <a href="https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
+| Basement or Bunker Water Monitor System | - | 6-3-2026 | 114 min read | <a href="https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij" title="Read Now &rarr;" target="_blank">Read Now &rarr;</a> |
 
 ### When you want to learn more information
 
