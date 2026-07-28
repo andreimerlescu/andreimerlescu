@@ -16,9 +16,9 @@
 > - _+ any other language with the participation of AI_
 >
 > **Operating Systems:**
-> - 🥇 `macOS` (_MacOS 7 through macOS 26 - Since 1995_ &mdash; Primary Workstation) 
-> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_ &mdash; Primary Server OS)
-> - 🥉 `Windows` (_Windows XP through Windows 11 - Since 2005_ &mdash; Limited Exposure)
+> - 🥇 `macOS` (_MacOS 7 through macOS 26 &mdash; Since 1995_ &mdash; Primary Workstation) 
+> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora &mdash; Since 2005_ &mdash; Primary Server OS)
+> - 🥉 `Windows` (_Windows XP through Windows 11 &mdash; Since 2005_ &mdash; Limited Exposure)
 >
 > **Database Technologies:**
 > - 🥇 `MongoDB` (_Since 2011_ &mdash; Professionally used at Cisco, Oracle and Beamable)
