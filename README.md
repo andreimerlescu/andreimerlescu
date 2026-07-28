@@ -23,7 +23,7 @@
 > **Database Technologies:**
 > - 🥇 `MongoDB` (_Since 2011_ &mdash; Professionally used at Cisco, Oracle and Beamable)
 > - 🥈 `PostgreSQL` (_Since 2022_ &mdash; Professionally used at Cisco, Oracle and SurgePays)
-> - 🥉 `MariaDB | MySQL` (_Since 2004_ &mdash; Professional engineered solutions since S&amp;W Publishing)
+> - 🥉 `MariaDB | MySQL` (_Since 2004_ &mdash; Professionally engineered solutions since S&amp;W Publishing)
 > - `Redis` (_Since 2007_ &mdash; Professionally engineered solutions since Project Apario)
 > - `SQLite` (_Since 2008_ &mdash; Professionally engineered solutions at Cisco)
 > - `Hashicorp Vault` (_Since 2020_ &mdash; Professionally engineered solutions at Oracle)
