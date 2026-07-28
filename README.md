@@ -16,25 +16,25 @@
 > - _+ any other language with the participation of AI_
 >
 > **Operating Systems:**
-> - 🥇 `macOS` (_MacOS 7 through macOS 26 - Since 1995_) 
-> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_)
-> - 🥉 `Windows` (_Windows XP through Windows 11 - Since 2005_)
+> - 🥇 `macOS` (_MacOS 7 through macOS 26 - Since 1995_ &mdash; Primary Workstation) 
+> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora - Since 2005_ &mdash; Primary Server OS)
+> - 🥉 `Windows` (_Windows XP through Windows 11 - Since 2005_ &mdash; Limited Exposure)
 >
 > **Database Technologies:**
-> - 🥇 `MongoDB` (_Since 2011_)
-> - 🥈 `PostgreSQL` (_Since 2022_)
-> - 🥉 `MariaDB | MySQL` (_Since 2004_)
-> - `Redis` (_Since 2007_)
-> - `SQLite` (_Since 2008_)
-> - `Hashicorp Vault` (_Since 2020_)
+> - 🥇 `MongoDB` (_Since 2011_ &mdash; Professionally used at Cisco, Oracle and Beamable)
+> - 🥈 `PostgreSQL` (_Since 2022_ &mdash; Professionally used at Cisco, Oracle and SurgePays)
+> - 🥉 `MariaDB | MySQL` (_Since 2004_ &mdash; Professional engineered solutions since S&amp;W Publishing)
+> - `Redis` (_Since 2007_ &mdash; Professionally engineered solutions since Project Apario)
+> - `SQLite` (_Since 2008_ &mdash; Professionally engineered solutions at Cisco)
+> - `Hashicorp Vault` (_Since 2020_ &mdash; Professionally engineered solutions at Oracle)
 >
 > **Automation Technologies:**
-> - `Terraform` (_Since 2017_)
-> - `Ansible` (_Since 2012_)
-> - `Chef` (_Since 2016_)
-> - `Puppet` (_Since 2012_)
-> - `AWS Cloud Formation` (_Since 2021_)
-> - `Shell Scripting` (_Since 2009_)
+> - `Terraform` (_Since 2017_ &mdash; Engineered Multi-Million Dollar IaC + Code Reviewed OCI Provider + Developed Plugins)
+> - `Ansible` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco &amp; WB Games)
+> - `Chef` (_Since 2016_ &mdash; Orchestration technology I engineered at Oracle)
+> - `Puppet` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco)
+> - `AWS Cloud Formation` (_Since 2021_ &mdash; Orchestration technology I engineered at WB Games)
+> - `Shell Scripting` (_Since 2009_ &mdash; Where existing tooling doesn't exist, shell scripting gets us over the finish line)
 > - <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a> (_Since 2024_)
 >
 > **Security Technologies:**
@@ -53,16 +53,16 @@
 > - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
 > 
 > **Cloud Platforms:**
-> - 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_)
-> - 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_)
-> - 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_)
+> - 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_ &mdash; Building multiple OVH private clouds)
+> - 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_ &mdash; Involved in low level architectural discussions about platform)
+> - 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_ &mdash; Certified Administrator &amp; Internationally Traveled)
 > - **Strong:** `Bare Metal` (_Since 2005_), `DigitalOcean` (_Since 2017_), `Vultr` (_Since 2020_), `Azure` (_Since 2022_)
 > - **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
 > - **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
 >
 > **Cloud Technologies:**
-> - `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS`
-> - `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog`
+> - `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS` 
+> - `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog` 
 > - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
 > - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
 > - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
@@ -71,9 +71,9 @@
 > **Speech Capabilities:**
 > | Rank | Language | Level |
 > |------|:--------:|------:|
-> | 🥇 | Romanian | No Speech Development Access In Orphanage for first 843 days |
-> | 🥈 | English | Native Fluent after 843 days to today |
-> | 🥉 | German | Beginner Conversationalist since 2009 |
+> | 🥇 | Romanian | Non Verbal Development Access from age 7-843 days old |
+> | 🥈 | English | Native Fluent after adoption at 843 days old |
+> | 🥉 | German | Family Conversationalist since 2009 |
 > | 4th | French | Non-functional from 7 Years from Public School |
 >
 > **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`, `Data Warehouse`, `OSINT`, `Open Source Intelligence`, `Internet Intelligence`, `Email Delivery`, `DNS`, `BGP`, `DHCP`, `WAN`, `LAN`, `TCP/IP`
@@ -109,6 +109,7 @@ I enjoy writing and have [earned recongition](IMG_1575.jpeg) for having a specia
 | When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7-2-2026 | 3 min read | <a href="https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin" title="When AI Creates A Closed Source World" target="_blank">Read Now &rarr;</a> |
 | I Put Rust To The Test | - | 5-21-2026 | 6 min read | <a href="https://dev.to/andreimerlescu/i-put-rust-to-the-test-4j36" title="I Put Rust To The Test" target="_blank">Read Now &rarr;</a> | 
 | Locked In With AI  | - | 4-22-2026 | 7 min read | <a href="https://dev.to/andreimerlescu/locked-in-with-ai-5g60" title="Locked In With AI" target="_blank">Read Now &rarr;</a> |
+| How My Claude Skills File Changed AI Assisted Development | `1 ❤️‍🔥` | 7-27-2026 | 8 min read | <a target="_blank" title="How My Claude Skills File Changed AI Assisted Development" href="https://dev.to/andreimerlescu/how-my-claude-skills-file-changed-ai-assisted-development-280d">Read Now &rarr;</a> |
 | Humanized Software Engineering In Era Of AI | - | 4-30-2026 | 9 min read | <a href="https://dev.to/andreimerlescu/humanized-software-engineering-in-era-of-ai-580i" title="Humanized Software Engineering In Era Of AI" target="_blank">Read Now &rarr;</a> |
 | CodeBerg Bans Cryptocurrency and<br>&nbsp;&nbsp;&nbsp;LLM-generated code projects | `1 ❤️‍🔥` | 7-27-2026 | 10 min read | <a target="_blank" title="CodeBerg Bans Cryptocurrency and LLM-generated code projects" href="https://dev.to/andreimerlescu/codeberg-bans-cryptocurrency-and-llm-generated-code-projects-3aj0">Read Now &rarr;</a> |
 | AI took my job but it didn't take <br>&nbsp;&nbsp;&nbsp;my passion for writing software | - | 4-22-2026 | 10 min read | <a href="https://dev.to/andreimerlescu/updated-last-week-24gc" title="AI took my job but it didn't take my passion for writing software" target="_blank">Read Now &rarr;</a> | 
