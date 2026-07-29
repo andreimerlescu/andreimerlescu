@@ -101,7 +101,9 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 
-I enjoy writing and have [earned recongition](IMG_1575.jpeg) for having a speciality in effective documentation communication. 
+I enjoy writing in many different **programming languages** but I can only really _write write_ in English despite it being _my second language._ Nevertheless, I have over 1K followers on my [dev.to](https://dev.to/andreimerlescu) profile after having _just joined recently in Spring 2026._ I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only _write write_ in English. 
+
+Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu) blog. Please follow me there if you want to stay up to date with new publications. 
 
 | Title | Reaction | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
