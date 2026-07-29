@@ -105,7 +105,7 @@ I enjoy writing in many different **programming languages** but I can only reall
 
 Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu) blog. Please follow me there if you want to stay up to date with new publications. 
 
-| Title | Reaction | Date | Length | &nbsp; |
+| Title | [Dev.to](https://dev.to/andreimerlescu) Response | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
 | Sovereign Lemmings Released | `2 ❤️‍🔥` | 7/22 '26 | 2 min read | <a href="https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l" title="Sovereign Lemmings Released" target="_blank">Read Now &rarr;</a> | 
 | When AI Creates A Closed Source World | `5 ❤️‍🔥 2 🦄 2 🤯`<br/>&nbsp;&nbsp;&nbsp;`2 🙌🏻 2 🔥` | 7/02 '26 | 3 min read | <a href="https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin" title="When AI Creates A Closed Source World" target="_blank">Read Now &rarr;</a> |
