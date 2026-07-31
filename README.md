@@ -102,21 +102,20 @@ Diversity is important. Diversity of thought. Diversity of culture. Diversity of
 Every company that I have professionally worked with has **called me**. _They sought me out and I chose them._ I am forward thinking, business oriented, and conscious of time and money being spent. I **own without ego** and I aspire for **engineering excellency** in everything that I work on - whether its process oriented or technical in nature. _Just because you may get to interview me, does not mean that you may get to work with me. I need to interview **your company too**._
 
 I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) that is available to read _here for free_ if you are interested. It's about my dog named Klaus.
+</details>
 
 I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that simple and I won't bite. 
 
-</details>
 
 | Service | Since | Notes |
 |---------|-------|-------|
 | Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
 | GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
+| LinkedIn | 2026 | [Browse Now &rarr;](https://linkedin.com/in/andrei-merlescu) | 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 <details>
-  <summary>
-I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. 
-</summary>
+  <summary>I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. </summary>
   <br>
 Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu) blog. Please follow me there if you want to stay up to date with new publications. You can also use the <a href="https://drive.proton.me/urls/MQBQ447FWM#ZbjN8aWCqEMk" title="Proton Sheets Link for dev.to/andreimerlescu Publications" target="_blank">Proton Sheets</a> alternative browsing format for this table of articles if you want to see them sorted differently.
 
