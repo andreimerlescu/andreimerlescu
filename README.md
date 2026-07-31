@@ -150,8 +150,9 @@ Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu
 
 ### When you want to learn more information from A-Z
 
-To get a better sense of me and my capabilities outside of my repositories:
-
+<details>
+  <summary>To get a better sense of me and my capabilities outside of my repositories:</summary>
+  
 **Explore the Alphabet:** 
 [A](/AI.md)
 [B](/BREATHING.md)
@@ -193,6 +194,8 @@ and
 | [IS-BE.md](/IS-BE.md) | I break down my pronouns for the unicorn sluether. |
 | [FULLTIME.md](/FULLTIME.md) | I can be hired **full time** for the right match. |
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
+
+</details>
 
 \- \[ _First Page_ \] &middot; \[ **README** \] &middot; \[ [Next Page _Consulting_ &rarr;](/CONSULTING.md) \] -
 
