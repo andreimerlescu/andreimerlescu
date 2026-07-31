@@ -137,7 +137,7 @@ Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
 
 **Simple Alphabet:** 
-[A](AI/.md)
+[A](/AI.md)
 [B](/BREATHING.md)
 [C](/CONSULTING.md)
 [D](/DISABILITY.md)
