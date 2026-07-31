@@ -90,11 +90,7 @@
 
 ## PROFESSIONAL SUMMARY
 <details>
-  <summary>
-    
-I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow. 
-
-  </summary>
+  <summary>I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow.</summary>
 <br>
 
 I am a **Computer Engineer** which means that I spent my college years building electric circuits and programming hardware microcontrollers for embedded technologies and robotics.  I'm not a _computer science_ engineer and nor was I trained in that profession. I always viewed **Computer _Engineering_** to be _harder than **Computer Science**_. In 2026, the profession of _software engineering_ has been supplemented with AI powered **Computer Engineering**!
