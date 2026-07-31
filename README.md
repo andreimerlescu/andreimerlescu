@@ -6,81 +6,96 @@
 
 **STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
 
-> **Programming Capabilities:**
-> - 🥇 **First:** `Go` 👉🏻 `Ruby on Rails` 👉🏻 `PHP`
-> - 🥈 **Second:** `Bash` 👉🏻 `JavaScript` 👉🏻 `Markdown`
-> - 🥉 **Third:** `TypeScript` 👉🏻 `Rust` 👉🏻 `Python`
-> - **Intermediate:** `C++` 👉🏻 `C#` 👉🏻 `Perl` 👉🏻 `Groovy on Grails`
-> - **Honorary:** `CSS` 👉🏻 `HTML` 👉🏻 `ActionScript` 👉🏻 `AppleScript`
-> - **Exploratory:** `Swift` 👉🏻 `Objective-C` 👉🏻 `C`
-> - _+ any other language with the participation of AI_
->
-> **Operating Systems:**
-> - 🥇 `macOS` (_MacOS 7 through macOS 26 &mdash; Since 1995_ &mdash; Primary Workstation) 
-> - 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora &mdash; Since 2005_ &mdash; Primary Server OS)
-> - 🥉 `Windows` (_Windows XP through Windows 11 &mdash; Since 2005_ &mdash; Limited Exposure)
->
-> **Database Technologies:**
-> - 🥇 `MongoDB` (_Since 2011_ &mdash; Professionally used at Cisco, Oracle and Beamable)
-> - 🥈 `PostgreSQL` (_Since 2022_ &mdash; Professionally used at Cisco, Oracle and SurgePays)
-> - 🥉 `MariaDB | MySQL` (_Since 2004_ &mdash; Professionally engineered solutions since S&amp;W Publishing)
-> - `Redis` (_Since 2007_ &mdash; Professionally engineered solutions since S&amp;W Publishing)
-> - `SQLite` (_Since 2008_ &mdash; Professionally engineered solutions at Cisco)
-> - `Hashicorp Vault` (_Since 2020_ &mdash; Professionally engineered solutions at Oracle)
->
-> **Automation Technologies:**
-> - `Terraform` (_Since 2017_ &mdash; Engineered Multi-Million Dollar IaC + Code Reviewed OCI Provider + Developed Plugins)
-> - `Ansible` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco &amp; WB Games)
-> - `Chef` (_Since 2016_ &mdash; Orchestration technology I engineered at Oracle)
-> - `Puppet` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco)
-> - `AWS Cloud Formation` (_Since 2021_ &mdash; Orchestration technology I engineered at WB Games)
-> - `Shell Scripting` (_Since 2009_ &mdash; Where existing tooling doesn't exist, shell scripting gets us over the finish line)
-> - <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a> (_Since 2024_)
->
-> **Security Technologies:**
-> - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
-> - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN` 
-> - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
-> - `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
-> - `Monitoring` 👉🏻 `Wazuh`, `DataDog`, `Sentry`, `Rollbar`
-> - `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
-> - `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
-> - `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
-> 
-> **Business Processes:**
-> - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001` (2009-2013)
-> - `Certifications` 👉🏻 `Magento Certified Developer`, `Mirantis OpenStack Administrator`
-> - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
-> 
-> **Cloud Platforms:**
-> - 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_ &mdash; Building multiple OVH private clouds)
-> - 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_ &mdash; Involved in low level architectural discussions about platform)
-> - 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_ &mdash; Certified Administrator &amp; Internationally Traveled)
-> - **Strong:** `Bare Metal` (_Since 2005_), `DigitalOcean` (_Since 2017_), `Vultr` (_Since 2020_), `Azure` (_Since 2022_)
-> - **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
-> - **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
->
-> **Cloud Technologies:**
-> - `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS` 
-> - `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog` 
-> - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
-> - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
-> - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
-> - **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
->
-> **Speech Capabilities:**
-> | Rank | Language | Level |
-> |------|:--------:|------:|
-> | 🥇 | Romanian | Non Verbal Development Access from age 7-843 days old |
-> | 🥈 | English | Native Fluent after adoption at 843 days old |
-> | 🥉 | German | Family Conversationalist since 2009 |
-> | 4th | French | Non-functional from 7 Years from Public School |
->
-> **Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`, `Data Warehouse`, `OSINT`, `Open Source Intelligence`, `Internet Intelligence`, `Email Delivery`, `DNS`, `BGP`, `DHCP`, `WAN`, `LAN`, `TCP/IP`
+<blockquote>
+
+<details>
+  <summary>    
+    <b>Programming Capabilities:</b>
+    <ul>
+      <li>🥇 <b>First:</b> <code>Go</code> 👉🏻 <code>Ruby on Rails</code> 👉🏻 <code>PHP</code></li>
+      <li>🥈 <b>Second:</b> <code>Bash</code> 👉🏻 <code>JavaScript</code> 👉🏻 <code>Markdown</code></li>
+      <li>🥉 <b>Third:</b> <code>TypeScript</code> 👉🏻 <code>Rust</code> 👉🏻 <code>Python</code></li>
+      <li><b>Intermediate:</b> <code>C++</code> 👉🏻 <code>C#</code> 👉🏻 <code>Perl</code> 👉🏻 <code>Groovy on Grails</code></li>
+      <li><b>Honorary:</b> <code>CSS</code> 👉🏻 <code>HTML</code> 👉🏻 <code>ActionScript</code> 👉🏻 <code>AppleScript</code></li>
+      <li><b>Exploratory:</b> <code>Swift</code> 👉🏻 <code>Objective-C</code> 👉🏻 <code>C</code></li>
+      <li><em>+ any other language with the participation of AI</em></li>
+    </ul>
+  </summary>
+
+**Operating Systems:**
+- 🥇 `macOS` (_MacOS 7 through macOS 26 &mdash; Since 1995_ &mdash; Primary Workstation) 
+- 🥈 `Linux` (_Ubuntu, Debian, Rocky, RedHat, and Fedora &mdash; Since 2005_ &mdash; Primary Server OS)
+- 🥉 `Windows` (_Windows XP through Windows 11 &mdash; Since 2005_ &mdash; Limited Exposure)
+
+**Database Technologies:**
+- 🥇 `MongoDB` (_Since 2011_ &mdash; Professionally used at Cisco, Oracle and Beamable)
+- 🥈 `PostgreSQL` (_Since 2022_ &mdash; Professionally used at Cisco, Oracle and SurgePays)
+- 🥉 `MariaDB | MySQL` (_Since 2004_ &mdash; Professionally engineered solutions since S&amp;W Publishing)
+- `Redis` (_Since 2007_ &mdash; Professionally engineered solutions since S&amp;W Publishing)
+- `SQLite` (_Since 2008_ &mdash; Professionally engineered solutions at Cisco)
+- `Hashicorp Vault` (_Since 2020_ &mdash; Professionally engineered solutions at Oracle)
+
+**Automation Technologies:**
+- `Terraform` (_Since 2017_ &mdash; Engineered Multi-Million Dollar IaC + Code Reviewed OCI Provider + Developed Plugins)
+- `Ansible` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco &amp; WB Games)
+- `Chef` (_Since 2016_ &mdash; Orchestration technology I engineered at Oracle)
+- `Puppet` (_Since 2012_ &mdash; Orchestration technology I engineered at Cisco)
+- `AWS Cloud Formation` (_Since 2021_ &mdash; Orchestration technology I engineered at WB Games)
+- `Shell Scripting` (_Since 2009_ &mdash; Where existing tooling doesn't exist, shell scripting gets us over the finish line)
+- <a href="https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa" title="Topobuilder" target="_blank">`Topobuilder`</a> (_Since 2024_)
+
+**Security Technologies:**
+- `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
+- `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN` 
+- `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
+- `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
+- `Monitoring` 👉🏻 `Wazuh`, `DataDog`, `Sentry`, `Rollbar`
+- `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
+- `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
+- `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
+ 
+**Business Processes:**
+- `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001` (2009-2013)
+- `Certifications` 👉🏻 `Magento Certified Developer`, `Mirantis OpenStack Administrator`
+- `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
+ 
+**Cloud Platforms:**
+- 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_ &mdash; Building multiple OVH private clouds)
+- 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_ &mdash; Involved in low level architectural discussions about platform)
+- 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_ &mdash; Certified Administrator &amp; Internationally Traveled)
+- **Strong:** `Bare Metal` (_Since 2005_), `DigitalOcean` (_Since 2017_), `Vultr` (_Since 2020_), `Azure` (_Since 2022_)
+- **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
+- **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
+
+**Cloud Technologies:**
+- `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS` 
+- `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog` 
+- `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
+- `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
+- `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
+- **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
+
+**Speech Capabilities:**
+| Rank | Language | Level |
+|------|:--------:|------:|
+| 🥇 | Romanian | Non Verbal Development Access from age 7-843 days old |
+| 🥈 | English | Native Fluent after adoption at 843 days old |
+| 🥉 | German | Family Conversationalist since 2009 |
+| 4th | French | Non-functional from 7 Years from Public School |
+
+**Technology Capabilities:** `Web Design`, `Backend Systems`, `Disaster Recovery`, `Release Management`,`iOS App Developer`, `Big Data Analyst`, `Site Reliability`, `Documentation`, `Communication`, `Process`, `AI MCP`, `AI RAG`, `Unreal Engine`,  `Database Admin`, `Perforce Helix Core`, `Docker`, `SELinux`, `TCP/IP`, `Networking`, `TeamCity`, `IaC`,  `CI/CD`, `GitHub Actions`, `GitLab Management`, `Gitea Administration`, `SVN`, `Network Attached Storage (NAS)`, `QNAP`, `S3`, `ClickHouse`, `OTEL`, `DataDog APM`, `Grafana`, `Telemetry`, `Analytics Collection`, `Analytics Analysis`, `Pentaho`, `Data Warehouse`, `OSINT`, `Open Source Intelligence`, `Internet Intelligence`, `Email Delivery`, `DNS`, `BGP`, `DHCP`, `WAN`, `LAN`, `TCP/IP`
+
+</details>
+</blockquote>
 
 ## PROFESSIONAL SUMMARY
-
+<details>
+  <summary>
+    
 I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow. 
+
+  </summary>
+<br>
 
 I am a **Computer Engineer** which means that I spent my college years building electric circuits and programming hardware microcontrollers for embedded technologies and robotics.  I'm not a _computer science_ engineer and nor was I trained in that profession. I always viewed **Computer _Engineering_** to be _harder than **Computer Science**_. In 2026, the profession of _software engineering_ has been supplemented with AI powered **Computer Engineering**!
 
@@ -94,15 +109,19 @@ I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) 
 
 I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that simple and I won't bite. 
 
+</details>
+
 | Service | Since | Notes |
 |---------|-------|-------|
 | Dev.to | 2026 | [Read Now &rarr;](https://dev.to/andreimerlescu) |
 | GitHub | 2009* | [Explore Now &rarr;](https://github.com/andreimerlescu?tab=repositories) | 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
-
-I enjoy writing in many different **programming languages** but I can only really _write write_ in English despite it being _my second language._ Nevertheless, I have over 1K followers on my [dev.to](https://dev.to/andreimerlescu) profile after having _just joined recently in Spring 2026._ I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only _write write_ in English. 
-
+<details>
+  <summary>
+I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. 
+</summary>
+  <br>
 Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu) blog. Please follow me there if you want to stay up to date with new publications. You can also use the <a href="https://drive.proton.me/urls/MQBQ447FWM#ZbjN8aWCqEMk" title="Proton Sheets Link for dev.to/andreimerlescu Publications" target="_blank">Proton Sheets</a> alternative browsing format for this table of articles if you want to see them sorted differently.
 
 | Title | Community Reactions | Date | Length | &nbsp; |
@@ -131,6 +150,8 @@ Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu
 | The Afternoon We Put Magento's Schema on SQL Server | `1 ❤️‍🔥` | 7/27 '26 | 40 min read | <a target="_blank" title="The Afternoon We Put Magento's Schema on SQL Server" href="https://dev.to/andreimerlescu/the-afternoon-we-put-magentos-schema-on-sql-server-2nb2">Read More &rarr;</a> |
 | Implementing Go+Gin Style Middleware in Rust | `2 ❤️‍🔥` | 6/04 '26 | 42 min read | <a href="https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348" title="Implementing Go+Gin Style Middleware in Rust" target="_blank">Read Now &rarr;</a> |
 | Basement or Bunker Water Monitor System | - | 6/03 '26 | 114 min read | <a href="https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij" title="Basement or Bunker Water Monitor System" target="_blank">Read Now &rarr;</a> |
+
+</details>
 
 ### When you want to learn more information from A-Z
 
