@@ -136,6 +136,36 @@ Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu
 
 To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
 
+**Simple Alphabet:** 
+[A](AI/.md)
+[B](/BREATHING.md)
+[C](/CONSULTING.md)
+[D](/DISABILITY.md)
+[E](/EDUCATION.md)
+[F](/FULLTIME.md)
+[G](/GOALS.md)
+[H](/HISTORY.md)
+[I](/IS-BE.md)
+[J](/JESUS.md)
+[K](/KLAUS.md)
+[L](/LOST-AND-FOUND.md)
+[M](/MY-BEST-FRIEND.md)
+[N](/NON-PROFITS.md)
+[O](/OPENSOURCE.md)
+[P](/PROJECTS.md)
+[Q](/Q.md)
+[R](/RESUME.md)
+[S](/SOVEREIGN.md)
+[T](/TOPOBUILDER.md)
+[U](/UMBRIDGE.md)
+[V](/V.md)
+[W](/WWW.md)
+[X](/X.md)
+[Y](/YOKOHAMA.md)
+and
+[Z](/ZULU.md)! Now I know my ABCs.
+
+
 | Sub-Page | Description | 
 |----------|-------------|
 | **THIS PAGE** [README.md](/README.md) | My Professional GitHub Profile |
@@ -148,5 +178,4 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 | [PERSONAL.md](/PERSONAL.md) | I am a real human with a real story. |
 
 \- \[ _First Page_ \] &middot; \[ **README** \] &middot; \[ [Next Page _Consulting_ &rarr;](/CONSULTING.md) \] -
-
 
