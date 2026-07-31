@@ -132,11 +132,11 @@ Here is a subset of published works on my [dev.to](https://dev.to/andreimerlescu
 | Implementing Go+Gin Style Middleware in Rust | `2 ❤️‍🔥` | 6/04 '26 | 42 min read | <a href="https://dev.to/andreimerlescu/go-gin-rust-http-middleware-web-servers-3348" title="Implementing Go+Gin Style Middleware in Rust" target="_blank">Read Now &rarr;</a> |
 | Basement or Bunker Water Monitor System | - | 6/03 '26 | 114 min read | <a href="https://dev.to/andreimerlescu/basement-water-monitor-circuit-in-go-rust-and-c-20ij" title="Basement or Bunker Water Monitor System" target="_blank">Read Now &rarr;</a> |
 
-### When you want to learn more information
+### When you want to learn more information from A-Z
 
-To get a better sense of me and my capabilities outside of my repositories, feel free to continue reading below.
+To get a better sense of me and my capabilities outside of my repositories:
 
-**Simple Alphabet:** 
+**Explore the Alphabet:** 
 [A](/AI.md)
 [B](/BREATHING.md)
 [C](/CONSULTING.md)
@@ -165,6 +165,7 @@ To get a better sense of me and my capabilities outside of my repositories, feel
 and
 [Z](/ZULU.md)! Now I know my ABCs.
 
+> **Hint:** Did you know that as an _English As A Second Language_ student, I didn't learn about the letter Q until I was 7 years old.
 
 | Sub-Page | Description | 
 |----------|-------------|
