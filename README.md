@@ -19,6 +19,7 @@
       <li><b>Honorary:</b> <code>CSS</code> 👉🏻 <code>HTML</code> 👉🏻 <code>ActionScript</code> 👉🏻 <code>AppleScript</code></li>
       <li><b>Exploratory:</b> <code>Swift</code> 👉🏻 <code>Objective-C</code> 👉🏻 <code>C</code></li>
       <li><em>+ any other language with the participation of AI</em></li>
+      <li><em><b>HINT:</b> Expand this window for extensive capabilities breakdown...</em></li>
     </ul>
   </summary>
 
