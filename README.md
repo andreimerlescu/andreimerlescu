@@ -93,7 +93,7 @@
 - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
   - I was the first to fix Perforce's `p4prometheus` Windows support for Helix Core observability during my days at WB Games.
 - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
-  - At WB Games, the depots were hundreds of terrabytes in size and I orchestrated cloud solutions around optimizing cost and performance.
+  - Managed company assets over 777 TB in size that is worth billions. I've orchestrated solutions, scaled them and supported them.
 - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
   - Owning your data by running private on-prem SaaS solutions is one of **my specialty services.**
 - **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
