@@ -47,34 +47,57 @@
 
 **Security Technologies:**
 - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
-- `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN` 
+  - _Since 2014_ I've been running `sudo setenforce 1` on _every host I manage._ 
+- `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN`
+  - _Since 2009_ I've been racking and stacking networking equipment and configuring DNS, DHCP, TCP/IP, BGP, OSPF, and VPN tech.
 - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
+  - _Since 2009_ I've been utilizing, managing, configuring and penetration testing firewalls for hardened cyber security.
 - `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
+  - _Since 2016_ I've been building out and supporting online cloud platforms that utilize _Windows_ and **require anti-virus.**
 - `Monitoring` 👉🏻 `Wazuh`, `DataDog`, `Sentry`, `Rollbar`
+  - **Data backed decisions** and rely on _monitoring technology_ to give me observability into the binary itself.
 - `Secrets` 👉🏻 `AWS Secrets Manager`, `1Password API`, `Keeper API`, `Hashicorp Vault`
+  - **Obsessed with having a strong security posture** and _secrets management_ is a **bane of every engineer's existence.**
 - `Encryption` 👉🏻 `SSL Certificate Manager`, `SSH Keys`, `AES`, `GnuPG | PGP`, `ED25519`
+  - **Encrypted output** inside of a _Secrets Manager_ and then recall that value. Security matters.
 - `Encoding` 👉🏻 `Base64`, `SHA1`, `SHA256`, `SHA512`, `SHA-HMAC`, `GZ`
+  - When interacting with **encrypted output**, you need to _encode_ that for transport. I am very well experienced here.
  
 **Business Processes:**
 - `Compliance` 👉🏻 `PCI-DSS` (2004-2026), `FedRAMP` (2017-2020), `SOC2` (2022-2026), `ISO 9001` (2009-2013)
+  - Oversaw compliance efforts of _multiple publicly traded companies._ 
 - `Certifications` 👉🏻 `Magento Certified Developer`, `Mirantis OpenStack Administrator`
+  - **I do not put merit into certificate possession.** I was _required_ to become certified for `Magento` and `OpenStack`.
 - `Entity Structures` 👉🏻 `Startup Venture`, `LLC`, `PLLC`, `S-CORP`, `Trust`, `501(c)3`
+  - I am an **entrepreneur polyglot** that is _neurodivergent_ and a **strong team player.** 
  
 **Cloud Platforms:**
 - 🥇 `VMWare ESXi | vCenter | vSphere` (_Since 2011_ &mdash; Building multiple OVH private clouds)
+  - Companies that require privacy and control can get **Private Clouds** built, supported and expanded by me using this tech.
 - 🥈 `OCI` (_Since 2017_) | `AWS` (_Since 2013_ &mdash; Involved in low level architectural discussions about platform)
+  - At **Oracle** I oversaw the adoption of all _production code._ I have a **deep** understand these _cloud systems_ inside and out.
 - 🥉 `OpenStack` (_Since 2014_) | `OVH` (_Since 2020_ &mdash; Certified Administrator &amp; Internationally Traveled)
+  - Similar sales pitch as **VMWare** &mdash; _you own your infrastructure_ and you're not leasing with neighbors. 
 - **Strong:** `Bare Metal` (_Since 2005_), `DigitalOcean` (_Since 2017_), `Vultr` (_Since 2020_), `Azure` (_Since 2022_)
+  - Extensive work in these technologies and capable of confidently jumping into an pre-existing infrastructure to serve.
 - **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
+  - Each of these technologies have been _used,_ but not extensively and **not for production.**
 - **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
+  - These technologies have been evaluated by me, but not extensively and **never in development.**
 
 **Cloud Technologies:**
-- `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS` 
-- `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog` 
+- `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS`
+  - Extensively architected **Infrastructure as Code** for _multiple companies_ that **extensively utilize AWS exclusively.**
+- `Debugging Services` 👉🏻 `Rollbar`, `Sentry`, `Graylog`
+  - Configured, integrated and deployed on-prem solutions for in-house debugging services for application observability.
 - `Observability` 👉🏻 `Grafana`, `Prometheus`, `Monit`, `Matomo`, `VictoriaMetrics`
+  - I was the first to fix Perforce's `p4prometheus` Windows support for Helix Core observability during my days at WB Games.
 - `Large Assets` 👉🏻 `Artifactory`, `MinIO`, `Perforce Helix Core`, `Git LFS`
+  - At WB Games, the depots were hundreds of terrabytes in size and I orchestrated cloud solutions around optimizing cost and performance.
 - `SaaS On-Prem` 👉🏻 `OpenProject`, `Mattermost`, `GitLab`, `Gitea`, `Jenkins`, `SonarQube`, `Taiga`, `Gerrit`
+  - Owning your data by running private on-prem SaaS solutions is one of **my specialty services.**
 - **Active Service Providers:** `DigitalOcean`, `OVH`, `AWS`, `Vultr`
+  - I have dozens of resources currently under lease at these providers.
 
 **Speech Capabilities:**
 | Rank | Language | Level |
