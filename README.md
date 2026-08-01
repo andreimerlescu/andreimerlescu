@@ -139,7 +139,7 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 
 ## Recommended [DEV.to](https://dev.to/andreimerlescu) Publications
 <details>
-  <summary>I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. </summary>
+  <summary>I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. This <a href="https://dev.to/andreimerlescu/ai-slop-in-hiring-talent-for-companies-2ghj" title="AI Slop in Hiring Talent for Companies" target="_blank">one</a> is <em>highly recommended.</em></summary>
   
   <br>
   
