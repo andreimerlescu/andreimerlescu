@@ -119,7 +119,7 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
   <br>
 Here is a subset of published works on my <a href="https://dev.to/andreimerlescu" target="_blank" title="dev.to profile for andrei merlescu">dev.to</a> blog. Please follow me there if you want to stay up to date with new publications. You can also use the <a href="https://drive.proton.me/urls/MQBQ447FWM#ZbjN8aWCqEMk" title="Proton Sheets Link for dev.to/andreimerlescu Publications" target="_blank">Proton Sheets</a> alternative browsing format for this table of articles if you want to see them sorted differently.
 
-| Title | Community Reactions | Date | Length | &nbsp; |
+| Title | Reactions | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
 | Sovereign Lemmings Released | `2 ❤️‍🔥` | 7/22 '26 | 2 min read | <a href="https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l" title="Sovereign Lemmings Released" target="_blank">Read Now &rarr;</a> | 
 | AI companies must be stopped or change | `2 ❤️‍🔥` | 7/30 '26 | 3 min read | <a target="_blank" href="https://dev.to/andreimerlescu/ai-companies-must-be-stopped-or-change-4082" title="AI companies must be stopped or change">Read Now &rarr;</a> | 
