@@ -49,7 +49,7 @@
 - `SELinux` 👉🏻 `RHEL`, `Cisco Linux`, `Oracle Linux`, `Rocky`
   - _Since 2014_ I've been running `sudo setenforce 1` on _every host I manage._ 
 - `Networking` 👉🏻 `Cisco`, `Fortinet`, `Meraki`, `OpenVPN`
-  - _Since 2009_ I've been racking and stacking networking equipment and configuring DNS, DHCP, TCP/IP, BGP, OSPF, and VPN tech.
+  - _Since 2009_ I've been racking, stacking and configuring networking equipment for DNS, DHCP, TCP/IP, BGP, OSPF &amp; VPN.
 - `Firewalls` 👉🏻 `ufw`, `firewalld`, `iptables`, `Cisco Meraki`, `ASA`, `ModSecurity`
   - _Since 2009_ I've been utilizing, managing, configuring and penetration testing firewalls for hardened cyber security.
 - `AntiVirus` 👉🏻 `Fortinet`, `McAfee`, `ClamAV`
@@ -83,7 +83,7 @@
 - **Intermediate:** `GCP` (_Since 2025_), `Kubernetes` (_Since 2020_), `Docker Swarm` (_Since 2022_)
   - Each of these technologies have been _used,_ but not extensively and **not for production.**
 - **Proficient:** `Rancher` (_Since 2018_), `Firecracker` (_Since 2025_), `Podman` (_Since 2020_)
-  - These technologies have been evaluated by me, but not extensively and **never in development.**
+  - These technologies have been evaluated by me, but not extensively and **never in development of real products.**
 
 **Cloud Technologies:**
 - `Amazon Services` 👉🏻 `EC2`, `S3`, `IAM`, `EBS`, `FS`, `ECS`, `EKS`
