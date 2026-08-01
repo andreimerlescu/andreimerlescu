@@ -117,8 +117,8 @@ I joined GitHub as user 91,485 in 2009. I've been around for a while. It's that 
 <details>
   <summary>I enjoy writing in many different <b>programming languages</b> but I can only really <em>write write</em> in English despite it being <em>my second language.</em> Nevertheless, I have over 1K followers on my <a href="https://dev.to/andreimerlescu" title="Andrei Merlescu's dev.to Profile" target="_blank">dev.to</a> profile after having <em>just joined recently in Spring 2026.</em> I love writing. Ich spreche Duetsche. Înțelege Romanesti. But, I really only <em>write write</em> in English. </summary>
   <br>
-Here is a subset of published works on my <a href="https://dev.to/andreimerlescu" target="_blank" title="dev.to profile for andrei merlescu">dev.to</a> blog. Please follow me there if you want to stay up to date with new publications. You can also use the <a href="https://drive.proton.me/urls/MQBQ447FWM#ZbjN8aWCqEMk" title="Proton Sheets Link for dev.to/andreimerlescu Publications" target="_blank">Proton Sheets</a> alternative browsing format for this table of articles if you want to see them sorted differently.
-
+Here is a subset of published works on my <a href="https://dev.to/andreimerlescu" target="_blank" title="dev.to profile for andrei merlescu">dev.to</a> blog. Please follow me there if you want to stay up to date with new publications. You can also use the <a href="https://drive.proton.me/urls/MQBQ447FWM#ZbjN8aWCqEMk" title="Proton Sheets Link for dev.to/andreimerlescu Publications" target="_blank">Proton Sheets</a> alternative browsing format for this table of articles if you want to see them sorted differently. I have <b>over 42 favorable reactions</b> to my posts and I look forward to writing more content for your education, enlightenment and entertainment (your `E3`). 
+<br><br>
 | Title | Reactions | Date | Length | &nbsp; |
 |:------|:--------:|:----:|:------:|-------:|
 | Sovereign Lemmings Released | `2 ❤️‍🔥` | 7/22 '26 | 2 min read | <a href="https://dev.to/andreimerlescu/sovereign-lemmings-released-4c9l" title="Sovereign Lemmings Released" target="_blank">Read Now &rarr;</a> | 
