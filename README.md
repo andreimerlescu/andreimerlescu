@@ -1,6 +1,6 @@
 ## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)
 
-**I'm a:** 21+ Year Professional · Entrepreneur · Neurodivergent · Polyglot
+**I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker
 
 ## Skill Table
 
