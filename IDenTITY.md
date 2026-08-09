@@ -151,7 +151,7 @@ Well, going back to the trinity break down.
 I am **RAJ** at the end of the day. 
 
 1. Romanian &mdash; 843 Day Orphan under Ceaușescu in Communist Romania
-2. American &mdash; Andrei &rarr; Michael &rarr; Andrei **CORE IDENTITY**
+2. American &mdash; Andrei &rarr; Michael &rarr; Andrei **CORE IDENTITY** (Do you see the _#AMA? They were notorious on MJ12._)
 3. Jewish &mdash; Through Saint Paul &amp; My Marriage
 
 **At the end of the day, I am _RAJ_.**
