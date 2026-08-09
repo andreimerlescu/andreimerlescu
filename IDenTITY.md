@@ -1,12 +1,14 @@
 > In 1989 I **was freed from communism** when Nicolea Ceaușescu was assassinated on Christmas Day.
 > 
-> In 1999 I **started something** that the _world is atoning for now._
+> In 1999 I **[started something](https://dev.to/andreimerlescu/ai-slop-in-hiring-talent-for-companies-2ghj)** that the _world is atoning for now._
 >
-> In 2009 I **started university** to become a _Computer Engineer_ with a _Bachelor of Science._
+> In 2009 I **[started university](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)** to become a _Computer Engineer_ with a _Bachelor of Science._
 > 
-> In 2019 I **transitioned** and the _world will catch up._
+> In 2019 I **transitioned** and the _world is catching up as you read this._
 > 
-> In 2029 I **will be know worldwide as Raj Stelian** The <b>R</b>omanian <b>American</b> <b>J</b>ewish man born **Andrei Stelian,** erased by Ceaușescu, **restored by Yeshua.**
+> By 2029, I **will be know worldwide as Raj Stelian.**
+>
+> I am the <b>R</b>omanian <b>American</b> <b>J</b>ewish man born **Andrei Stelian,** stolen and warehoused by Ceaușescu because he opposed single-moms, then **restored by Yeshua** 30 years later. Because of free will, my adoptive family has chosen to **reject my choice** of calling myself _Andrei_, and I have been subjected to **a second abandonment experience** by a _mother who claims to love me and never want to abandon me._ Interesting how that works... 
 
 This post is <b>T&amp;T</b> aka _TNT_. It's dense and took me 7 years of self discovery to reveal it.
 
