@@ -4,7 +4,7 @@
 >
 > In 2009 I **[started university](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)** to become a _Computer Engineer_ with a _Bachelor of Science._
 > 
-> In 2019 I **transitioned** and the _world is catching up as you read this._
+> In 2019 I **[transitioned](/TRANSITIONS.md)** and the _world is catching up as you read this._
 > 
 > By 2029, I **will be know worldwide as Raj Stelian.**
 >
