@@ -37,17 +37,26 @@ For me,
 
 In the 80s I was born in Romania and spent 850 days identifying with the name of **Andrei** until December 27th 1990 when _Merle,_ my to-become adoptive father, would rename me to **Michael.** 
 
-Not overnight. Of course not. Like a beast, you start with what is friendly...
+Not overnight. Of course not. It's as simple as 7 steps. Like a beast, you start with what is friendly...
 
-_Hey Andrei! Hey Andrei Michael!_ Do that for a few weeks. Then it became, _Hey Andrei Michael! Hey Andrei Michael!_ 
+1. _Hey Andrei!_
+   - This is how I was greeted by Merle until I met Cindy.
+2. _Hey Andrei Michael!_
+   - This is how Merle's wife, Cindy addressed me.
+   - Cindy never went to Romania to get me like she did Chile for my adoptive sister.
+3. Then it became, _Hey Andrei Michael! Hey Andrei Michael!_
+   - In order to introduce the name _Michael_, it was used constantly back and forth so it would be consistent.
+4. Then it became _Hey Andrei Michael! Hey Michael Andrei!_
+   - Then overnight the switch happened and it flipped upside down. Cindy no longer would say _Andrei_ first. 
+5. Then it became _Hey Michael Andrei!_
+   - This is what it was for many years.
+   - I remember by grandmother, Cindy's mother, using it until [she died](https://www.dignitymemorial.com/obituaries/old-town-me/martha-grant-5805008) in 2014.
+6. Then it became _Hey Michael!_
+   - If I ever brought _Andrei_ up, there was a sit down about how `Andrei` was my _birth mother's child_ and **Michael** was _Cindy's child._ 
+7. Then, **my name was programmed out of me.**
+   - I learned that if I called myself **Michael** I would be betraying my adoption by _Cindy_ and that God chose to sacrifice _my life_ for her to have a son. 
 
-Then it became _Hey Andrei Michael! Hey Michael Andrei!_
-
-Then it became _Hey Michael Andrei!_
-
-Then it became _Hey Michael!_
-
-**My name was programmed out of me.**
+_I voluntarily rejected the name **Andrei** because of this training. I was reduced to the rank of a beast because of the transaction called my adoption._ Why was America afraid of Andrei? Why did America need me to call myself Michael? Nobody in America has atoned for this. _Nobody._ 
 
 ## Michael 
 
