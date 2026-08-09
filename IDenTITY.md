@@ -20,7 +20,7 @@ This post is <b>T&amp;T</b> aka _TNT_. It's dense and took me 7 years of self di
 
 1. `en` for _English_
 2. `ID` for _Identification_
-3. `TITY` for 👀
+3. `TITY` for 👀🍒😏🤫
 
 If this is the anatomy of the word **identity**, what is the etymology of the word?
 
