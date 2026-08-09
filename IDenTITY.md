@@ -94,7 +94,7 @@ Michael was engaged with an local girl who had a German for a mother and America
 
 Michael gets hired at Cisco after falling asleep in History Class and getting personally recruited into TAC to rebuild the UI to `omnitool`. I wouldn't be surprised if omnitool wasn't still online in 2026. 
 
-Michael got cheated on by his German-American fiancee with an IBM software engineer giving her Japanese tutoring lessons in the new home I bought in NC. Stupid old me.
+Michael got cheated on by Clarissa with Jon, her Japanese lessons tutor who worked at IBM and was from Virginia, all while in the new home I bought in NC. Stupid me.
 
 Michael flew **First Class** to Tokyo Japan for Cisco for the OpenStack Summit in 2015. I was laid off again.
 
