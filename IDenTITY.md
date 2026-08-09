@@ -96,7 +96,7 @@ Michael gets hired at Cisco after falling asleep in History Class and getting pe
 
 Michael got cheated on by Clarissa with Jon, her Japanese lessons tutor who worked at IBM and was from Virginia, all while in the new home I bought in NC. Stupid me.
 
-Michael flew **First Class** to Tokyo Japan for Cisco for the OpenStack Summit in 2015. I was laid off again.
+Michael flew **First Class** to Tokyo Japan for Cisco for the OpenStack Summit in 2015. The next year, Cisco divests from OpenStack and I was laid off once again. Instead of returning to Cisco, I chose to move to Oracle instead, but before beginning April 2017, after Larry Ellison had to personally sign my offer letter of employment, I covered the current events online.
 
 After, I started the **Michael Trimm Show** in 2016. I reported the news and gave commentary about politics &mdash; specifically what a Bernie Bro voting Trump looked like and _why._ 
 
