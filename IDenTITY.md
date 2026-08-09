@@ -6,7 +6,7 @@
 > 
 > In 2019 I **[transitioned](/TRANSITIONS.md)** and the _world is catching up as you read this._
  
-###  By 2029, I **will be know worldwide as _Raj. Stelian._** `Raj. Andrei Stelian.` Raj is a title.
+**By 2029, I will be know worldwide as _Raj. Stelian._ `Raj. Andrei Stelian.` Raj is a title.**
 
 > I am replacing `Mr.` with `Raj.` on purpose. **I am not _Mr._ to you.** I am an [`is/be`](/IS-BE.md).
 >
