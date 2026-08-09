@@ -6,7 +6,7 @@
 > 
 > In 2019 I **[transitioned](/TRANSITIONS.md)** and the _world is catching up as you read this._
 > 
-> By 2029, I **will be know worldwide as Raj. Stelian. Raj. Andrei Stelian. Raj is a title.**
+> By 2029, I **will be know worldwide as _Raj. Stelian._** `Raj. Andrei Stelian.` Raj is a title.
 >
 > I am the <b>R</b>omanian <b>American</b> <b>J</b>ewish man born **Andrei Stelian,** stolen and warehoused by Ceaușescu because he opposed single-moms, then **restored by Yeshua** 30 years later. Because of free will, my adoptive family has chosen to **reject my choice** of calling myself _Andrei_, and I have been subjected to **a second abandonment experience** by a _mother who claims to love me and never want to abandon me._ Interesting how that works... 
 
