@@ -1,4 +1,7 @@
-> In 2019 I **transitioned** and the _world will catch up._ 
+> In 2019 I **transitioned** and the _world will catch up._
+> In 2026 I **transformed** and the _world is finding out._
+
+This post is <b>T&amp;T</b> aka _TNT_. It's dense and took me 7 years of self discovery to reveal it.
 
 # IDenTITY
 
