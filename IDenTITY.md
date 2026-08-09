@@ -1,5 +1,12 @@
+> In 1989 I **was freed from communism** when Nicolea Ceaușescu was assassinated on Christmas Day.
+> 
+> In 1999 I **started something** that the _world is atoning for now._
+>
+> In 2009 I **started university** to become a _Computer Engineer_ with a _Bachelor of Science._
+> 
 > In 2019 I **transitioned** and the _world will catch up._
-> In 2026 I **transformed** and the _world is finding out._
+> 
+> In 2029 I **will be know worldwide as Raj Stelian** The <b>R</b>omanian <b>American</b> <b>J</b>ewish man born **Andrei Stelian,** erased by Ceaușescu, **restored by Yeshua.**
 
 This post is <b>T&amp;T</b> aka _TNT_. It's dense and took me 7 years of self discovery to reveal it.
 
@@ -135,7 +142,7 @@ I am **RAJ** at the end of the day.
 
 **At the end of the day, I am _RAJ_.**
 
-So, you can call me `Andrei` or `Raj`. I respond to **all three.**
+So, you can call me `Andrei` or `Raj`. 
 
 Words I do not respond to: 
 
@@ -144,4 +151,8 @@ Words I do not respond to:
 
 When you call me `Raj`, I will 😏 knowing that you've read this page.
 
-My Indian name is to be Raj Koothrappali, the fiction made flesh from the moment of the Big Bang! 
+My Indian name could be Raj Koothrappali, the fiction made flesh from the moment of the Big Bang! 
+
+But if I am going to fully embrace what I am, because of the choices made by other people and myself, identifying as Raj feels the most natural for me going into 2029. I do not want to begin the next decade of existence being **rejected as Andrei by my adoptive family for over 7 years** and *receiving zero support from **the community** during that transition to help with the **stresses of life** that led me to nicotine addiction and now 11 months 9 days sobriety since my birthday last year. On 9/11/2026, it will be 2,000 years since Yeshua started His ministry. What exists today, doesn't represent Him or that. What exists today is an abomination to the highest order using an imposters name committing idolatry praying to demons and acting like monsters &mdash; all in the name of Jesus Christ. 
+
+Whoever created me, gave me an **identity** and _man conspired with Jesus to erase **my name**,_ but in 2019, _three decades into my life_, I get recalled to reclaim my name. I comply with the mandate that came from within that no external entity suggested, accepted, or _supported._ Only people who had **0 fucks** to give about me, called me _Andrei_ without hesitation &mdash; the exception being 3+ in-law family members. 
