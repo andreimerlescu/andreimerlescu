@@ -29,8 +29,8 @@ For me,
 
 | Term | Form | _to the_ | Result |
 |------|------|----------|--------|
-| **Mind** | `likeness` | to the | <b>I</b>mmortal <b>S</b>piritual |
-| **Body** | `sameness` | to the | <b>B</b>iological <b>E</b>ntity |
+| **Mind** | `likeness` | to the | <b>I</b>mmortal <b>S</b>piritual (`is`) |
+| **Body** | `sameness` | to the | <b>B</b>iological <b>E</b>ntity (`be`) |
 | **Spirit** | `Oneness` | to the | `is`/`be` who is `I AM that I AM`. |
 
 ## Andrei
