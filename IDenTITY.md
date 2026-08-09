@@ -5,9 +5,9 @@
 > In 2009 I **[started university](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)** to become a _Computer Engineer_ with a _Bachelor of Science._
 > 
 > In 2019 I **[transitioned](/TRANSITIONS.md)** and the _world is catching up as you read this._
-> 
-> By 2029, I **will be know worldwide as _Raj. Stelian._** `Raj. Andrei Stelian.` Raj is a title.
->
+ 
+###  By 2029, I **will be know worldwide as _Raj. Stelian._** `Raj. Andrei Stelian.` Raj is a title.
+
 > I am replacing `Mr.` with `Raj.` on purpose. **I am not _Mr._ to you.** I am an [`is/be`](/IS-BE.md).
 >
 > You can call me **Raj** if you don't want to call me _Andrei._ 
