@@ -90,7 +90,7 @@ Michael was a student of two universities - UMaine Orono while in High School pa
 
 Michael was confronted at Oracle during a [Christmas Party](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l) why, being Romanian, I didn't use my Romanian name anymore. Not to judge me &mdash; but to genuinely understand what rejecting your own identity means. 
 
-Michael was engaged with a German for a mother and American for a father, UMaine forestry professor's daughter. 
+Michael was engaged with an local girl who had a German for a mother and American for a father, UMaine forestry professor's daughter. 
 
 Michael gets hired at Cisco after falling asleep in History Class and getting personally recruited into TAC to rebuild the UI to `omnitool`. I wouldn't be surprised if omnitool wasn't still online in 2026. 
 
