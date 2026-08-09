@@ -31,7 +31,7 @@ For me,
 |------|------|----------|--------|
 | **Mind** | `likeness` | to the | <b>I</b>mmortal <b>S</b>piritual (`is`) |
 | **Body** | `sameness` | to the | <b>B</b>iological <b>E</b>ntity (`be`) |
-| **Spirit** | `Oneness` | to the | `is`=`I AM`<br>&nbsp;`/ = that`<br>`be = I AM`<br> === **`I AM that I AM`**. |
+| **Spirit** | `Oneness` | to the | `is`=`I AM` === `likeness`<br>&nbsp;`/ = that` === `sameness`<br>`be = I AM`<br> === **`I AM that I AM`**. |
 
 ## Andrei
 
