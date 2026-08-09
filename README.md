@@ -1,4 +1,4 @@
-## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)
+## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>) You may also call me Raj!
 
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
