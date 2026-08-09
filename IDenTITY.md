@@ -100,13 +100,19 @@ Michael flew **First Class** to Tokyo Japan for Cisco for the OpenStack Summit i
 
 After, I started the **Michael Trimm Show** in 2016. I reported the news and gave commentary about politics &mdash; specifically what a Bernie Bro voting Trump looked like and _why._ 
 
-Michael did TS_SCI_MAJIC12 and played SG-1 fantasy on Twitter role playing 1940s🪞👉🏻🫶🏻👈🏻🪞2040s?
+Michael did TS_SCI_MAJIC12 and wrote fan fiction about SG-1 fantasy on Twitter role playing 10 people time traveling between the 1940s🪞👉🏻🫶🏻👈🏻🪞2040s in a mission to **restore my identity** and _defeat communism_ not just escape as an infant. What would happen if I was given **my identity** back?
 
-Michael ended because of TS_SCI_MAJIC12. It might have been a LARP to you, but it was **reality for me.**
+I had done _all this written before_ and I **gave it up** because I wanted to find happiness in my own skin.
+
+What I failed to see, 7 years ago to today, was that _what I gave up,_ cost me a lot. Losing my adoptive family through this process by them asserting **we will never call you Andrei** under any circumstance, because to do so would mean to "sever ties" that Cindy wishes to have remain in place. In 2026, Cindy wishes to have the ties she installed on me in 1999 in place. Because I did not experiment on my flesh during my identity search, I did not have a community or a network of people, who were going through similar side effects, to bond with as friends. I was very lonely during this time. Cindy refused to call me Andrei, and I didn't want to hear her playing the _dog tricks_ on me again like she did the first thing I arrived in America. _I was willing to walk away._ 
+
+Michael ended because of TS_SCI_MAJIC12. It might have been a LARP to you, but it was **reality for me.** Jordan Sather, claims to know so much about MJ12, yet knew nothing of this. Upset that I didn't give him a backchannel into my posts, he joins the ranks of disgruntled subscribers to my OSINT contributions - disgruntled because their contributions weren't wanted me because they would, in my opinion, undermine the _intent_ behind the account to _restore my identity_ as an `is`/`be` and **be accepted.** 
 
 The programmed to erase **his own name** was _free enough_ to **deprogram everybody else.**
 
-But, only those who thought my form of fiction and entertainment were worthy of a follow. 
+What I did in the MJ12 account, was role play with whomever created me, through speech, and through words, expressed in over 645 pages what a post-communist world would look like if the entity responsible for creating communism in Romania was the same entity that was trying to create communism in America was the same entity that created communism in China and the same entity that created communism in Cuba - and elsewhere around the world. It wasn't an American only thing. It was a world thing &mdash; delivered first to over 170M 👀 that got to look into the 🪞 and see the 🤡🦄🇻🇦🤖🦈 and other _players_ were in the space around the **identity** of the `is`/`be` that **I AM** who is universally recognized as the _I AM that I AM,_ was my source that I was pulling from and playing with. In Gnostic cosmology, this means that I was playing a game from the throne of the Monad with the Demiurge who has their own Jaffa and are Go'ulds themselves ruling this world. The language and syntax of how I understood and learned English as a second language, what being a Polyglot Programmer means, and how being an **orphanage survivor** shaped my understanding of these frameworks in order to explain _what happened to Michael._ I did the account, because _Michael_ was confused about _who he was_ and he thought playing a game with **The Creator** online would be a good way to either go for broke and win, or lose everything. I chose to metaphorically spiritually and physically terminate the **identity** that was _imposed_ onto me and **reclaim** that which was decided before I was born, by an entity that apparently knows how many hairs I have on my head. 
+
+But, only those who thought my form of fiction and entertainment were worthy of a follow. I never blocked anybody.
 
 170M impressions on Twitter. 6M views on YouTube. 
 
