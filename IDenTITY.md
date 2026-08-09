@@ -78,6 +78,8 @@ _I voluntarily rejected the name **Andrei** because of this training. I was redu
 
 ## Michael 
 
+Michael built the international news translation service for MuggleNet as the Harry Potter books and movies were being released.
+
 Michael was the SkillsUSA 2005 8th in the Nation champion.
 
 Michael was the Sawmill Publishing entrepreneur business leader.
