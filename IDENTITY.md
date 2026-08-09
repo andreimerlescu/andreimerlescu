@@ -27,11 +27,11 @@ In a trinity we can identity three components:
 
 For me, 
 
-| Term | Note |
-|------|------|
-| **Mind** | `likeness` to the <b>I</b>mmortal <b>S</b>piritual |
-| **Body** | `sameness` to the <b>B</b>iological <b>E</b>ntity |
-| **Spirit** | `Oneness` to the `is`/`be` who is `I AM that I AM`. |
+| Term | Form | _to the_ | Result |
+|------|------|----------|--------|
+| **Mind** | `likeness` | to the | <b>I</b>mmortal <b>S</b>piritual |
+| **Body** | `sameness` | to the | <b>B</b>iological <b>E</b>ntity |
+| **Spirit** | `Oneness` | to the | `is`/`be` who is `I AM that I AM`. |
 
 ## Andrei
 
