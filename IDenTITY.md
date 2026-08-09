@@ -72,7 +72,7 @@ Not overnight. Of course not. It's as simple as 7 steps. Like a beast, you start
 6. Then it became _Hey Michael!_
    - If I ever brought _Andrei_ up, there was a sit down about how `Andrei` was my _birth mother's child_ and **Michael** was _Cindy's child._ 
 7. Then, **my name was programmed out of me.**
-   - I learned that if I called myself **Michael** I would be betraying my adoption by _Cindy_ and that God chose to sacrifice _my life_ for her to have a son. 
+   - I learned that if I called myself **Andrei** I would be betraying my adoption by _Cindy_. I really didn't believe in God at this time. Why would I? How many days would you last? My sister was there until she was 18. 
 
 _I voluntarily rejected the name **Andrei** because of this training. I was reduced to the rank of a beast because of the transaction called my adoption._ Why was America afraid of Andrei? Why did America need me to call myself Michael? Nobody in America has atoned for this. _Nobody._ 
 
