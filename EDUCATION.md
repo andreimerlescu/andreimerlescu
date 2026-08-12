@@ -4,6 +4,10 @@
 
 In 2005 I won Gold Medal for SkillsUSA Maine and then went to Kansas City, MI to compete and scored 8th in the national competition. 
 
+## UMaine
+
+In 2006 until I joined WIT, I took classes at the University of Maine. Classes included general education classes while in high school. 
+
 ## WIT 
 
 Joined as a **Computer Engineer** with _no minor._ 
