@@ -2,6 +2,8 @@
 
 # Consulting Services
 
+## Available via GitHub Sponsors
+
 Please use the [Sponsor Dashboard](https://github.com/sponsors/andreimerlescu) to sign up for Consulting Services.
 
 | Retainer | Chat Access |
@@ -54,6 +56,19 @@ For $7,000 per month, you get me for 5 hours per week with 5 hours of after-hour
 Given the scale of these engagements, I can reasonably consider up to **four per month.** 
 
 ---
+
+## Products
+
+| topobuilder | php-avc | i18n |
+|---|---|---|
+| ![Alt](/88-topobuilder.jpg) | ![Alt](/777-commercial-php-avc.jpg) | ![Alt](/666-i18n.jpg) |
+| Deploys containerized container into multi-region load balance cluster | Model View Controller built for PHP 8.5 that uses PropelORM built for speed and ease of development long term | Internationalization daemon engine providing 22 localized country translations and 17 speakable languages using AI and TTS open source technologies. |
+| [Access Repository](https://github.com/playandprosper/topobuilder) | [Access Repository](https://github.com/playandprosper/php-avc) | [Access Repository](https://github.com/playandprosper/i18n) |
+| [Sponsor for License @ $88/mo](https://github.com/sponsors/andreimerlescu) | [Sponsor for License from $369/mo](https://github.com/sponsors/andreimerlescu) | [Sponsor for License @ $666/mo](https://github.com/sponsors/andreimerlescu) |
+
+---
+
+## Consulting
 
 The source code is free - the implementation support is a premium. I have **over 55+ open source packages** written in **Go** and **Rust** on [my github](https://github.com/andreimerlescu?tab=repositories). I'm a professional of 17 years in Computer Engineer. Respectively released under **MIT**, **Apache 2.0**, **GPL-3** and **AGPL-3**, the packages that I have written are available free of charge under these terms. Should you find value in what I built, and you're using it, consider [contributing something](https://ko-fi.com/projectapario) to [Project Apario](https://github.com/ProjectApario) if you want show your gratitude for my efforts. If you need **additional help** implementing _anything I have built_, this is why my **consulting services** exist. You can hire me directly to help you for as little or as long of time that you need me. I'm flexible, available in your time zone, and willing to help.
 
