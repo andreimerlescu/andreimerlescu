@@ -2,9 +2,7 @@
 
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
-You may also call me **Raj Stelian**! (<small>pronounced <b>steh-lee-aHn</b></small> &mdash; [Why?](/IDenTITY.md))
-
-Please [Sponsor](https://github.com/sponsors/andreimerlescu) me! 
+Publisher of [i18n.software](https://www.i18n.software/)
 
 ## Skill Table
 
