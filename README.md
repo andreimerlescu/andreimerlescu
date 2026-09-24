@@ -2,7 +2,7 @@
 
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
-Publisher of [i18n.software](https://www.i18n.software/)
+Publisher of [i18n.software](https://www.i18n.software/). Inventor of [concert](https://github.com/andreimerlescu/concert), [room](https://github.com/andreimerlescu/room), [counter](https://github.com/andreimerlescu/counter), [genwordpass](https://github.com/andreimerlescu/genwordpass), [entpassgen](https://github.com/andreimerlescu/entpassgen), [figtree](https://github.com/andreimerlescu/figtree), [summarize](https://github.com/andreimerlescu/summarize), and much more!
 
 ## Skill Table
 
