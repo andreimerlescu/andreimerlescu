@@ -2,7 +2,26 @@
 
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
-Publisher of [i18n.software](https://www.i18n.software/). Inventor of [concert](https://github.com/andreimerlescu/concert), [room](https://github.com/andreimerlescu/room), [counter](https://github.com/andreimerlescu/counter), [genwordpass](https://github.com/andreimerlescu/genwordpass), [entpassgen](https://github.com/andreimerlescu/entpassgen), [figtree](https://github.com/andreimerlescu/figtree), [summarize](https://github.com/andreimerlescu/summarize), and much more! 
+Publisher of [i18n.software](https://www.i18n.software/). 
+Publisher of [toktail.app](https://www.toktail.app/).
+
+**Open Source Suite — Sovereign Software**
+
+1. [toktail](https://github.com/playandprosper/toktail) 🦊 Count and track your AI usage 
+2. [roc](https://github.com/andreimerlescu/roc) 🪨 Run OpenCode/Claude/Codex/Goose inside Docker Container
+3. [lemmings](https://github.com/andreimerlescu/lemmings) 🐿️ Load Test With Stateful Sessions and Cookies Per Test
+4. [sovereign](https://github.com/andreimerlescu/sovereign) ☦️ Distributed Lemmings Load Test In Public Cloud
+5. [igo](https://github.com/andreimerlescu/igo) 🔁 Universal Go Installer (No Sudo) + Multiple Go Versions
+6. [rusty-xrp-addr](https://github.com/andreimerlescu/rusty-xrp-addr) 🤑 Vanity XRP Address Finder w/ 1Password API Integration
+7. [concert](https://github.com/andreimerlescu/concert) 🎸 A reverse proxy FIFO waiting room to protect small hosts
+8. [room](https://github.com/andreimerlescu/room) 🚪 A gin-gonic Go middleware FIFO waiting room to protect web servers
+9. [nattr](https://github.com/andreimerlescu/naddr) ⛓️‍💥 An IPv4, IPv6 and IPv8 helper utility based on iptoasn.com)
+10. [counter](https://github.com/andreimerlescu/counter) ➕ A go utility designed for counting things.
+11. [skills](https://github.com/andreimerlescu/skills) 🧠 Skills my AI Agents use
+12. [bump](https://github.com/andreimerlescu/bump) 🥰 Version management that is DevOps friendly
+13. [figtree](https://github.com/andreimerlescu/figtree) 🍈 Configuration management that is DevSecOps friendly
+14. [i18n](https://www.i18n.software) 🎙️ — $ | $$$ — Pipeline software for managing i18n + AI workflows in business scenarios (Open Source 11/11/2044)
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andreimerlescu)
 
