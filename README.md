@@ -4,6 +4,7 @@
 
 Publisher of [i18n.software](https://www.i18n.software/). 
 Publisher of [toktail.app](https://www.toktail.app/).
+Publisher of [counthis.app](https://www.counthis.app/). 
 
 **Open Source Suite — Sovereign Software**
 
