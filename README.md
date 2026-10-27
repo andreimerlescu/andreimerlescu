@@ -16,7 +16,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 6. [rusty-xrp-addr](https://github.com/andreimerlescu/rusty-xrp-addr) 🤑 Vanity XRP Address Finder w/ 1Password API Integration
 7. [concert](https://github.com/andreimerlescu/concert) 🎸 A reverse proxy FIFO waiting room to protect small hosts
 8. [room](https://github.com/andreimerlescu/room) 🚪 A gin-gonic Go middleware FIFO waiting room to protect web servers
-9. [nattr](https://github.com/andreimerlescu/naddr) ⛓️‍💥 An IPv4, IPv6 and IPv8 helper utility based on iptoasn.com)
+9. [naddr](https://github.com/andreimerlescu/naddr) ⛓️‍💥 An IPv4, IPv6 and IPv8 helper utility based on iptoasn.com)
 10. [counter](https://github.com/andreimerlescu/counter) ➕ A go utility designed for counting things.
 11. [skills](https://github.com/andreimerlescu/skills) 🧠 Skills my AI Agents use
 12. [bump](https://github.com/andreimerlescu/bump) 🥰 Version management that is DevOps friendly
