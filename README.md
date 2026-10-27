@@ -36,12 +36,16 @@ _begin using them. counters always count for free. displaying over 369+ is $0.00
 ![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique)
 
 ![Skills Impressions](https://counthis.app/github?repository=andreimerlescu/skills&label=Skills%20Impressions)
+
+![Colorful](https://counthis.app/github?user=playandprosper&label=Colorful&background=48289f)
+
 ```
 
 produces
 
 ![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique)
 ![Skills Impressions](https://counthis.app/github?repository=andreimerlescu/skills&label=Skills%20Impressions)
+![Colorful](https://counthis.app/github?user=playandprosper&label=Colorful&background=48289f)
 
 Does your website or service want to support your users in the same manner? Request your own `/mycompany?user=<my-customers-username>` natively in the [counthis.app](https://www.counthis.app) by sending me an email at ops@counthis.app to request this service. For example, when I was doing MuggleNet work in the past, I would have registered `/mni?user=aseveruspotter&label=Hits` so I could have a hit counter on my profile. When MySpace returns, I'll get `/my?space=andreimerlescu` prepared for that day. Counters are useful for a lot of good reasons and having them accessible to you is the point of why its free and will always count your counters regardless of whether you pay me. To see what your counter is at, requires you to pay me. What does that truly mean? If you lapse in payment you do not lose your counters. You can come back to me and we let bygones be bygones. If you have 7.77 RLUSD for me then I have 500 counters for you, including the counters you previously had. 
 
