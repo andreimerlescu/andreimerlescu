@@ -28,7 +28,7 @@ _instant counthis.app demo 👇_
 
 ![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
-_begin using them. counters always count for free. displaying over 369+ is $0.001295 per counter per month paid in groups of 500 counters annually at $7.77 in either USD via Stripe or 7.77 RLUSD via XRP. your choice._
+_begin using them. counters always count for free. displaying over 369+ is $0.001295 per counter per month paid in groups of 500 counters annually at $7.77 in either USD via Stripe or 7.77 RLUSD via XRP. your choice. stack multiples of 500 for thousands of counters for every system you need a counter for._
 
 ## Skill Table
 
