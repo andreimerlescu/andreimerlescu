@@ -22,7 +22,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 12. [bump](https://github.com/andreimerlescu/bump) 🥰 Version management that is DevOps friendly
 13. [figtree](https://github.com/andreimerlescu/figtree) 🍈 Configuration management that is DevSecOps friendly
 14. [i18n](https://www.i18n.software) 🎙️ — $ | $$$ — Pipeline software for managing i18n + AI workflows in business scenarios (Open Source 11/11/2044)
-
+15. [counthis.app](https://www.counthis.app] ➕ — Freemium | $ — Atomic counters built for agents at $7.77 per year per 500 counters via USD / RLUSD
 
 ![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
