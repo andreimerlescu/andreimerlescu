@@ -30,6 +30,19 @@ _instant counthis.app demo 👇_
 
 _begin using them. counters always count for free. displaying over 369+ is $0.001295 per counter per month paid in groups of 500 counters annually at $7.77 in either USD via Stripe or 7.77 RLUSD via XRP. your choice. stack multiples of 500 for thousands of counters for every system you need a counter for._
 
+### Example of [counthis.app](https://www.counthis.app/?from=github/andreimerlescu)
+
+```md
+![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique)
+
+![Skills Impressions](https://counthis.app/github?repository=andreimerlescu/skills&label=Skills%20Impressions)
+```
+
+produces
+
+![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique)
+![Skills Impressions](https://counthis.app/github?repository=andreimerlescu/skills&label=Skills%20Impressions)
+
 ## Skill Table
 
 **STAFF COMPUTER ENGINEER DISTRIUBUTED SYSTEMS ARCHITECT**
