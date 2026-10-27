@@ -24,9 +24,11 @@ Publisher of [counthis.app](https://www.counthis.app/).
 14. [i18n](https://www.i18n.software) 🎙️ — $ | $$$ — Pipeline software for managing i18n + AI workflows in business scenarios (Open Source 11/11/2044)
 15. [counthis.app](https://www.counthis.app) ➕ — Freemium | $ — Atomic counters built for agents at $7.77 per year per 500 counters via USD / RLUSD
 
-_demo 👇_
+_instant counthis.app demo 👇_
 
 ![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
+_begin using them. counters always count for free. displaying over 369+ is $0.001295 per counter per month paid in groups of 500 counters annually at $7.77 in either USD via Stripe or 7.77 RLUSD via XRP. your choice._
 
 ## Skill Table
 
