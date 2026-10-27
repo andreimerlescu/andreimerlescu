@@ -24,7 +24,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 14. [i18n](https://www.i18n.software) 🎙️ — $ | $$$ — Pipeline software for managing i18n + AI workflows in business scenarios (Open Source 11/11/2044)
 
 
-![Visitors](https://counthis.app/g/iblxa22xzx6hk6cw)
+![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
 ## Skill Table
 
