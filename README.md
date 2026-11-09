@@ -7,7 +7,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 Publisher of [toktail.app](https://www.toktail.app/).
 Publisher of [i18n.software](https://www.i18n.software/). 
 
-Interested in #FractionalCTO with me? Connect online 📞 https://cal.com/andreimerlescu 🎙️ 
+Consulting services start at $1K/mo that include 1 hour per week then $225/hr after 📞 https://cal.com/andreimerlescu 🎙️ 
 
 **Open Source Suite — Sovereign Software**
 
