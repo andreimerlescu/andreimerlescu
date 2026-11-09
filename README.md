@@ -7,6 +7,8 @@ Publisher of [counthis.app](https://www.counthis.app/).
 Publisher of [toktail.app](https://www.toktail.app/).
 Publisher of [i18n.software](https://www.i18n.software/). 
 
+Interested in #FractionalCTO with me? Connect online 📞 https://cal.com/andreimerlescu 🎙️ 
+
 **Open Source Suite — Sovereign Software**
 
 1. [toktail](https://github.com/playandprosper/toktail) 🦊 Count and track your AI usage 
