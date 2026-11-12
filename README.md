@@ -7,7 +7,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 Publisher of [toktail.app](https://www.toktail.app/).
 Publisher of [i18n.software](https://www.i18n.software/). 
 
-**FALL SPECIAL:** Consulting starts at $1K/mo w/ 3 hours per week then $369/hr after 📞 https://cal.com/andreimerlescu 🎙️ 
+** 📞 Call Me:** Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu). 
 
 **Open Source Suite — Sovereign Software**
 
