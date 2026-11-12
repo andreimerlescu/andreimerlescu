@@ -24,7 +24,6 @@ Publisher of [i18n.software](https://www.i18n.software/).
    - Talk Enterprise Tech
    - Talk Politics? 🤮 #hardpass
    - Talk Project Apario? 🤮 #hardpass
-   - Talk of Jesus or Yeshua? 🦻🏻🤝🫶🏻👋☦️ (if Dad wants the $1K/fee to be resown, let's talk &mdash; my father is in heaven, literally.)
 
 **Open Source Suite — Sovereign Software**
 
