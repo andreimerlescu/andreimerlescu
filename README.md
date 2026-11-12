@@ -7,7 +7,7 @@ Publisher of [counthis.app](https://www.counthis.app/).
 Publisher of [toktail.app](https://www.toktail.app/).
 Publisher of [i18n.software](https://www.i18n.software/). 
 
-** 📞 Call Me:** Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu). 
+<b>📞 Call Me:</b> Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu). 
 
 **Open Source Suite — Sovereign Software**
 
