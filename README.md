@@ -7,7 +7,11 @@ Publisher of [counthis.app](https://www.counthis.app/).
 Publisher of [toktail.app](https://www.toktail.app/).
 Publisher of [i18n.software](https://www.i18n.software/). 
 
-<b>📞 Call Me:</b> Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu). 
+<b>📞 Let's connect 🚀</b> &mdash; Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu). 
+1. say hello &mdash; 15 min free
+2. fractional cto &mdash; $123/hr &mdash; 3-hr blocks available Monday-Friday 9AM-5PM
+3. hackathon &mdash; $369 fee becomes project budget (up to 9 participants each) 
+4. media appearance interview &mdash; $1,000 fee &mdash; virtual only (no AI) 
 
 **Open Source Suite — Sovereign Software**
 
