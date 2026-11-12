@@ -9,12 +9,15 @@ Publisher of [i18n.software](https://www.i18n.software/).
 
 <b>📞 Let's connect 🚀</b> &mdash; Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu)
 1. say hello &mdash; 15 min free
-2. fractional cto &mdash; $123/hr &mdash; 3-hr blocks available Monday-Friday 9AM-5PM
-3. hackathon &mdash; $369 fee
+   - one per person max
+3. fractional cto &mdash; $123/hr &mdash; 3-hr blocks available Monday-Friday
+   - up to 72 hours per week
+   - on-site available for +$123/hr
+5. hackathon &mdash; $369 fee
    - up to 9 participants
    - up to $369 project budget
    - result becomes open source
-4. media appearance interview &mdash; $1,000 fee &mdash; virtual only (no AI) 
+6. media appearance interview &mdash; $1,000 fee &mdash; virtual only (no AI) 
    - Talk Non-AI Tech
    - Talk AI Tech
    - Talk Open Source
