@@ -10,8 +10,18 @@ Publisher of [i18n.software](https://www.i18n.software/).
 <b>📞 Let's connect 🚀</b> &mdash; Book an appointment through [📅 cal.com/andreimerlescu](https://cal.com/andreimerlescu)
 1. say hello &mdash; 15 min free
 2. fractional cto &mdash; $123/hr &mdash; 3-hr blocks available Monday-Friday 9AM-5PM
-3. hackathon &mdash; $369 fee becomes project budget (up to 9 participants each) 
+3. hackathon &mdash; $369 fee
+  1. up to 9 participants
+  2. up to $369 project budget
+  3. result becomes open source
 4. media appearance interview &mdash; $1,000 fee &mdash; virtual only (no AI) 
+  1. Talk Non-AI Tech
+  2. Talk AI Tech
+  3. Talk Open Source
+  4. Talk Enterprise Tech
+  5. Talk Politics? 🤮 #hardpass
+  6. Talk Project Apario? 🤮 #hardpass
+  7. Talk of Jesus or Yeshua? 🦻🏻🤝🫶🏻👋☦️ (if Dad wants the $1K/fee to be resown, let's talk &mdash; my father is in heaven, literally.)
 
 **Open Source Suite — Sovereign Software**
 
