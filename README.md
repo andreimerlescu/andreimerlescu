@@ -1,6 +1,7 @@
 ## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)
 
 [![Github](https://img.shields.io/github/followers/andreimerlescu?label=Follow&style=social)](https://github.com/andreimerlescu)
+![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
@@ -47,7 +48,8 @@ Publisher of [i18n.software](https://www.i18n.software/).
 
 _instant counthis.app demo 👇_
 
-![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+![Unique](https://counthis.app/github?user=andreimerlescu&label=Unique) 
+![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
 _begin using them. counters always count for free. displaying over 369+ is $0.001295 per counter per month paid in groups of 500 counters annually at $7.77 in either USD via Stripe or 7.77 RLUSD via XRP. your choice. stack multiples of 500 for thousands of counters for every system you need a counter for._
 
