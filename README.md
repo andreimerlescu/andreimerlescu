@@ -1,5 +1,7 @@
 ## Hey There 👋 I'm Andrei! (<small>pronounced <b>aHn-dRay</b></small>)
 
+[![Github](https://img.shields.io/github/followers/andreimerlescu?label=Follow&style=social)](https://github.com/andreimerlescu)
+
 **I'm a:** 21+ Year Computer Engineer · Entrepreneur · Neurodivergent · Polyglot Programmer &amp; Speaker · [Origin](https://dev.to/andreimerlescu/my-professional-story-two-names-thirty-years-of-scaffolded-code-and-the-ai-that-cant-tell-im-1e2l)
 
 Publisher of [graphicle.dev](https://www.graphicle.dev/).
