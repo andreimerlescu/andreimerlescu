@@ -30,19 +30,19 @@ Publisher of [i18n.software](https://www.i18n.software/).
 
 **Open Source Suite — Sovereign Software**
 
-1. [toktail](https://github.com/playandprosper/toktail) 🦊 Count and track your AI usage 
-2. [roc](https://github.com/andreimerlescu/roc) 🪨 Run OpenCode/Claude/Codex/Goose inside Docker Container
-3. [lemmings](https://github.com/andreimerlescu/lemmings) 🐿️ Load Test With Stateful Sessions and Cookies Per Test
-4. [sovereign](https://github.com/andreimerlescu/sovereign) ☦️ Distributed Lemmings Load Test In Public Cloud
-5. [igo](https://github.com/andreimerlescu/igo) 🔁 Universal Go Installer (No Sudo) + Multiple Go Versions
-6. [rusty-xrp-addr](https://github.com/andreimerlescu/rusty-xrp-addr) 🤑 Vanity XRP Address Finder w/ 1Password API Integration
-7. [concert](https://github.com/andreimerlescu/concert) 🎸 A reverse proxy FIFO waiting room to protect small hosts
-8. [room](https://github.com/andreimerlescu/room) 🚪 A gin-gonic Go middleware FIFO waiting room to protect web servers
-9. [naddr](https://github.com/andreimerlescu/naddr) ⛓️‍💥 An IPv4, IPv6 and IPv8 helper utility based on iptoasn.com)
-10. [counter](https://github.com/andreimerlescu/counter) ➕ A go utility designed for counting things.
+1. [toktail](https://github.com/playandprosper/toktail) 🦊 Count and track your AI usage ![GitHub Release Date](https://img.shields.io/github/release-date/playandprosper/toktail?display_date=published_at&style=social&label=Latest+release)
+2. [roc](https://github.com/andreimerlescu/roc) 🪨 Run OpenCode/Claude/Codex/Goose inside Docker Container ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/roc?display_date=published_at&style=social&label=Latest+release)
+3. [lemmings](https://github.com/andreimerlescu/lemmings) 🐿️ Load Test With Stateful Sessions and Cookies Per Test ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/lemmings?display_date=published_at&style=social&label=Latest+release)
+4. [sovereign](https://github.com/andreimerlescu/sovereign) ☦️ Distributed Lemmings Load Test In Public Cloud ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/sovereign?display_date=published_at&style=social&label=Latest+release)
+5. [igo](https://github.com/andreimerlescu/igo) 🔁 Universal Go Installer (No Sudo) + Multiple Go Versions ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/igo?display_date=published_at&style=social&label=Latest+release)
+6. [rusty-xrp-addr](https://github.com/andreimerlescu/rusty-xrp-addr) 🤑 Vanity XRP Address Finder w/ 1Password API Integration ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/rusty-xrp-addr?display_date=published_at&style=social&label=Latest+release)
+7. [concert](https://github.com/andreimerlescu/concert) 🎸 A reverse proxy FIFO waiting room to protect small hosts ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/concert?display_date=published_at&style=social&label=Latest+release)
+8. [room](https://github.com/andreimerlescu/room) 🚪 A gin-gonic Go middleware FIFO waiting room to protect web servers ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/room?display_date=published_at&style=social&label=Latest+release)
+9. [naddr](https://github.com/andreimerlescu/naddr) ⛓️‍💥 An IPv4, IPv6 and IPv8 helper utility based on iptoasn.com) ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/naddr?display_date=published_at&style=social&label=Latest+release)
+10. [counter](https://github.com/andreimerlescu/counter) ➕ A go utility designed for counting things. ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/counter?display_date=published_at&style=social&label=Latest+release)
 11. [skills](https://github.com/andreimerlescu/skills) 🧠 Skills my AI Agents use
-12. [bump](https://github.com/andreimerlescu/bump) 🥰 Version management that is DevOps friendly
-13. [figtree](https://github.com/andreimerlescu/figtree) 🍈 Configuration management that is DevSecOps friendly
+12. [bump](https://github.com/andreimerlescu/bump) 🥰 Version management that is DevOps friendly ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/bump?display_date=published_at&style=social&label=Latest+release)
+13. [figtree](https://github.com/andreimerlescu/figtree) 🍈 Configuration management that is DevSecOps friendly ![GitHub Release Date](https://img.shields.io/github/release-date/andreimerlescu/figtree?display_date=published_at&style=social&label=Latest+release)
 14. [i18n](https://www.i18n.software) 🎙️ — $ | $$$ — Pipeline software for managing i18n + AI workflows in business scenarios (Open Source 11/11/2044)
 15. [counthis.app](https://www.counthis.app) ➕ — Freemium | $ — Atomic counters built for agents at $7.77 per year per 500 counters via USD / RLUSD
 
